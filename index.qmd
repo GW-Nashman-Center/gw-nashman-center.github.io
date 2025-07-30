@@ -1,95 +1,47 @@
 ---
-title: "Welcome to Your Organization"
+title: "GW Nashman Center Open Education Resources (OER)"
 page-layout: custom
 toc: false
 ---
 
 ::: {.hero-banner}
-# Transforming Ideas Into Reality
+# Teaching/Learning Materials for Civic Learning
 
-We're a forward-thinking organization dedicated to innovation, collaboration, and making a positive impact in our community.
+The Honey W. Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence have collaborated with GW faculty to develop civic learning materials available for eveyone.  These new OER materials are available to all faculty and staff who hope to engage their students by introducing innovative cross-discipline classroom activities/assignments that foster civic learning.
+
 
 [Learn More](#about){.btn .btn-primary .btn-lg role="button"}
 [View Our Work](#portfolio){.btn .btn-outline-secondary .btn-lg role="button"}
 :::
 
 ::: {.content-block}
-## What We Do
+## Civic Tech Teaching Learning Materials
 
 ::: {.grid}
 ::: {.g-col-4}
-### Innovation
-We develop cutting-edge solutions that push boundaries and create new possibilities.
+### Developing
+Initiative to create ready-to-implement classroom activities or assignments to be distributed campus-wide for adaptation to a variety of disciplines
 :::
 
 ::: {.g-col-4}
-### Collaboration
-Our team works together with clients and partners to achieve shared goals.
+### Sharing
+Our team works together with faculty to help integrate these civic teaching materials into their curriculum.
 :::
 
 ::: {.g-col-4}
-### Impact
-Everything we do is designed to create meaningful, lasting change.
-:::
+### OER
+Open Educational Resources (OER) are teaching, learning, and research resources that are free of cost and access barriers, and which also carry legal permission for open use.:::
 :::
 :::
 
 ::: {#about .content-block}
-## About Our Mission
+## About Civic Learning Materials
 
-We believe in the power of technology and human creativity to solve complex problems. Our interdisciplinary team combines expertise in data science, web development, and strategic planning to deliver exceptional results.
+The Honey W. Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence invite faculty from all academic disciplines to develop and share an innovative classroom activity/assignment that fosters civic learning.
 
-### Key Statistics
+We believe every college graduate—whether in social sciences, the arts, humanities, business, or STEM —should be prepared to engage as an active citizen. This project aims to provide resources for faculty across disciplines to prepare students with the skills and motivations needed to work to make a difference in the quality of life in the community, through both political and non-political processes.
 
-```{python}
-#| echo: false
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-
-# Sample organizational data
-data = {
-    'Year': [2020, 2021, 2022, 2023, 2024],
-    'Projects': [15, 23, 31, 42, 58],
-    'Team_Size': [8, 12, 18, 25, 32],
-    'Client_Satisfaction': [4.2, 4.4, 4.6, 4.7, 4.8]
-}
-
-df = pd.DataFrame(data)
-
-# Create interactive chart
-fig = go.Figure()
-
-fig.add_trace(go.Scatter(
-    x=df['Year'], 
-    y=df['Projects'],
-    mode='lines+markers',
-    name='Projects Completed',
-    line=dict(color='#1f77b4', width=3),
-    marker=dict(size=8)
-))
-
-fig.add_trace(go.Scatter(
-    x=df['Year'], 
-    y=df['Team_Size'],
-    mode='lines+markers',
-    name='Team Size',
-    yaxis='y2',
-    line=dict(color='#ff7f0e', width=3),
-    marker=dict(size=8)
-))
-
-fig.update_layout(
-    title='Our Growth Over Time',
-    xaxis_title='Year',
-    yaxis=dict(title='Projects Completed', side='left'),
-    yaxis2=dict(title='Team Members', side='right', overlaying='y'),
-    hovermode='x unified',
-    height=400
-)
-
-fig.show()
-```
+Activities or assignments will create opportunities for students to use academic skills in civic contexts, for example, analyzing an issue or policy, or communicating complex issues (scientific, economic, etc.) to public audiences.
 
 :::
 
@@ -98,19 +50,19 @@ fig.show()
 
 ::: {.grid}
 ::: {.g-col-6}
-### Data Analytics Platform
-Built a comprehensive analytics dashboard for a Fortune 500 company, processing over 1M records daily.
+### OER example 1
+Activity ........
 
-**Technologies:** Python, PostgreSQL, React  
-**Impact:** 40% improvement in decision-making speed
+**Topic** voting registration  
+**Discipline** data science
 :::
 
 ::: {.g-col-6}
-### Community Health Initiative
-Developed a public health tracking system to monitor and improve community wellness metrics.
+### OER Material 2
+Assignment ........
 
-**Technologies:** R, Shiny, SQLite  
-**Impact:** Served 50,000+ community members
+**Topic:** Gerrymandering  
+**Discipline:** Geography
 :::
 :::
 :::
@@ -118,9 +70,12 @@ Developed a public health tracking system to monitor and improve community welln
 ::: {.cta-section}
 ## Ready to Work Together?
 
-Let's discuss how we can help bring your vision to life.
+Please reach out to the Nashman Center.
+ - Address: 2300 H Street NW, Suite 400
+         Washington, D.C. 20037
+ - Phone: 202-994-9900 
+ - Email: gwserves@gwu.edu
 
-[Get In Touch](contact.qmd){.btn .btn-primary .btn-lg role="button"}
 :::
 
 ```{=html}
