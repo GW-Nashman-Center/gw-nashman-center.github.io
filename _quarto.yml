@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GW Nashman Center"
+  description: "Everything you need to know about the Nashman Center's Open Educational Resources"
+  
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+    
+    right:
+      - icon: github
+        href: https://github.com/gw-ospo/
+
+  sidebar:
+    - title: "Resources"
+      contents:
+        - section: "Documentation"
+          contents:
+            - docs/getting-started.qmd
+            - docs/api-reference.qmd
+        - section: "Guides"
+          contents:
+            - guides/tutorial.qmd
+            - guides/best-practices.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    
+execute:
+  freeze: auto

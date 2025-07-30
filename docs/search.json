@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/black-25.1.0.dist-info/licenses/AUTHORS.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/black-25.1.0.dist-info/licenses/AUTHORS.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nAuthors\nGlued together by Łukasz Langa.\nMaintained with:\n\nCarol Willing\nCarl Meyer\nJelle Zijlstra\nMika Naylor\nZsolt Dollenstein\nCooper Lees\nRichard Si\nFelix Hildén\nBatuhan Taskaya\nShantanu Jain\n\nMultiple contributions by:\n\nAbdur-Rahmaan Janhangeer\nAdam Johnson\nAdam Williamson\nAlexander Huynh\nAlexandr Artemyev\nAlex Vandiver\nAllan Simon\nAnders-Petter Ljungquist\nAmethyst Reese\nAndrew Thorp\nAndrew Zhou\nAndrey\nAndy Freeland\nAnthony Sottile\nAntonio Ossa Guerra\nArjaan Buijk\nArnav Borbornah\nArtem Malyshev\nAsger Hautop Drewsen\nAugie Fackler\nAviskar KC\nBatuhan Taşkaya\nBenjamin Wohlwend\nBenjamin Woodruff\nBharat Raghunathan\nBrandt Bucher\nBrett Cannon\nBryan Bugyi\nBryan Forbes\nCalum Lind\nCharles\nCharles Reid\nChristian Clauss\nChristian Heimes\nChuck Wooters\nChris Rose\nCodey Oxley\nCong\nCooper Ry Lees\nDan Davison\nDaniel Hahler\nDaniel M. Capella\nDaniele Esposti\nDavid Hotham\nDavid Lukes\nDavid Szotten\nDenis Laxalde\nDouglas Thor\ndylanjblack\nEli Treuherz\nEmil Hessman\nFelix Kohlgrüber\nFlorent Thiery\nFrancisco\nGiacomo Tagliabue\nGreg Gandenberger\nGregory P. Smith\nGustavo Camargo\nhauntsaninja\nHadi Alqattan\nHassan Abouelela\nHeaford\nHugo Barrera\nHugo van Kemenade\nHynek Schlawack\nIonite\nIvan Katanić\nJakub Kadlubiec\nJakub Warczarek\nJan Hnátek\nJason Fried\nJason Friedland\njgirardet\nJim Brännlund\nJimmy Jia\nJoe Antonakakis\nJon Dufresne\nJonas Obrist\nJonty Wareing\nJose Nazario\nJoseph Larson\nJosh Bode\nJosh Holland\nJoshua Cannon\nJosé Padilla\nJuan Luis Cano Rodríguez\nkaiix\nKatie McLaughlin\nKatrin Leinweber\nKeith Smiley\nKenyon Ralph\nKevin Kirsche\nKyle Hausmann\nKyle Sunden\nLawrence Chan\nLinus Groh\nLoren Carvalho\nLuka Sterbic\nLukasDrude\nMahmoud Hossam\nMariatta\nMatt VanEseltine\nMatthew Clapp\nMatthew Walster\nMax Smolens\nMichael Aquilina\nMichael Flaxman\nMichael J. Sullivan\nMichael McClimon\nMiguel Gaiowski\nMike\nmikehoyio\nMin ho Kim\nMiroslav Shubernetskiy\nMomIsBestFriend\nNathan Goldbaum\nNathan Hunt\nNeraste\nNikolaus Waxweiler\nOfek Lev\nOsaetin Daniel\notstrel\nPablo Galindo\nPaul Ganssle\nPaul Meinhardt\nPeter Bengtsson\nPeter Grayson\nPeter Stensmyr\npmacosta\nQuentin Pradet\nRalf Schmitt\nRamón Valles\nRichard Fearn\nRishikesh Jha\nRupert Bedford\nRussell Davis\nSagi Shadur\nRémi Verschelde\nSami Salonen\nSamuel Cormier-Iijima\nSanket Dasgupta\nSergi\nScott Stevenson\nShantanu\nshaoran\nShinya Fujino\nspringstan\nStavros Korokithakis\nStephen Rosen\nSteven M. Vascellaro\nSunil Kapil\nSébastien Eustace\nTal Amuyal\nTerrance\nThom Lu\nThomas Grainger\nTim Gates\nTim Swast\nTimo\nToby Fleming\nTom Christie\nTony Narlock\nTsuyoshi Hombashi\nTushar Chandra\nTushar Sadhwani\nTzu-ping Chung\nUtsav Shah\nutsav-dbx\nvezeli\nVille Skyttä\nVishwas B Sharma\nVlad Emelianov\nwilliamfzc\nwouter bolsterlee\nYazdan\nYngve Høiseth\nYurii Karabas\nZac Hatfield-Dodds"
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_indexing.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_indexing.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nCopyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/narwhals-2.0.1.dist-info/licenses/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/narwhals-2.0.1.dist-info/licenses/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nMIT License\nCopyright (c) 2024, Marco Gorelli\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/cffi/recompiler.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/cffi/recompiler.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nCopyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nMIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Welcome to Your Organization",
+    "section": "What We Do",
+    "text": "What We Do\n\n\nInnovation\nWe develop cutting-edge solutions that push boundaries and create new possibilities.\n\n\nCollaboration\nOur team works together with clients and partners to achieve shared goals.\n\n\nImpact\nEverything we do is designed to create meaningful, lasting change."
+  },
+  {
+    "objectID": "index.html#about-our-mission",
+    "href": "index.html#about-our-mission",
+    "title": "Welcome to Your Organization",
+    "section": "About Our Mission",
+    "text": "About Our Mission\nWe believe in the power of technology and human creativity to solve complex problems. Our interdisciplinary team combines expertise in data science, web development, and strategic planning to deliver exceptional results.\n\nKey Statistics"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Welcome to Your Organization",
+    "section": "Recent Work",
+    "text": "Recent Work\n\n\nData Analytics Platform\nBuilt a comprehensive analytics dashboard for a Fortune 500 company, processing over 1M records daily.\nTechnologies: Python, PostgreSQL, React\nImpact: 40% improvement in decision-making speed\n\n\nCommunity Health Initiative\nDeveloped a public health tracking system to monitor and improve community wellness metrics.\nTechnologies: R, Shiny, SQLite\nImpact: Served 50,000+ community members"
+  },
+  {
+    "objectID": "index.html#ready-to-work-together",
+    "href": "index.html#ready-to-work-together",
+    "title": "Welcome to Your Organization",
+    "section": "Ready to Work Together?",
+    "text": "Ready to Work Together?\nLet’s discuss how we can help bring your vision to life.\nGet In Touch"
+  },
+  {
+    "objectID": "readme_md.html",
+    "href": "readme_md.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "readme_md.html#features",
+    "href": "readme_md.html#features",
+    "title": "",
+    "section": "Features",
+    "text": "Features\n\n🎨 Modern, responsive design with custom styling\n📊 Interactive data dashboards with Plotly\n🚀 Automatic deployment to GitHub Pages\n📱 Mobile-friendly layout\n🔍 Built-in search functionality\n📈 Real-time metrics simulation\n🎯 SEO optimized"
+  },
+  {
+    "objectID": "readme_md.html#quick-start",
+    "href": "readme_md.html#quick-start",
+    "title": "",
+    "section": "Quick Start",
+    "text": "Quick Start\n\nPrerequisites\n\nPython 3.8+\nQuarto CLI\nGit\n\n\n\nLocal Development\n\nClone the repository\ngit clone https://github.com/yourusername/your-org-website.git\ncd your-org-website\nInstall Python dependencies\npip install -r requirements.txt\nInstall Quarto\n\nDownload from https://quarto.org/docs/get-started/\nOr use conda: conda install -c conda-forge quarto\n\nPreview the site locally\nquarto preview\nBuild the site\nquarto render\n\n\n\nGitHub Pages Deployment\n\nEnable GitHub Pages\n\nGo to your repository settings\nNavigate to Pages section\nSet source to “GitHub Actions”\n\nPush to main branch\ngit add .\ngit commit -m \"Initial site setup\"\ngit push origin main\nAutomatic deployment\n\nThe GitHub Action will automatically build and deploy your site\nCheck the Actions tab for build status\nYour site will be available at https://yourusername.github.io/your-repo-name"
+  },
+  {
+    "objectID": "readme_md.html#project-structure",
+    "href": "readme_md.html#project-structure",
+    "title": "",
+    "section": "Project Structure",
+    "text": "Project Structure\n├── _quarto.yml           # Main configuration\n├── index.qmd            # Home page\n├── dashboard.qmd        # Data dashboard\n├── about.qmd            # About page\n├── services.qmd         # Services page\n├── team.qmd             # Team page\n├── contact.qmd          # Contact page\n├── custom.scss          # Custom styling\n├── requirements.txt     # Python dependencies\n├── .github/\n│   └── workflows/\n│       └── quarto-publish.yml  # Deployment workflow\n└── docs/               # Generated site (auto-created)"
+  },
+  {
+    "objectID": "readme_md.html#customization",
+    "href": "readme_md.html#customization",
+    "title": "",
+    "section": "Customization",
+    "text": "Customization\n\nStyling\n\nEdit custom.scss for design changes\nModify color variables in the SCSS defaults section\nAdd custom CSS in individual .qmd files\n\n\n\nContent\n\nUpdate _quarto.yml for navigation and site settings\nEdit .qmd files for page content\nAdd new pages by creating new .qmd files\n\n\n\nData Integration\n\nReplace sample data in dashboard with your real data\nConnect to external APIs for live data\nUse the Python environment for data processing"
+  },
+  {
+    "objectID": "readme_md.html#adding-dynamic-features",
+    "href": "readme_md.html#adding-dynamic-features",
+    "title": "",
+    "section": "Adding Dynamic Features",
+    "text": "Adding Dynamic Features\n\nExternal Data Sources\nSince GitHub Pages is static, for dynamic data you can:\n\nClient-side API calls\n// Fetch data from external API\nfetch('https://api.example.com/data')\n  .then(response =&gt; response.json())\n  .then(data =&gt; updateDashboard(data));\nScheduled data updates\n\nUse GitHub Actions to fetch data periodically\nCommit updated data files\nSite rebuilds automatically\n\nExternal services\n\nIntegrate with services like Airtable, Google Sheets\nUse Netlify Functions or Vercel for serverless functions\n\n\n\n\nDatabase Integration\nFor PostgreSQL integration in a static"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Ready to transform your data into actionable insights? We’d love to hear from you.\n\n\n\n\n    \n        Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message\n    \n    \n\n\n\n\n\n\n\n\n\nEmail\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed\n\n\n\n\nLinkedIn Twitter GitHub\n\n\n\n\n\n    Interactive Map\n    (Replace with actual map embed)\n\n\n\n\n\n\n\nQ: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
+  },
+  {
+    "objectID": "contact.html#send-us-a-message",
+    "href": "contact.html#send-us-a-message",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Email\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed"
+  },
+  {
+    "objectID": "contact.html#connect-with-us",
+    "href": "contact.html#connect-with-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "LinkedIn Twitter GitHub"
+  },
+  {
+    "objectID": "contact.html#office-location",
+    "href": "contact.html#office-location",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Interactive Map\n    (Replace with actual map embed)"
+  },
+  {
+    "objectID": "contact.html#frequently-asked-questions",
+    "href": "contact.html#frequently-asked-questions",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Q: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Data Dashboard",
+    "section": "",
+    "text": "This dashboard showcases our organization’s key metrics and performance indicators.\n\n\n\n\n## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::\n\n\n\n\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\n\n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-07-30 10:40:47"
+  },
+  {
+    "objectID": "dashboard.html#key-performance-indicators",
+    "href": "dashboard.html#key-performance-indicators",
+    "title": "Data Dashboard",
+    "section": "",
+    "text": "## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::"
+  },
+  {
+    "objectID": "dashboard.html#real-time-metrics-simulation",
+    "href": "dashboard.html#real-time-metrics-simulation",
+    "title": "Data Dashboard",
+    "section": "",
+    "text": "Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-07-30 10:40:47"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Founded in 2020, our organization has grown from a small team of passionate innovators into a leading force in data-driven solutions. We believe that the intersection of technology and human insight creates the most powerful outcomes.\n\n\nTo empower organizations with cutting-edge data solutions that drive meaningful decision-making and sustainable growth.\n\n\n\n\n\n\nWe constantly push the boundaries of what’s possible, embracing new technologies and methodologies to solve complex challenges.\n\n\n\nEvery project we undertake is built on a foundation of transparency, honesty, and ethical practices.\n\n\n\nWe measure our success not just in metrics, but in the positive change we create for our clients and communities.\n\n\n\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n\n\nBackground: Former VP of Analytics at TechCorp\nExpertise: Strategic planning, data science, team leadership\nFun fact: Marathon runner and coffee enthusiast\n\n\n\nBackground: Senior Engineer at DataFlow Inc.\nExpertise: Full-stack development, cloud architecture, DevOps\nFun fact: Builds mechanical keyboards in his spare time\n\n\n\n\n\nBackground: PhD in Statistics from Stanford\nExpertise: Machine learning, statistical modeling, research methodology\nFun fact: Published author and part-time yoga instructor\n\n\n\nBackground: 10+ years in consulting and project management\nExpertise: Client relations, project delivery, business development\nFun fact: Speaks four languages and loves cooking\n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n2024: “Best Data Analytics Firm” - TechReview Awards\n2023: “Innovation in Business Intelligence” - Analytics Excellence Awards\n\n2022: “Rising Star Company” - Business Weekly\n2021: “Best New Startup” - Local Business Association\n\n\n\n\nWe believe in giving back to the community that has supported our growth:\n\nEducation: Free workshops for students and nonprofits\nEnvironment: Carbon-neutral operations since 2022\nDiversity: 40% of our leadership team identifies as underrepresented minorities\nOpen Source: Contributing to 15+ open source projects\n\n\nReady to learn more about how we can help your organization succeed?\nContact Us View Our Services"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "",
+    "text": "To empower organizations with cutting-edge data solutions that drive meaningful decision-making and sustainable growth."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "About Us",
+    "section": "",
+    "text": "We constantly push the boundaries of what’s possible, embracing new technologies and methodologies to solve complex challenges.\n\n\n\nEvery project we undertake is built on a foundation of transparency, honesty, and ethical practices.\n\n\n\nWe measure our success not just in metrics, but in the positive change we create for our clients and communities."
+  },
+  {
+    "objectID": "about.html#leadership-team",
+    "href": "about.html#leadership-team",
+    "title": "About Us",
+    "section": "",
+    "text": "Background: Former VP of Analytics at TechCorp\nExpertise: Strategic planning, data science, team leadership\nFun fact: Marathon runner and coffee enthusiast\n\n\n\nBackground: Senior Engineer at DataFlow Inc.\nExpertise: Full-stack development, cloud architecture, DevOps\nFun fact: Builds mechanical keyboards in his spare time\n\n\n\n\n\nBackground: PhD in Statistics from Stanford\nExpertise: Machine learning, statistical modeling, research methodology\nFun fact: Published author and part-time yoga instructor\n\n\n\nBackground: 10+ years in consulting and project management\nExpertise: Client relations, project delivery, business development\nFun fact: Speaks four languages and loves cooking"
+  },
+  {
+    "objectID": "about.html#industry-recognition",
+    "href": "about.html#industry-recognition",
+    "title": "About Us",
+    "section": "",
+    "text": "2024: “Best Data Analytics Firm” - TechReview Awards\n2023: “Innovation in Business Intelligence” - Analytics Excellence Awards\n\n2022: “Rising Star Company” - Business Weekly\n2021: “Best New Startup” - Local Business Association"
+  },
+  {
+    "objectID": "about.html#our-commitment-to-community",
+    "href": "about.html#our-commitment-to-community",
+    "title": "About Us",
+    "section": "",
+    "text": "We believe in giving back to the community that has supported our growth:\n\nEducation: Free workshops for students and nonprofits\nEnvironment: Carbon-neutral operations since 2022\nDiversity: 40% of our leadership team identifies as underrepresented minorities\nOpen Source: Contributing to 15+ open source projects\n\n\nReady to learn more about how we can help your organization succeed?\nContact Us View Our Services"
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nBSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nBSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nCopyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/numpy/random/LICENSE.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/numpy/random/LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nThis software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_constructors.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_constructors.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/datetimes/test_indexing.html",
+    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/datetimes/test_indexing.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  }
+]

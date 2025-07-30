@@ -1,0 +1,251 @@
+---
+title: "Data Dashboard"
+format: 
+  html:
+    code-tools: true
+    code-fold: true
+---
+
+# Interactive Data Dashboard
+
+This dashboard showcases our organization's key metrics and performance indicators.
+
+## Key Performance Indicators
+
+```{python}
+#| echo: false
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+import numpy as np
+from datetime import datetime, timedelta
+
+# Generate sample data
+np.random.seed(42)
+dates = pd.date_range(start='2023-01-01', end='2024-12-31', freq='D')
+n_days = len(dates)
+
+# Sample metrics data
+metrics_data = pd.DataFrame({
+    'Date': dates,
+    'Daily_Active_Users': np.random.poisson(1000, n_days) + np.sin(np.arange(n_days) * 2 * np.pi / 365) * 200 + 1000,
+    'Revenue': np.random.exponential(5000, n_days) + 2000,
+    'Customer_Satisfaction': np.random.normal(4.5, 0.3, n_days).clip(1, 5),
+    'Support_Tickets': np.random.poisson(50, n_days),
+    'Conversion_Rate': np.random.beta(2, 8, n_days) * 100
+})
+
+# Create KPI cards
+latest_data = metrics_data.iloc[-1]
+
+print("## Current Metrics")
+print(f"""
+::: {{.grid}}
+::: {{.g-col-3}}
+### Daily Users
+**{latest_data['Daily_Active_Users']:.0f}**  
+↗️ +12% vs last month
+:::
+
+::: {{.g-col-3}}
+### Revenue
+**${latest_data['Revenue']:,.0f}**  
+↗️ +8% vs last month
+:::
+
+::: {{.g-col-3}}
+### Satisfaction
+**{latest_data['Customer_Satisfaction']:.1f}/5.0**  
+→ Stable vs last month
+:::
+
+::: {{.g-col-3}}
+### Support Load
+**{latest_data['Support_Tickets']:.0f} tickets**  
+↘️ -5% vs last month
+:::
+:::
+""")
+```
+
+## Trends Over Time
+
+```{python}
+#| echo: false
+
+# Create subplots
+fig = make_subplots(
+    rows=2, cols=2,
+    subplot_titles=('Daily Active Users', 'Revenue Trends', 'Customer Satisfaction', 'Support Tickets'),
+    specs=[[{"secondary_y": False}, {"secondary_y": False}],
+           [{"secondary_y": False}, {"secondary_y": True}]]
+)
+
+# Daily Active Users
+fig.add_trace(
+    go.Scatter(x=metrics_data['Date'], y=metrics_data['Daily_Active_Users'],
+              mode='lines', name='Daily Users', line=dict(color='#1f77b4')),
+    row=1, col=1
+)
+
+# Revenue
+fig.add_trace(
+    go.Scatter(x=metrics_data['Date'], y=metrics_data['Revenue'],
+              mode='lines', name='Daily Revenue', line=dict(color='#ff7f0e')),
+    row=1, col=2
+)
+
+# Customer Satisfaction
+fig.add_trace(
+    go.Scatter(x=metrics_data['Date'], y=metrics_data['Customer_Satisfaction'],
+              mode='lines', name='Satisfaction', line=dict(color='#2ca02c')),
+    row=2, col=1
+)
+
+# Support Tickets with Conversion Rate overlay
+fig.add_trace(
+    go.Scatter(x=metrics_data['Date'], y=metrics_data['Support_Tickets'],
+              mode='lines', name='Support Tickets', line=dict(color='#d62728')),
+    row=2, col=2
+)
+
+fig.add_trace(
+    go.Scatter(x=metrics_data['Date'], y=metrics_data['Conversion_Rate'],
+              mode='lines', name='Conversion Rate %', line=dict(color='#9467bd')),
+    row=2, col=2, secondary_y=True
+)
+
+fig.update_layout(height=600, showlegend=True, title_text="Performance Dashboard")
+fig.show()
+```
+
+## Geographic Distribution
+
+```{python}
+#| echo: false
+
+# Sample geographic data
+geo_data = pd.DataFrame({
+    'Country': ['United States', 'Canada', 'United Kingdom', 'Germany', 'France', 
+                'Australia', 'Japan', 'Brazil', 'India', 'China'],
+    'Users': [15000, 3200, 2800, 2100, 1900, 1200, 1800, 900, 2500, 1100],
+    'Revenue': [450000, 96000, 84000, 63000, 57000, 36000, 54000, 27000, 75000, 33000]
+})
+
+# Create choropleth map
+fig = px.choropleth(geo_data, 
+                    locations='Country',
+                    locationmode='country names',
+                    color='Users',
+                    hover_name='Country',
+                    hover_data={'Revenue': ':$,.0f'},
+                    color_continuous_scale='Blues',
+                    title='User Distribution by Country')
+
+fig.update_layout(height=400)
+fig.show()
+```
+
+## Interactive Filters
+
+```{python}
+#| echo: false
+
+# Create filterable data table
+import plotly.graph_objects as go
+
+# Sample project data
+projects_data = pd.DataFrame({
+    'Project': [f'Project {i}' for i in range(1, 21)],
+    'Status': np.random.choice(['Completed', 'In Progress', 'Planning'], 20),
+    'Budget': np.random.uniform(10000, 100000, 20),
+    'Team_Size': np.random.randint(3, 15, 20),
+    'Duration_Days': np.random.randint(30, 365, 20),
+    'Client_Sector': np.random.choice(['Healthcare', 'Finance', 'Education', 'Technology'], 20)
+})
+
+fig = go.Figure(data=[go.Table(
+    header=dict(values=list(projects_data.columns),
+                fill_color='paleturquoise',
+                align='left'),
+    cells=dict(values=[projects_data[col] for col in projects_data.columns],
+               fill_color='lavender',
+               align='left'))
+])
+
+fig.update_layout(title='Current Projects Overview')
+fig.show()
+```
+
+## Real-time Metrics Simulation
+
+```{=html}
+<div id="realtime-metrics">
+<h3>Live Metrics</h3>
+<div class="metric-cards">
+    <div class="metric-card">
+        <h4>Active Sessions</h4>
+        <span id="active-sessions">Loading...</span>
+    </div>
+    <div class="metric-card">
+        <h4>Requests/min</h4>
+        <span id="requests-per-min">Loading...</span>
+    </div>
+    <div class="metric-card">
+        <h4>Response Time</h4>
+        <span id="response-time">Loading...</span>
+    </div>
+</div>
+</div>
+
+<style>
+.metric-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.metric-card h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.metric-card span {
+    font-size: 2rem;
+    font-weight: bold;
+    display: block;
+}
+</style>
+
+<script>
+// Simulate real-time metrics updates
+function updateMetrics() {
+    document.getElementById('active-sessions').textContent = 
+        Math.floor(Math.random() * 500 + 1200);
+    document.getElementById('requests-per-min').textContent = 
+        Math.floor(Math.random() * 100 + 250);
+    document.getElementById('response-time').textContent = 
+        (Math.random() * 50 + 20).toFixed(0) + 'ms';
+}
+
+// Update every 2 seconds
+setInterval(updateMetrics, 2000);
+updateMetrics(); // Initial load
+</script>
+```
+
+---
+
+*Dashboard last updated: `{python} datetime.now().strftime('%Y-%m-%d %H:%M:%S')`*

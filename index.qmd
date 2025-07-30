@@ -1,0 +1,159 @@
+---
+title: "Welcome to Your Organization"
+page-layout: custom
+toc: false
+---
+
+::: {.hero-banner}
+# Transforming Ideas Into Reality
+
+We're a forward-thinking organization dedicated to innovation, collaboration, and making a positive impact in our community.
+
+[Learn More](#about){.btn .btn-primary .btn-lg role="button"}
+[View Our Work](#portfolio){.btn .btn-outline-secondary .btn-lg role="button"}
+:::
+
+::: {.content-block}
+## What We Do
+
+::: {.grid}
+::: {.g-col-4}
+### Innovation
+We develop cutting-edge solutions that push boundaries and create new possibilities.
+:::
+
+::: {.g-col-4}
+### Collaboration
+Our team works together with clients and partners to achieve shared goals.
+:::
+
+::: {.g-col-4}
+### Impact
+Everything we do is designed to create meaningful, lasting change.
+:::
+:::
+:::
+
+::: {#about .content-block}
+## About Our Mission
+
+We believe in the power of technology and human creativity to solve complex problems. Our interdisciplinary team combines expertise in data science, web development, and strategic planning to deliver exceptional results.
+
+### Key Statistics
+
+```{python}
+#| echo: false
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+
+# Sample organizational data
+data = {
+    'Year': [2020, 2021, 2022, 2023, 2024],
+    'Projects': [15, 23, 31, 42, 58],
+    'Team_Size': [8, 12, 18, 25, 32],
+    'Client_Satisfaction': [4.2, 4.4, 4.6, 4.7, 4.8]
+}
+
+df = pd.DataFrame(data)
+
+# Create interactive chart
+fig = go.Figure()
+
+fig.add_trace(go.Scatter(
+    x=df['Year'], 
+    y=df['Projects'],
+    mode='lines+markers',
+    name='Projects Completed',
+    line=dict(color='#1f77b4', width=3),
+    marker=dict(size=8)
+))
+
+fig.add_trace(go.Scatter(
+    x=df['Year'], 
+    y=df['Team_Size'],
+    mode='lines+markers',
+    name='Team Size',
+    yaxis='y2',
+    line=dict(color='#ff7f0e', width=3),
+    marker=dict(size=8)
+))
+
+fig.update_layout(
+    title='Our Growth Over Time',
+    xaxis_title='Year',
+    yaxis=dict(title='Projects Completed', side='left'),
+    yaxis2=dict(title='Team Members', side='right', overlaying='y'),
+    hovermode='x unified',
+    height=400
+)
+
+fig.show()
+```
+
+:::
+
+::: {#portfolio .content-block}
+## Recent Work
+
+::: {.grid}
+::: {.g-col-6}
+### Data Analytics Platform
+Built a comprehensive analytics dashboard for a Fortune 500 company, processing over 1M records daily.
+
+**Technologies:** Python, PostgreSQL, React  
+**Impact:** 40% improvement in decision-making speed
+:::
+
+::: {.g-col-6}
+### Community Health Initiative
+Developed a public health tracking system to monitor and improve community wellness metrics.
+
+**Technologies:** R, Shiny, SQLite  
+**Impact:** Served 50,000+ community members
+:::
+:::
+:::
+
+::: {.cta-section}
+## Ready to Work Together?
+
+Let's discuss how we can help bring your vision to life.
+
+[Get In Touch](contact.qmd){.btn .btn-primary .btn-lg role="button"}
+:::
+
+```{=html}
+<script>
+// Add some interactive elements
+document.addEventListener('DOMContentLoaded', function() {
+    // Smooth scrolling for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+    
+    // Add animation on scroll
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+    
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('fade-in');
+            }
+        });
+    }, observerOptions);
+    
+    document.querySelectorAll('.content-block').forEach(el => {
+        observer.observe(el);
+    });
+});
+</script>
+```
