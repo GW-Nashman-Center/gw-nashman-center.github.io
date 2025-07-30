@@ -102,13 +102,13 @@ $spacer: 1rem;
   
   .g-col-6 {
     padding: 2rem;
-    border: 1px solid rgba(37, 99, 235, 0.1);
+    border: 1px solid rgba(191, 205, 237, 0.1);
     border-radius: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     
     &:hover {
       transform: translateY(-5px);
-      box-shadow: 0 10px 25px rgba(37, 99, 235, 0.1);
+      box-shadow: 0 10px 25px rgba(184, 201, 236, 0.1);
     }
     
     h3 {
