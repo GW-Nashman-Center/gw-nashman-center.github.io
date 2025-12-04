@@ -84,16 +84,16 @@ Write a short, one-page memo identifying your observations. Write the memo from 
 Task: You will answer four questions, two prior to the hearing and two after the hearing. When all four questions are completed, you will post your responses on a discussion forum thread to share with the rest of the class. After reading about each other’s experience and observations, we will discuss in class the value of public participation in government budgeting and the opportunities for improving public participation. 
 
 1. Pre-hearing:
-   
-  1.1. What are the major issues faced by the government that you think should be addressed at the budget hearing?
-  
-  1.2. If you were to ask one question or make one comment at the hearing, what would that be? In addition, explain the perspective from which you are raising the question/comment: individual resident, representative of a local interest group, etc.
+
+   1.1. What are the major issues faced by the government that you think should be addressed at the budget hearing?
+
+   1.2. If you were to ask one question or make one comment at the hearing, what would that be? In addition, explain the perspective from which you are raising the question/comment: individual resident, representative of a local interest group, etc.
 
 2. Post-hearing:
- 
-  2.1. Were the “major issues” you had identified actually discussed at the hearing? If yes, who initiated such discussions? 
-  
-  2.2. What is the one observation you would make based on the hearing? The observation could be on your question/comment if you actually raised it, or on other aspects of public participation in the budget process.
+
+   2.1. Were the “major issues” you had identified actually discussed at the hearing? If yes, who initiated such discussions?
+
+   2.2. What is the one observation you would make based on the hearing? The observation could be on your question/comment if you actually raised it, or on other aspects of public participation in the budget process.
 
 
 **Grading criteria**: activity-based grading. By addressing all issues listed above, you will receive full points for answering all questions, not based on the accuracy of your answers.
@@ -101,7 +101,7 @@ Task: You will answer four questions, two prior to the hearing and two after the
 
 
 
-*This activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from the CTE to discuss implementation in your course, please email ![teaching@gwu.edu](teaching@gwu.edu).*
+*This activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from the CTE to discuss implementation in your course, please email [teaching@gwu.edu](mailto:teaching@gwu.edu).*
 
 
 
