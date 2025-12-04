@@ -12,7 +12,7 @@ Through this assignment, students will learn about the essential components of a
 
 ## Activity Type
 
-Case study
+- Case study
 
 # Time
 
@@ -32,16 +32,23 @@ By completing this assignment, students will demonstrate the ability to:
 
 # Task Instructions
 
-1. Identify the local government to study for this assignment. Most importantly, the local government must have budget documents posted on its website for public access. 
+1. Identify the local government to study for this assignment. Most importantly, the local government must have budget documents posted on its website for public access.
+   
   a. The instructor may ask students to identify local governments of interest within the confinement of budget availability, or assign specific local governments. If the former, the instructor should consider assigning this task ahead of task 2 to give students sufficient preparation time, especially if students are not familiar with web searching for such information.
+  
   b. If the assignment includes attending a public hearing (as explained later), students must choose local governments that have scheduled virtual public hearings within the timeframe allowed by the course schedule. The instructor may consider, in this case, identifying and assigning such local governments. 
 
+
 2. Access and read the budget documents to extract key information. Budget documents can be several hundred pages long, and provide an excellent opportunity for students to learn about extracting useful information from noisy real-life materials. Nevertheless, clear guidance from the instructor is often necessary and appreciated. 
+ 
   a. Appendix A1 provides an example of the guidance document the instructor may provide. It focuses largely on understanding the overall size and composition of the budget, but has customizable questions that can be made specific to a field of study and students enrolled in the course. 
 
-3. Optional: participate in a virtual public hearing. To induce meaningful participation, the instructor may ask students to prepare questions/comments in advance, even if the students are not actually going to raise these questions at the hearing. In addition, the instructor may pose post-hearing reflection questions and ask students to respond either on a virtual discussion forum or during in-class discussion sessions. 
+3. Optional: participate in a virtual public hearing. To induce meaningful participation, the instructor may ask students to prepare questions/comments in advance, even if the students are not actually going to raise these questions at the hearing. In addition, the instructor may pose post-hearing reflection questions and ask students to respond either on a virtual discussion forum or during in-class discussion sessions.
+   
   a. Appendix A2 provides an example of pre- and post-hearing questions instructors may ask students to respond to. 
+  
   b. If the instructor adopts this portion of the assignment, it is important that the “budget documents” being examined throughout the assignment are proposed budgets for the upcoming fiscal year, not the adopted budget from the current or previous fiscal years. Local governments conduct public hearings to collect feedback on proposed budgets, which will ultimately be adopted by the legislative body of the government. 
+  
   c. The difficulty in implementing this portion of the assignment is timing. Local governments do not all follow the same timetable for budget development and deliberation. Therefore, different governments may hold public hearings, sometimes infrequently, on different dates, which may cause logistical challenges for the instructor. One solution is to assign the same local government to all students. Another possibility is to allow a sufficiently long gap between tasks 2 and 3 to accommodate different public hearing dates. 
 
 
