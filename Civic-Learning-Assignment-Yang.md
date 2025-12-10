@@ -1,26 +1,16 @@
 # Understanding government budget
 
-## Creator
-Lang (Kate) Yang, Associate Professor, Trachtenberg School
+Creator: Lang (Kate) Yang, Associate Professor, Trachtenberg School
 
-## Original Class Context
-PPPA 6005, Public Budgeting, Revenue, and Expenditure Analysis
+Original Class Context: PPPA 6005, Public Budgeting, Revenue, and Expenditure Analysis
 
-# Purpose
+Purpose: Through this assignment, students will learn about the essential components of a government budget, practice finding information within a budget, and participate in the government budgeting deliberation process.
 
-Through this assignment, students will learn about the essential components of a government budget, practice finding information within a budget, and participate in the government budgeting deliberation process.
+Activity Type: Case study
 
-## Activity Type
+Time: For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment. 
 
-- Case study
-
-# Time
-
-For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment. 
-
-# Class Size
-
-The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10. 
+Class Size: The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10. 
 
 # Learning Objectives
 
