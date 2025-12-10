@@ -1,6 +1,6 @@
 # Civic Leadership Self-Assessment & Public Impact Map
 
-**Creator**: Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University – ![coreyadams@gwu.edu](mailto:coreyadams@gwu.edu)
+**Creator**: Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University – [coreyadams@gwu.edu](mailto:coreyadams@gwu.edu)
 
 **Original Class Context**: Adaptable across disciplines; not tied to a specific course
 
