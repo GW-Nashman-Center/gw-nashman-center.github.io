@@ -119,6 +119,7 @@ I score only for completion, as the distinctions between types of spending are c
 ## Appendix C: Sample Materials
 
 C1. [Company Political Spending & Disclosure Worksheet for Visa](https://docs.google.com/document/d/10PiShr3-_O9nbBLjfuD59CROs-Lun2nf/edit?usp=drive_link&ouid=116022827991908611713&rtpof=true&sd=true) [Word doc]
+
 C2. [Company Comparison Worksheet for Visa and Mastercard](https://docs.google.com/document/d/1YjvVkns5R2YCl9IY6ZkfVNbNE-T1xcwK/edit?usp=sharing&ouid=116022827991908611713&rtpof=true&sd=true) [Word doc]
 
 
