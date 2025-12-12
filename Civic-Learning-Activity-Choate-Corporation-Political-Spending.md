@@ -103,6 +103,7 @@ A6. [Visa 2024 Annual Political Engagement Report](https://www.politicalaccounta
 A7. A few example political engagement reports that are relatively easy to search:
 
 | [Bank of America](https://investor.bankofamerica.com/corporate-governance/governance-library/political-activities) | [Capital One](https://ir-capitalone.gcs-web.com/static-files/dd6c96c6-5d1c-4b5e-a382-45eab72497d6) | [Citigroup](https://www.citigroup.com/rcs/citigpa/storage/public/political-engagement-report-2024.pdf) | [CSX](https://www.csx.com/index.cfm/library/files/responsibility/political-contributions/csx-political-and-trade-association-expenditures-december-2024/) |
+|-----------------|-------------|-----------|-----|
 | [Ford](https://corporate.ford.com/content/dam/corporate/us/en-us/documents/reports/Political-Disclosure-Report-2024.pdf) | [General Motors](https://investor.gm.com/static-files/98eda2d2-8ce1-4f26-8aeb-01d5e062b4f0) | [Marriott](https://marriott.gcs-web.com/political-activity-policies-oversight-and-disclosure) | [Merck](https://www.merck.com/company-overview/sustainability/transparency-disclosures/) |
 | [Microsoft](https://www.microsoft.com/en-us/corporate-responsibility/public-policy-engagement) | [UnitedHealthGroup](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/About/unh-political-contributions-annual-report-2024.pdf) | [Verizon](https://www.verizon.com/about/sites/default/files/2024-Political-Engagement.pdf) | [QualComm](https://s204.q4cdn.com/645488518/files/doc_downloads/dupcep/FY24-Full-Year-Disclosure_Final.pdf) |
 
