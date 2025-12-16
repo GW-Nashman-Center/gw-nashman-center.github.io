@@ -67,3 +67,26 @@ Accessibility Considerations:
 |---|---|---|
 | 15 mins | Encourage students to compare interpretations, ask questions, and synthesize findings.<br><br>Circulate to support and prompt deeper analysis.<br><br>*Guide group presentations.*<br><br>Encourage students to explain their Big Idea and how it appears in the articles.<br><br>Moderate a whole-class discussion to compare ideas and explore overlaps or tensions between principles. | Reach consensus on how the articles reflect their Big Idea.<br><br>Prepare to present key insights.<br><br>Present group findings to the class. Engage in discussion.<br><br>Ask questions and respond to others’ presentations.<br><br>Reflect on how different Big Ideas interact in civic life. |
 | 10 mins | *Lead a debrief using reflection prompts.*<br><br>Encourage students to consider what they learned, what surprised them, and how the activity connects to civic reasoning and personal values. | Reflect individually or in pairs.<br><br>Respond to prompts.<br><br>Share insights about civic engagement, constitutional principles, and the relevance of current events. |
+
+
+## Assessment & Evaluation
+
+Formative Assessment:
+- Instructor observes group discussions and reviews data sheets
+
+Summative Assessment:
+- Optional written reflection or group presentation rubric
+
+
+## Additional Notes
+
+Pedagogical Reasoning:
+- This activity promotes active learning, civic engagement, and critical thinking.
+- It aligns with the Debate–Discussion–Dialogue framework by encouraging evidence-based discussion and value-based dialogue.
+
+Tips for Adaptation:
+- Can be adapted for different grade levels by modifying article complexity.
+- Can be extended into a multi-day project with deeper research.
+
+
+
