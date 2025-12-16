@@ -106,3 +106,56 @@ Tips for Adaptation:
 |---|---|---|---|
 | **Limited Government** | Government power is restricted to protect individual rights. | Officials must act within the bounds of the Constitution. Congress can only pass laws within its enumerated powers. The Executive must enforce laws as written. Courts can strike down laws or actions that exceed constitutional limits. *Federalist No. 78* reinforces this principle. | - What is the issue?<br>- Who is on each side?<br>- What do they want?<br>- Where is the line for limited government?<br>- How does this relate to “Checks and Balances”? |
 | **Federalism** | Power is shared between national and state/local governments. | The federal government governs national issues; states and localities handle local concerns. The Supremacy Clause (Article VI) ensures federal law prevails in conflicts. *Federalist No. 45* explains the balance of powers. Laws vary by location, reflecting local needs and values. | - What is the issue?<br>- Are the laws different depending on where you live?<br>- How are they different?<br>- Why are the laws different? |
+
+
+
+The following handouts are used in this activity:
+1. Separation of Powers
+2. Republicanism
+3. Federalism
+4. Limited Government
+5. Popular Sovereignty
+6. Checks and Balances
+
+
+## Appendix B: Rubrics
+
+| Criteria | Level 1 | Level 2 | Level 3 | Level 4 |
+|---|---|---|---|---|
+| **Understanding of Constitutional Principle** | Misidentifies or inaccurately explains the principle. | Identifies the principle but explanation lacks clarity or depth. | Clearly identifies and explains the principle with some insight. | Thoroughly explains the principle with deep understanding and accurate application. |
+| **Use of Evidence** | Provides little or no evidence; evidence is irrelevant or missing. | Uses some evidence but lacks clear connection to the principle. | Uses relevant evidence to support analysis with some explanation. | Integrates multiple pieces of relevant evidence with strong analysis and clear connection. |
+| **Clarity of Presentation** | Unclear or disorganized; ideas are difficult to follow. | Some organization but lacks clarity or coherence. | Mostly clear and organized; ideas are understandable. | Clear, well-organized, and effectively communicates ideas with confidence. |
+| **Collaboration** | Minimal participation; does not contribute to group goals. | Participates inconsistently; limited contribution. | Actively participates and contributes to group work. | Consistently collaborates, supports peers, and contributes meaningfully. |
+| **Civic Reasoning** | Shows little understanding of basic civic values or reasoning; lacks reflection. | Demonstrates basic civic reasoning with limited reflection. | Applies civic reasoning with some reflection on values and perspectives. | Demonstrates strong civic reasoning with thoughtful reflection on values, perspectives, and implications. |
+
+
+## Appendix C: Reflection Prompts
+
+### General Prompts for All Groups
+- What did you learn about your assigned constitutional principle? How did the news articles illustrate this principle in action?
+- What surprised you or challenged your assumptions? Did the articles present perspectives you hadn’t considered?
+- How did your group reach consensus on the meaning or impact of the articles? What disagreements or different interpretations emerged?
+- What civic values were at stake in the issues you analyzed? How do these values relate to your own beliefs or experiences?
+- What questions remain unanswered? What would you want to ask the people involved in the articles?
+
+
+### Dialogue-Focused Prompts
+- What experiences or values might shape someone’s view of this issue differently than yours? How can understanding those perspectives deepen civic engagement?
+- How did your group balance evidence and empathy in your discussion? Were there moments of debate, discussion, or dialogue?
+- What role should citizens play in shaping government decisions on this issue? What actions could you take to engage with this topic?
+
+
+ ### Debate-Focused Prompts
+ - What constitutional principle was most contested in your issue—and how did different sides justify their positions? (Encourages students to identify how constitutional ideas are used to support conflicting arguments.)
+- Which arguments presented in the articles were most persuasive—and why? (Promotes analysis of rhetorical strategies, use of evidence, and logical reasoning.)
+- If you had to argue for the side you personally disagree with, how would you build a case using constitutional principles? (Builds empathy and deepens understanding of opposing views.)
+- What role should debate play in resolving civic disagreements—and what are its limits? (Encourages reflection on the purpose and impact of civic debate in a democratic society.)
+- How did your group handle disagreement during your discussion? Did you shift toward debate, discussion, or dialogue—and what was most effective? (Helps students evaluate their own discourse strategies and group dynamics.)
+
+
+### Discussion-Focused Prompts
+- What evidence from the articles helped your group understand the constitutional principle more clearly—and how did you decide what was most relevant? (Encourages students to reflect on how they selected and interpreted information.)
+- How did your group navigate different interpretations of the same article or issue? What strategies helped you reach a shared understanding? (Promotes metacognition and collaborative reasoning.)
+- What connections did you find between your Big Idea and other groups’ presentations? How do these principles interact in real civic life? (Encourages synthesis across constitutional ideas.)
+- What questions did your group raise that remain unanswered—and how might you investigate them further? (Supports curiosity and future civic engagement.)
+- How did your group ensure that all voices were heard during discussion? What made the conversation productive or challenging? (Builds awareness of group dynamics and inclusive discourse.)
