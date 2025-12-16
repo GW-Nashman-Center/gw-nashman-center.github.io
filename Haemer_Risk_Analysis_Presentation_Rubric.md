@@ -5,11 +5,6 @@
 
 # Oral Presentation Grading Rubric
 
-| SN | Highly Proficient |  Proficient | Developing | % |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 
 
 | SN | Highly Proficient | Proficient | Developing | % |
