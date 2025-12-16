@@ -35,15 +35,15 @@ In the past, preventive maintenance on these breakers was performed without de-e
 4. Identify the decomposing nodes.  For example, two decomposing nodes could be “call to respond to a fire” and “call to respond to a carbon dioxide activation (IDLH atmosphere)”.
 5. Develop an outline of possible leaf nodes for each decomposing node.  Consider basic questions:
    
-  a. Who?  On-site or offsite responders?
+      a. Who?  On-site or offsite responders?
+
+      b. What? Equipment needed
   
-  b. What? Equipment needed
+      c. Where?  Response location -- Building 648 for IDLH atmosphere, TRA Complex for fire.
   
-  c. Where?  Response location -- Building 648 for IDLH atmosphere, TRA Complex for fire.
+      d. When?  Backshift, 6PM to Midnight.
   
-  d. When?  Backshift, 6PM to Midnight.
-  
-  e. Possible failures, like communications glitch, equipment lost or breaks, personnel available, etc.
+      e. Possible failures, like communications glitch, equipment lost or breaks, personnel available, etc.
   
 7. Draft a fault tree for each decomposing node.
 8. Research and assign probabilities for each leaf node.  Considering breaking into subgroups for each decomposing node or otherwise dividing the leaf nodes up amongst the group to efficiently complete the fault tree.
