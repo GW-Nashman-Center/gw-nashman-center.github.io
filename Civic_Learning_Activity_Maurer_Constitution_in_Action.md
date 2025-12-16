@@ -90,3 +90,19 @@ Tips for Adaptation:
 
 
 
+## Appendix A: Six Big Ideas Table and Data Retrieval Sheets
+
+**Civic Learning Chart: Six Big Ideas of the Constitution**
+
+| Big Idea | Core Idea | Explanation | Student Prompts |
+|---|---|---|---|
+| **Popular Sovereignty** | People establish the government through free choice. | Government authority comes from citizens. Officials must govern based on the will of the people. Citizens influence government through elections, protests, petitions, and amendments. Articles I, II, V, and VII of the Constitution reflect this principle. | - What are the issues?<br>- How are people asking for change?<br>- How does this show people oversee government? |
+| **Republicanism** | Citizens elect representatives to act on their behalf. | In a republic, voters choose leaders who make decisions for the public good. Representatives may act independently but risk losing office if they ignore public opinion. Article I, Section 2 outlines the election of House members. | - What are the articles about?<br>- Are the laws different depending on where you live?<br>- How are they different?<br>- Why is voting for representatives important? |
+| **Separation of Powers** | Power is divided among legislative, executive, and judicial branches. | The Constitution assigns distinct roles to each branch: Congress makes laws (Article I), the President enforces them (Article II), and the courts interpret them (Article III). Shared powers, like treaty approval, require cooperation between branches. | - What is the issue?<br>- What role does each branch play on this issue?<br>- How does it demonstrate “separation”? |
+| **Checks and Balances** | Each branch can limit the powers of the others. | Congress makes laws, but the President can veto them. Congress can override vetoes. The President nominates judges, but the Senate confirms them. Courts can declare laws unconstitutional. This system prevents any one branch from becoming too powerful. | - What is the issue?<br>- How does each branch check or balance the other?<br>- How does this issue demonstrate checks and balances? |
+
+
+| Big Idea | Core Idea | Explanation | Student Prompts |
+|---|---|---|---|
+| **Limited Government** | Government power is restricted to protect individual rights. | Officials must act within the bounds of the Constitution. Congress can only pass laws within its enumerated powers. The Executive must enforce laws as written. Courts can strike down laws or actions that exceed constitutional limits. *Federalist No. 78* reinforces this principle. | - What is the issue?<br>- Who is on each side?<br>- What do they want?<br>- Where is the line for limited government?<br>- How does this relate to “Checks and Balances”? |
+| **Federalism** | Power is shared between national and state/local governments. | The federal government governs national issues; states and localities handle local concerns. The Supremacy Clause (Article VI) ensures federal law prevails in conflicts. *Federalist No. 45* explains the balance of powers. Laws vary by location, reflecting local needs and values. | - What is the issue?<br>- Are the laws different depending on where you live?<br>- How are they different?<br>- Why are the laws different? |
