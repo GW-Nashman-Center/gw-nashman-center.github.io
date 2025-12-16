@@ -34,13 +34,19 @@ In the past, preventive maintenance on these breakers was performed without de-e
 3. Identify the Initiating Event.  From Handout 1, the IE is “emergency fire and rescue response needed”.
 4. Identify the decomposing nodes.  For example, two decomposing nodes could be “call to respond to a fire” and “call to respond to a carbon dioxide activation (IDLH atmosphere)”.
 5. Develop an outline of possible leaf nodes for each decomposing node.  Consider basic questions:
+   
   a. Who?  On-site or offsite responders?
+  
   b. What? Equipment needed
+  
   c. Where?  Response location -- Building 648 for IDLH atmosphere, TRA Complex for fire.
+  
   d. When?  Backshift, 6PM to Midnight.
+  
   e. Possible failures, like communications glitch, equipment lost or breaks, personnel available, etc.
-6. Draft a fault tree for each decomposing node.
-7. Research and assign probabilities for each leaf node.  Considering breaking into subgroups for each decomposing node or otherwise dividing the leaf nodes up amongst the group to efficiently complete the fault tree.
-8. Reassemble for peer review of the fault trees.  Peer review is an essential part of the PRA process.  Reach a consensus or final decision by the leader.
-9. Look for insights from the fault trees.  Are any success paths too hard?  Are the risks for any path unacceptable?  Can alternate plans reduce the risk?  Do the benefits of the alternatives outweigh their costs?
-10. The spokesman drafts talking points summarizing the group’s conclusions and synthesizes group input for presentation at the next class. 
+  
+7. Draft a fault tree for each decomposing node.
+8. Research and assign probabilities for each leaf node.  Considering breaking into subgroups for each decomposing node or otherwise dividing the leaf nodes up amongst the group to efficiently complete the fault tree.
+9. Reassemble for peer review of the fault trees.  Peer review is an essential part of the PRA process.  Reach a consensus or final decision by the leader.
+10. Look for insights from the fault trees.  Are any success paths too hard?  Are the risks for any path unacceptable?  Can alternate plans reduce the risk?  Do the benefits of the alternatives outweigh their costs?
+11. The spokesman drafts talking points summarizing the group’s conclusions and synthesizes group input for presentation at the next class. 
