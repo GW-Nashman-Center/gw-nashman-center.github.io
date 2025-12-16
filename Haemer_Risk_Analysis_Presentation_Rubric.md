@@ -5,6 +5,13 @@
 
 # Oral Presentation Grading Rubric
 
+| SN | Highly Proficient |  Proficient | Developing | % |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
 | SN | Highly Proficient | Proficient | Developing | % |
 | ----------- | ----------- |
 | Introduction | Introduction is effectively crafted to grab audience’s attention. Introduction identifies the presentation’s thesis, places the thesis in proper context, and lays out the framework of the presentation. The introduction includes an outline of the overall presentation, briefly describing each part and clarifying fundamental concepts as needed.| Introduction is well-crafted but does not successfully grab and hold audience’s attention. The promised attention-grabber is subsequently underdeveloped or missing content in the body of the presentation. Examples fail to fully connect to the thesis. The introduction includes an outline of all elements of the overall presentation, but without depth. | There is an introduction attempted, but the execution is poor giving the audience no real sense of what to expect from the presentation. Parts missing, such as an outline not being comprehensive or failure to clarify key elements. | 10% |
