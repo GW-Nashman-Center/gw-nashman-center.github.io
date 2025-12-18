@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GW Nashman Center"
+  title: "GW Nashman Center Open Education Resources"
   navbar:
     left:
       - text: "Home"
@@ -17,6 +17,7 @@ website:
 
 format:
   html:
-    theme: default
-    css: custom.scss
+    theme:
+      light: default
+    scss: src/custom.scss
     include-in-header: src/includes/header.html
