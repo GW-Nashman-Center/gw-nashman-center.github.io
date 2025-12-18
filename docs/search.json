@@ -1,268 +1,555 @@
 [
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/black-25.1.0.dist-info/licenses/AUTHORS.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/black-25.1.0.dist-info/licenses/AUTHORS.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\nAuthors\nGlued together by Łukasz Langa.\nMaintained with:\n\nCarol Willing\nCarl Meyer\nJelle Zijlstra\nMika Naylor\nZsolt Dollenstein\nCooper Lees\nRichard Si\nFelix Hildén\nBatuhan Taskaya\nShantanu Jain\n\nMultiple contributions by:\n\nAbdur-Rahmaan Janhangeer\nAdam Johnson\nAdam Williamson\nAlexander Huynh\nAlexandr Artemyev\nAlex Vandiver\nAllan Simon\nAnders-Petter Ljungquist\nAmethyst Reese\nAndrew Thorp\nAndrew Zhou\nAndrey\nAndy Freeland\nAnthony Sottile\nAntonio Ossa Guerra\nArjaan Buijk\nArnav Borbornah\nArtem Malyshev\nAsger Hautop Drewsen\nAugie Fackler\nAviskar KC\nBatuhan Taşkaya\nBenjamin Wohlwend\nBenjamin Woodruff\nBharat Raghunathan\nBrandt Bucher\nBrett Cannon\nBryan Bugyi\nBryan Forbes\nCalum Lind\nCharles\nCharles Reid\nChristian Clauss\nChristian Heimes\nChuck Wooters\nChris Rose\nCodey Oxley\nCong\nCooper Ry Lees\nDan Davison\nDaniel Hahler\nDaniel M. Capella\nDaniele Esposti\nDavid Hotham\nDavid Lukes\nDavid Szotten\nDenis Laxalde\nDouglas Thor\ndylanjblack\nEli Treuherz\nEmil Hessman\nFelix Kohlgrüber\nFlorent Thiery\nFrancisco\nGiacomo Tagliabue\nGreg Gandenberger\nGregory P. Smith\nGustavo Camargo\nhauntsaninja\nHadi Alqattan\nHassan Abouelela\nHeaford\nHugo Barrera\nHugo van Kemenade\nHynek Schlawack\nIonite\nIvan Katanić\nJakub Kadlubiec\nJakub Warczarek\nJan Hnátek\nJason Fried\nJason Friedland\njgirardet\nJim Brännlund\nJimmy Jia\nJoe Antonakakis\nJon Dufresne\nJonas Obrist\nJonty Wareing\nJose Nazario\nJoseph Larson\nJosh Bode\nJosh Holland\nJoshua Cannon\nJosé Padilla\nJuan Luis Cano Rodríguez\nkaiix\nKatie McLaughlin\nKatrin Leinweber\nKeith Smiley\nKenyon Ralph\nKevin Kirsche\nKyle Hausmann\nKyle Sunden\nLawrence Chan\nLinus Groh\nLoren Carvalho\nLuka Sterbic\nLukasDrude\nMahmoud Hossam\nMariatta\nMatt VanEseltine\nMatthew Clapp\nMatthew Walster\nMax Smolens\nMichael Aquilina\nMichael Flaxman\nMichael J. Sullivan\nMichael McClimon\nMiguel Gaiowski\nMike\nmikehoyio\nMin ho Kim\nMiroslav Shubernetskiy\nMomIsBestFriend\nNathan Goldbaum\nNathan Hunt\nNeraste\nNikolaus Waxweiler\nOfek Lev\nOsaetin Daniel\notstrel\nPablo Galindo\nPaul Ganssle\nPaul Meinhardt\nPeter Bengtsson\nPeter Grayson\nPeter Stensmyr\npmacosta\nQuentin Pradet\nRalf Schmitt\nRamón Valles\nRichard Fearn\nRishikesh Jha\nRupert Bedford\nRussell Davis\nSagi Shadur\nRémi Verschelde\nSami Salonen\nSamuel Cormier-Iijima\nSanket Dasgupta\nSergi\nScott Stevenson\nShantanu\nshaoran\nShinya Fujino\nspringstan\nStavros Korokithakis\nStephen Rosen\nSteven M. Vascellaro\nSunil Kapil\nSébastien Eustace\nTal Amuyal\nTerrance\nThom Lu\nThomas Grainger\nTim Gates\nTim Swast\nTimo\nToby Fleming\nTom Christie\nTony Narlock\nTsuyoshi Hombashi\nTushar Chandra\nTushar Sadhwani\nTzu-ping Chung\nUtsav Shah\nutsav-dbx\nvezeli\nVille Skyttä\nVishwas B Sharma\nVlad Emelianov\nwilliamfzc\nwouter bolsterlee\nYazdan\nYngve Høiseth\nYurii Karabas\nZac Hatfield-Dodds"
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_indexing.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_indexing.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\nCopyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/narwhals-2.0.1.dist-info/licenses/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/narwhals-2.0.1.dist-info/licenses/LICENSE.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\nMIT License\nCopyright (c) 2024, Marco Gorelli\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/cffi/recompiler.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/cffi/recompiler.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\nCopyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\nMIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Welcome to Your Organization",
-    "section": "What We Do",
-    "text": "What We Do\n\n\nInnovation\nWe develop cutting-edge solutions that push boundaries and create new possibilities.\n\n\nCollaboration\nOur team works together with clients and partners to achieve shared goals.\n\n\nImpact\nEverything we do is designed to create meaningful, lasting change."
-  },
-  {
-    "objectID": "index.html#about-our-mission",
-    "href": "index.html#about-our-mission",
-    "title": "Welcome to Your Organization",
-    "section": "About Our Mission",
-    "text": "About Our Mission\nWe believe in the power of technology and human creativity to solve complex problems. Our interdisciplinary team combines expertise in data science, web development, and strategic planning to deliver exceptional results.\n\nKey Statistics"
-  },
-  {
-    "objectID": "index.html#recent-work",
-    "href": "index.html#recent-work",
-    "title": "Welcome to Your Organization",
-    "section": "Recent Work",
-    "text": "Recent Work\n\n\nData Analytics Platform\nBuilt a comprehensive analytics dashboard for a Fortune 500 company, processing over 1M records daily.\nTechnologies: Python, PostgreSQL, React\nImpact: 40% improvement in decision-making speed\n\n\nCommunity Health Initiative\nDeveloped a public health tracking system to monitor and improve community wellness metrics.\nTechnologies: R, Shiny, SQLite\nImpact: Served 50,000+ community members"
-  },
-  {
-    "objectID": "index.html#ready-to-work-together",
-    "href": "index.html#ready-to-work-together",
-    "title": "Welcome to Your Organization",
-    "section": "Ready to Work Together?",
-    "text": "Ready to Work Together?\nLet’s discuss how we can help bring your vision to life.\nGet In Touch"
-  },
-  {
-    "objectID": "readme_md.html",
-    "href": "readme_md.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "readme_md.html#features",
-    "href": "readme_md.html#features",
-    "title": "",
-    "section": "Features",
-    "text": "Features\n\n🎨 Modern, responsive design with custom styling\n📊 Interactive data dashboards with Plotly\n🚀 Automatic deployment to GitHub Pages\n📱 Mobile-friendly layout\n🔍 Built-in search functionality\n📈 Real-time metrics simulation\n🎯 SEO optimized"
-  },
-  {
-    "objectID": "readme_md.html#quick-start",
-    "href": "readme_md.html#quick-start",
-    "title": "",
-    "section": "Quick Start",
-    "text": "Quick Start\n\nPrerequisites\n\nPython 3.8+\nQuarto CLI\nGit\n\n\n\nLocal Development\n\nClone the repository\ngit clone https://github.com/yourusername/your-org-website.git\ncd your-org-website\nInstall Python dependencies\npip install -r requirements.txt\nInstall Quarto\n\nDownload from https://quarto.org/docs/get-started/\nOr use conda: conda install -c conda-forge quarto\n\nPreview the site locally\nquarto preview\nBuild the site\nquarto render\n\n\n\nGitHub Pages Deployment\n\nEnable GitHub Pages\n\nGo to your repository settings\nNavigate to Pages section\nSet source to “GitHub Actions”\n\nPush to main branch\ngit add .\ngit commit -m \"Initial site setup\"\ngit push origin main\nAutomatic deployment\n\nThe GitHub Action will automatically build and deploy your site\nCheck the Actions tab for build status\nYour site will be available at https://yourusername.github.io/your-repo-name"
-  },
-  {
-    "objectID": "readme_md.html#project-structure",
-    "href": "readme_md.html#project-structure",
-    "title": "",
-    "section": "Project Structure",
-    "text": "Project Structure\n├── _quarto.yml           # Main configuration\n├── index.qmd            # Home page\n├── dashboard.qmd        # Data dashboard\n├── about.qmd            # About page\n├── services.qmd         # Services page\n├── team.qmd             # Team page\n├── contact.qmd          # Contact page\n├── custom.scss          # Custom styling\n├── requirements.txt     # Python dependencies\n├── .github/\n│   └── workflows/\n│       └── quarto-publish.yml  # Deployment workflow\n└── docs/               # Generated site (auto-created)"
-  },
-  {
-    "objectID": "readme_md.html#customization",
-    "href": "readme_md.html#customization",
-    "title": "",
-    "section": "Customization",
-    "text": "Customization\n\nStyling\n\nEdit custom.scss for design changes\nModify color variables in the SCSS defaults section\nAdd custom CSS in individual .qmd files\n\n\n\nContent\n\nUpdate _quarto.yml for navigation and site settings\nEdit .qmd files for page content\nAdd new pages by creating new .qmd files\n\n\n\nData Integration\n\nReplace sample data in dashboard with your real data\nConnect to external APIs for live data\nUse the Python environment for data processing"
-  },
-  {
-    "objectID": "readme_md.html#adding-dynamic-features",
-    "href": "readme_md.html#adding-dynamic-features",
-    "title": "",
-    "section": "Adding Dynamic Features",
-    "text": "Adding Dynamic Features\n\nExternal Data Sources\nSince GitHub Pages is static, for dynamic data you can:\n\nClient-side API calls\n// Fetch data from external API\nfetch('https://api.example.com/data')\n  .then(response =&gt; response.json())\n  .then(data =&gt; updateDashboard(data));\nScheduled data updates\n\nUse GitHub Actions to fetch data periodically\nCommit updated data files\nSite rebuilds automatically\n\nExternal services\n\nIntegrate with services like Airtable, Google Sheets\nUse Netlify Functions or Vercel for serverless functions\n\n\n\n\nDatabase Integration\nFor PostgreSQL integration in a static"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Ready to transform your data into actionable insights? We’d love to hear from you.\n\n\n\n\n    \n        Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message\n    \n    \n\n\n\n\n\n\n\n\n\nEmail\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed\n\n\n\n\nLinkedIn Twitter GitHub\n\n\n\n\n\n    Interactive Map\n    (Replace with actual map embed)\n\n\n\n\n\n\n\nQ: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
-  },
-  {
-    "objectID": "contact.html#send-us-a-message",
-    "href": "contact.html#send-us-a-message",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message"
-  },
-  {
-    "objectID": "contact.html#contact-information",
-    "href": "contact.html#contact-information",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Email\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed"
-  },
-  {
-    "objectID": "contact.html#connect-with-us",
-    "href": "contact.html#connect-with-us",
-    "title": "Contact Us",
-    "section": "",
-    "text": "LinkedIn Twitter GitHub"
-  },
-  {
-    "objectID": "contact.html#office-location",
-    "href": "contact.html#office-location",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Interactive Map\n    (Replace with actual map embed)"
-  },
-  {
-    "objectID": "contact.html#frequently-asked-questions",
-    "href": "contact.html#frequently-asked-questions",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Q: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Data Dashboard",
-    "section": "",
-    "text": "This dashboard showcases our organization’s key metrics and performance indicators.\n\n\n\n\n## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::\n\n\n\n\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\n\n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-07-30 10:40:47"
-  },
-  {
-    "objectID": "dashboard.html#key-performance-indicators",
-    "href": "dashboard.html#key-performance-indicators",
-    "title": "Data Dashboard",
-    "section": "",
-    "text": "## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::"
-  },
-  {
-    "objectID": "dashboard.html#real-time-metrics-simulation",
-    "href": "dashboard.html#real-time-metrics-simulation",
-    "title": "Data Dashboard",
-    "section": "",
-    "text": "Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-07-30 10:40:47"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "src/pages/about.html",
+    "href": "src/pages/about.html",
     "title": "About Us",
     "section": "",
-    "text": "Founded in 2020, our organization has grown from a small team of passionate innovators into a leading force in data-driven solutions. We believe that the intersection of technology and human insight creates the most powerful outcomes.\n\n\nTo empower organizations with cutting-edge data solutions that drive meaningful decision-making and sustainable growth.\n\n\n\n\n\n\nWe constantly push the boundaries of what’s possible, embracing new technologies and methodologies to solve complex challenges.\n\n\n\nEvery project we undertake is built on a foundation of transparency, honesty, and ethical practices.\n\n\n\nWe measure our success not just in metrics, but in the positive change we create for our clients and communities.\n\n\n\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n\n\nBackground: Former VP of Analytics at TechCorp\nExpertise: Strategic planning, data science, team leadership\nFun fact: Marathon runner and coffee enthusiast\n\n\n\nBackground: Senior Engineer at DataFlow Inc.\nExpertise: Full-stack development, cloud architecture, DevOps\nFun fact: Builds mechanical keyboards in his spare time\n\n\n\n\n\nBackground: PhD in Statistics from Stanford\nExpertise: Machine learning, statistical modeling, research methodology\nFun fact: Published author and part-time yoga instructor\n\n\n\nBackground: 10+ years in consulting and project management\nExpertise: Client relations, project delivery, business development\nFun fact: Speaks four languages and loves cooking\n\n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n2024: “Best Data Analytics Firm” - TechReview Awards\n2023: “Innovation in Business Intelligence” - Analytics Excellence Awards\n\n2022: “Rising Star Company” - Business Weekly\n2021: “Best New Startup” - Local Business Association\n\n\n\n\nWe believe in giving back to the community that has supported our growth:\n\nEducation: Free workshops for students and nonprofits\nEnvironment: Carbon-neutral operations since 2022\nDiversity: 40% of our leadership team identifies as underrepresented minorities\nOpen Source: Contributing to 15+ open source projects\n\n\nReady to learn more about how we can help your organization succeed?\nContact Us View Our Services"
+    "text": "Founded in 2020, our organization has grown from a small team of passionate innovators into a leading force in data-driven solutions. We believe that the intersection of technology and human insight creates the most powerful outcomes.\n\n\nTo empower organizations with cutting-edge data solutions that drive meaningful decision-making and sustainable growth.\n\n\n\n\n\n\nWe constantly push the boundaries of what’s possible, embracing new technologies and methodologies to solve complex challenges.\n\n\n\nEvery project we undertake is built on a foundation of transparency, honesty, and ethical practices.\n\n\n\nWe measure our success not just in metrics, but in the positive change we create for our clients and communities.\n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\nBackground: Former VP of Analytics at TechCorp\nExpertise: Strategic planning, data science, team leadership\nFun fact: Marathon runner and coffee enthusiast\n\n\n\nBackground: Senior Engineer at DataFlow Inc.\nExpertise: Full-stack development, cloud architecture, DevOps\nFun fact: Builds mechanical keyboards in his spare time\n\n\n\n\n\nBackground: PhD in Statistics from Stanford\nExpertise: Machine learning, statistical modeling, research methodology\nFun fact: Published author and part-time yoga instructor\n\n\n\nBackground: 10+ years in consulting and project management\nExpertise: Client relations, project delivery, business development\nFun fact: Speaks four languages and loves cooking\n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n2024: “Best Data Analytics Firm” - TechReview Awards\n2023: “Innovation in Business Intelligence” - Analytics Excellence Awards\n\n2022: “Rising Star Company” - Business Weekly\n2021: “Best New Startup” - Local Business Association\n\n\n\n\nWe believe in giving back to the community that has supported our growth:\n\nEducation: Free workshops for students and nonprofits\nEnvironment: Carbon-neutral operations since 2022\nDiversity: 40% of our leadership team identifies as underrepresented minorities\nOpen Source: Contributing to 15+ open source projects\n\n\nReady to learn more about how we can help your organization succeed?\nContact Us View Our Services"
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
+    "objectID": "src/pages/about.html#our-mission",
+    "href": "src/pages/about.html#our-mission",
     "title": "About Us",
     "section": "",
     "text": "To empower organizations with cutting-edge data solutions that drive meaningful decision-making and sustainable growth."
   },
   {
-    "objectID": "about.html#our-values",
-    "href": "about.html#our-values",
+    "objectID": "src/pages/about.html#our-values",
+    "href": "src/pages/about.html#our-values",
     "title": "About Us",
     "section": "",
     "text": "We constantly push the boundaries of what’s possible, embracing new technologies and methodologies to solve complex challenges.\n\n\n\nEvery project we undertake is built on a foundation of transparency, honesty, and ethical practices.\n\n\n\nWe measure our success not just in metrics, but in the positive change we create for our clients and communities."
   },
   {
-    "objectID": "about.html#leadership-team",
-    "href": "about.html#leadership-team",
+    "objectID": "src/pages/about.html#leadership-team",
+    "href": "src/pages/about.html#leadership-team",
     "title": "About Us",
     "section": "",
     "text": "Background: Former VP of Analytics at TechCorp\nExpertise: Strategic planning, data science, team leadership\nFun fact: Marathon runner and coffee enthusiast\n\n\n\nBackground: Senior Engineer at DataFlow Inc.\nExpertise: Full-stack development, cloud architecture, DevOps\nFun fact: Builds mechanical keyboards in his spare time\n\n\n\n\n\nBackground: PhD in Statistics from Stanford\nExpertise: Machine learning, statistical modeling, research methodology\nFun fact: Published author and part-time yoga instructor\n\n\n\nBackground: 10+ years in consulting and project management\nExpertise: Client relations, project delivery, business development\nFun fact: Speaks four languages and loves cooking"
   },
   {
-    "objectID": "about.html#industry-recognition",
-    "href": "about.html#industry-recognition",
+    "objectID": "src/pages/about.html#industry-recognition",
+    "href": "src/pages/about.html#industry-recognition",
     "title": "About Us",
     "section": "",
     "text": "2024: “Best Data Analytics Firm” - TechReview Awards\n2023: “Innovation in Business Intelligence” - Analytics Excellence Awards\n\n2022: “Rising Star Company” - Business Weekly\n2021: “Best New Startup” - Local Business Association"
   },
   {
-    "objectID": "about.html#our-commitment-to-community",
-    "href": "about.html#our-commitment-to-community",
+    "objectID": "src/pages/about.html#our-commitment-to-community",
+    "href": "src/pages/about.html#our-commitment-to-community",
     "title": "About Us",
     "section": "",
     "text": "We believe in giving back to the community that has supported our growth:\n\nEducation: Free workshops for students and nonprofits\nEnvironment: Carbon-neutral operations since 2022\nDiversity: 40% of our leadership team identifies as underrepresented minorities\nOpen Source: Contributing to 15+ open source projects\n\n\nReady to learn more about how we can help your organization succeed?\nContact Us View Our Services"
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "title": "",
+    "objectID": "src/pages/dashboard.html",
+    "href": "src/pages/dashboard.html",
+    "title": "Data Dashboard",
     "section": "",
-    "text": "Code\n\n\n\n\nBSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "This dashboard showcases our organization’s key metrics and performance indicators.\n\n\n\n\n## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::\n\n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-12-18 12:16:54"
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "title": "",
+    "objectID": "src/pages/dashboard.html#key-performance-indicators",
+    "href": "src/pages/dashboard.html#key-performance-indicators",
+    "title": "Data Dashboard",
     "section": "",
-    "text": "Code\n\n\n\n\nBSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "## Current Metrics\n\n::: {.grid}\n::: {.g-col-3}\n### Daily Users\n**1986**  \n↗️ +12% vs last month\n:::\n\n::: {.g-col-3}\n### Revenue\n**$5,324**  \n↗️ +8% vs last month\n:::\n\n::: {.g-col-3}\n### Satisfaction\n**4.3/5.0**  \n→ Stable vs last month\n:::\n\n::: {.g-col-3}\n### Support Load\n**50 tickets**  \n↘️ -5% vs last month\n:::\n:::"
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "title": "",
+    "objectID": "src/pages/dashboard.html#real-time-metrics-simulation",
+    "href": "src/pages/dashboard.html#real-time-metrics-simulation",
+    "title": "Data Dashboard",
     "section": "",
-    "text": "Code\n\n\n\n\nCopyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Loading...\n    \n    \n        \n        Loading...\n    \n    \n        \n        Loading...\n    \n\n\n\n\n\n\n\nDashboard last updated: 2025-12-18 12:16:54"
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/numpy/random/LICENSE.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/numpy/random/LICENSE.html",
-    "title": "",
+    "objectID": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html",
+    "href": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
     "section": "",
-    "text": "Code\n\n\n\n\nThis software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+    "text": "Creator: Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University – coreyadams@gwu.edu\nOriginal Class Context: Adaptable across disciplines; not tied to a specific course\nPurpose: To support student reflection on civic identity and leadership using a civic-based leadership framework.\nActivity Type: Leadership self-assessment, civic identity reflection, and peer dialogue\nTime: Flexible; can be completed in 1–2 class sessions or partially outside of class\nClass Size: Adaptable for small seminars or large lecture-based courses"
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_constructors.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/period/test_constructors.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
+    "objectID": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#student-required-prerequisite-knowledgeskills",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nComplete the Civic Leadership Self-Assessment and review personal results. Students should bring their results to class for discussion and reflection."
   },
   {
-    "objectID": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/datetimes/test_indexing.html",
-    "href": "gw-nashman-center.github.io-env/lib/python3.13/site-packages/pandas/tests/indexes/datetimes/test_indexing.html",
-    "title": "",
+    "objectID": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#instructor-required-materials-set-up",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nReview the Civic Leadership Self-Assessment instructions and ensure students have access in advance.\nPrepare to facilitate small-group or paired peer dialogues.\nNo specialized technology is required beyond discussion tools and optional slides."
+  },
+  {
+    "objectID": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#accessibility-considerations",
+    "href": "data/markdown-docs/Adams-Civic-Leadership-Activity-Guide.html#accessibility-considerations",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nEnsure materials are available in accessible formats.\nAllow flexibility in how students complete and present the Public Impact Map (written narrative, infographic, or spoken presentation)."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html",
+    "href": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html",
+    "title": "Resiliency Shoebox",
     "section": "",
-    "text": "Code"
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html#learning-objectives",
+    "href": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html#learning-objectives",
+    "title": "Resiliency Shoebox",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nList at least one barrier to a community committee trying to promote resiliency\n\nIdentify at least one step that a community committee can take to begin developing solutions to prevent panic\n\nDescribe at least one step to create a project that encourages resiliency\n\nDevelop a beginning plan to encourage community buy-in"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic Learning Activity_Hoar_Resiliency Shoebox.html#instructor-required-materials-set-up",
+    "title": "Resiliency Shoebox",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nRoom set-up:\nArrange for multiple round tables, seating for 4-6 per table. This is adaptable but the best minimum is 3 tables.\n\nTimer—usually the teacher\n\nFlip chart or multiple white boards, visible to all the tables with black and very brightly colored markers. Someone to record themes presented from each table. Can be the teacher but better is a separate person.\n\nEach table will be given 1 scenario to discuss, 3 total– a different scenario for each table. If there are more than 3 tables, more than 1 table can have the same scenario. Each scenario is the same, with the same questions to answer, but from the point of view of a different community committee.\n\nPrint the 3 different scenarios, enough for 1 per table (see: Appendix B)\n\nPrint 1 copy per student of the “Resiliency Shoebox Activity—Student Sheet.” (see: Appendix C)\n\nPrint 1 copy per student of the “Student Evaluation.” (see: Appendix D)"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html",
+    "title": "DC Stories",
+    "section": "",
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#learning-objectives",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#learning-objectives",
+    "title": "DC Stories",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nReflect on their own emerging DC stories\n\nExamine the factors that shape people’s experiences of places\n\nDescribe key principles of community-engaged research methods\n\nPractice designing community-engaged research questions"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#student-required-prerequisite-knowledgeskills",
+    "title": "DC Stories",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nThere are no prerequisites to this activity"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#instructor-required-materials-set-up",
+    "title": "DC Stories",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nAbility to project the slide deck; instructors can also create a handout instead\n\nGroups will refer to the community-engaged methods infographic; instructors should print a copy for each student or ensure students can access it digitally"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#accessibility-considerations",
+    "title": "DC Stories",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nThe homework associated with this activity asks students to visit the GW Museum and take a photograph. The museum is designed to be accessible, and students can contact museuminfo@gwu.edu with questions. This activity could also be effective without a museum visit.\n\nStudents who do not have access to a photographic device may describe an image instead. Visually impaired students may need to share a verbal description instead of a photograph and prompt their partners to provide a verbal description\n\nSlides are designed using a template that incorporates best practices for accessibility and usability\n\nWhen presenting, instructors can turn on captions\n\nThe in-class activity asks students to raise hands and move around the room and may need to be adjusted based on available space and mobility considerations"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#initial-class-session-20-25-minutes-at-end-of-class",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#initial-class-session-20-25-minutes-at-end-of-class",
+    "title": "DC Stories",
+    "section": "Initial class session: 20-25 minutes at end of class",
+    "text": "Initial class session: 20-25 minutes at end of class\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n8 mins\nDC terminology: engage students by asking which terms they’re familiar with, or what they would add to the list\nWeigh in on knowledge and curiosity about DC terms\n\n\n12-15 mins\nDecide whether to facilitate a discussion or an activity (like a gallery walk or poll with up-voting) Decide whether to use small groups or a whole-class format Address the following questions: How have you interacted with DC so far? What do you want to explore?\nParticipate in discussion\n\n\n2 mins\nExplain homework\nListen actively"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#homework",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#homework",
+    "title": "DC Stories",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n~1 hour (for students)\nPost hours and information for GW Museum on course site\nVisit From A to DC: Transportation in Washington exhibit at GW museum\n\n\n~10 mins\nPost prompt for photograph assignment\nTake a photograph based on this prompt: In your daily travels around Foggy Bottom, the Vern, or any other part of the region, take a picture you think tells us something about access to transportation in DC. It could be a flyer, a sign, a piece of infrastructure, etc. Please be respectful about what you choose to photograph. Be prepared to talk about what you noticed, why you chose this picture, and what questions the image raises for you."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#dedicated-class-session-50-minutes",
+    "href": "data/markdown-docs/Civic Learning Activity_Atias_DC Stories.html#dedicated-class-session-50-minutes",
+    "title": "DC Stories",
+    "section": "Dedicated class session: 50 minutes",
+    "text": "Dedicated class session: 50 minutes\nNote: for more details, see the speaker notes in the slide deck\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n8 mins\nIntroduction & Engagement Pair activity drawing on homework: As students settle into class, ask them to turn to a partner and share their images, describing why they chose a particular image, what questions it raises, and whether/how the GW Museum exhibit informed their observations. Poll students about whether their photographs depict access or a barrier to access\nShare and reflect on photographs in pairs\n\n\n20-25 mins\nIntroducing community-engaged methods Engage students by asking them about agency in their lives Frame the ongoing question: how can we use community-engaged and participatory methods to support people making decisions about their lives and advocate for what they need? Share infographic: give students time to read, process, and discuss\nRespond to reflective prompts about agency in decision-making; carefully read the infographic; participate in discussion about the graphic\n\n\n15-20 mins\nSmall groups: community-engaged transit research Instructor circulates while students brainstorm in groups of 4-5\nRespond to prompts on the slides\n\n\n5 mins\nDebrief/Reflection Reflect on the process of developing community-engaged approaches to your questions\nShare insights from your small-group discussions"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html",
+    "href": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html",
+    "title": "Understanding government budget",
+    "section": "",
+    "text": "Creator: Lang (Kate) Yang, Associate Professor, Trachtenberg School\nOriginal Class Context: PPPA 6005, Public Budgeting, Revenue, and Expenditure Analysis\nPurpose: Through this assignment, students will learn about the essential components of a government budget, practice finding information within a budget, and participate in the government budgeting deliberation process.\nActivity Type: Case study\nTime: For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment.\nClass Size: The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html#a1.-reading-budget-documents",
+    "href": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html#a1.-reading-budget-documents",
+    "title": "Understanding government budget",
+    "section": "A1. Reading budget documents",
+    "text": "A1. Reading budget documents\nPurpose: In this assignment, you will read the budget documents identified earlier to extract useful information. Through this process, you will understand the main components of a government budget, practice searching for and identifying relevant information from a large document, as well as synthesize and communicate findings.\nTask: Skim through the budget. Pay close attention to the budget summary (if there is one) and the main table reporting on total revenue and total spending. Because budget documents are often very long, it is a good idea to start with the table of contents and identify the summary section/table that may contain the headline numbers. For the last question on the budgeted spending for specific purposes, use the search function (ctrl + F) to search for key words and identify relevant sections of the document.\nWrite a short, one-page memo identifying your observations. Write the memo from the perspective of an analyst for a local interest group, which may be the local chamber of commerce or a trade group. Your memo should discuss:\n\nThe entity and documents you reference (include a link to the budget documents.\nThe size of the budget, that is, planned total spending. List the page number where you find such information. Moreover, is the budget balanced?\nThe major components of spending (policy areas that are funded) and major sources of revenue. List the page number where you find such information.\nAnticipated changes in total spending from the previous year. List the page number where you find such information.\n[Customized for each course: here we use cybersecurity as an example.] Does the budget explicitly address the issue of cybersecurity, if so, in what way? Can you identify how much money is appropriated for the purpose of enhancing cybersecurity of government functions or implementing cybersecurity policies in the community?\n\nGrading criteria: activity-based grading. By addressing all issues listed above, you will receive full points for answering all questions, not based on the accuracy of your answers."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html#a2.-participating-in-budget-hearings",
+    "href": "data/markdown-docs/Civic-Learning-Assignment-Yang-Understanding-Govt-Budget.html#a2.-participating-in-budget-hearings",
+    "title": "Understanding government budget",
+    "section": "A2. Participating in budget hearings",
+    "text": "A2. Participating in budget hearings\nPurpose: By now, you have obtained a basic understanding of the local government’s proposed budget for the upcoming fiscal year. In this part of the assignment, you will participate in the online public hearing session to see public participation in government policymaking in action.\nTask: You will answer four questions, two prior to the hearing and two after the hearing. When all four questions are completed, you will post your responses on a discussion forum thread to share with the rest of the class. After reading about each other’s experience and observations, we will discuss in class the value of public participation in government budgeting and the opportunities for improving public participation.\n\nPre-hearing:\n1.1. What are the major issues faced by the government that you think should be addressed at the budget hearing?\n1.2. If you were to ask one question or make one comment at the hearing, what would that be? In addition, explain the perspective from which you are raising the question/comment: individual resident, representative of a local interest group, etc.\nPost-hearing:\n2.1. Were the “major issues” you had identified actually discussed at the hearing? If yes, who initiated such discussions?\n2.2. What is the one observation you would make based on the hearing? The observation could be on your question/comment if you actually raised it, or on other aspects of public participation in the budget process.\n\nGrading criteria: activity-based grading. By addressing all issues listed above, you will receive full points for answering all questions, not based on the accuracy of your answers.\nThis activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from the CTE to discuss implementation in your course, please email teaching@gwu.edu."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Assignment_Chacko_Migrants in Cities.html",
+    "href": "data/markdown-docs/Civic Learning Assignment_Chacko_Migrants in Cities.html",
+    "title": "Migrant Inclusion and Integration in Cities",
+    "section": "",
+    "text": "Civic Learning Assignment Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Assignment_Chacko_Migrants in Cities.html#learning-objectives",
+    "href": "data/markdown-docs/Civic Learning Assignment_Chacko_Migrants in Cities.html#learning-objectives",
+    "title": "Migrant Inclusion and Integration in Cities",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy completing this assignment, students will demonstrate an ability to:\n\nExplain the differences between migrants, refugees, asylum seekers, and internally displaced persons, including their legal definitions and rights.\n\nAnalyze real-world case studies of inclusion and integration of migrants and refugees in different cities, highlighting how these inclusion and integration strategies align with human rights laws.\n\nReflect on the ethical, social, and political dimensions of migration and migrant inclusion in urban settings."
+  },
+  {
+    "objectID": "data/markdown-docs/Adams-Standalone-Civic-Leadership-Self-Assessment.html",
+    "href": "data/markdown-docs/Adams-Standalone-Civic-Leadership-Self-Assessment.html",
+    "title": "Civic Leadership Self-Assessment",
+    "section": "",
+    "text": "Civic Leadership Self-Assessment\nThis self-assessment is designed to help you reflect on your civic identity and leadership development. It is based on a four-domain framework that includes: Public Service Motivation, Democratic Accountability, Political Astuteness, and Public Value Orientation.\n\n\nInstructions\nRate each of the following statements on a scale from 1 to 5:\n1 – Strongly Disagree | 2 – Disagree | 3 – Neutral | 4 – Agree | 5 – Strongly Agree\n\n\nSelf-Assessment Statements\n\nPublic Service Motivation: I am driven by a deep commitment to serve others and contribute to the public good.\nDemocratic Accountability: I consider how my actions affect public trust and strive to ensure transparency.\nPolitical Astuteness: I can navigate diverse perspectives and build coalitions across differences.\nPublic Value Orientation:** I think beyond efficiency and consider what outcomes truly benefit society.\n\n\n\nReflection Prompts\n\nWhat experience or value has most shaped your desire to serve others?\nWhen have you had to take responsibility for decisions that affected others? What did you learn?\nHow do you typically respond to conflict or disagreement in group settings?\nIdentify one issue in your community or discipline where you’d like to make a difference.\n\n\n\nInterpreting Your Results\nDomain-by-Domain Interpretation\n\n\n\n\n\n\n\nScore Range\nInterpretation\n\n\n\n\n1–2\nYou may have limited awareness or experience in this area. Consider opportunities for growth, such as observing civic leaders, engaging in group projects, or learning about this competency through coursework or service.\n\n\n3\nYou are developing awareness but may not yet consistently act on it. Reflect on what experiences might help you strengthen this competency.\n\n\n4-5\nYou demonstrate a strong orientation in this area. Think about how you can build on this strength to contribute to civic efforts or mentor others.\n\n\n\nPublic Service Motivation – Reflects your internal commitment to serve others and advance the public good. Democratic Accountability – Reflects your attention to public trust, transparency, and responsiveness in decision-making. Political Astuteness – Reflects your ability to navigate diverse viewpoints, build consensus, and lead ethically in complex environments. Public Value Orientation – Reflects your consideration of how your work or leadership contributes meaningfully to societal benefit.\nSummary Profile Interpretation - High across all domains (scores of 4–5): You likely see yourself as a civic-minded leader and may already be active in community or organizational leadership. Consider ways to deepen or apply your leadership across public contexts. - Mixed scores (some 4–5, others 1–3): You may be strong in certain areas but have opportunities for development in others. Use your strengths to build confidence while targeting growth areas through service, dialogue, or academic challenges. - Lower scores (mostly 1–3): This may indicate you’re at the beginning of your civic leadership journey. That’s completely okay—use this reflection as a starting point to explore new ways of thinking about leadership, responsibility, and impact.\nRegardless of your results, this activity is about self-awareness—not judgment. The goal is to help you recognize your leadership potential and begin shaping how you want to contribute to your community and field."
+  },
+  {
+    "objectID": "readme_md.html",
+    "href": "readme_md.html",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "A modern, interactive organizational website built with Quarto, featuring data dashboards and dynamic content.\n\n\n\n🎨 Modern, responsive design with custom styling\n📊 Interactive data dashboards with Plotly\n🚀 Automatic deployment to GitHub Pages\n📱 Mobile-friendly layout\n🔍 Built-in search functionality\n📈 Real-time metrics simulation\n🎯 SEO optimized\n\n\n\n\n\n\n\nPython 3.8+\nQuarto CLI\nGit\n\n\n\n\n\nClone the repository\ngit clone https://github.com/yourusername/your-org-website.git\ncd your-org-website\nInstall Python dependencies\npip install -r requirements.txt\nInstall Quarto\n\nDownload from https://quarto.org/docs/get-started/\nOr use conda: conda install -c conda-forge quarto\n\nPreview the site locally\nquarto preview\nBuild the site\nquarto render\n\n\n\n\n\nEnable GitHub Pages\n\nGo to your repository settings\nNavigate to Pages section\nSet source to “GitHub Actions”\n\nPush to main branch\ngit add .\ngit commit -m \"Initial site setup\"\ngit push origin main\nAutomatic deployment\n\nThe GitHub Action will automatically build and deploy your site\nCheck the Actions tab for build status\nYour site will be available at https://yourusername.github.io/your-repo-name\n\n\n\n\n\n\n├── _quarto.yml           # Main configuration\n├── index.qmd            # Home page\n├── dashboard.qmd        # Data dashboard\n├── about.qmd            # About page\n├── services.qmd         # Services page\n├── team.qmd             # Team page\n├── contact.qmd          # Contact page\n├── custom.scss          # Custom styling\n├── requirements.txt     # Python dependencies\n├── .github/\n│   └── workflows/\n│       └── quarto-publish.yml  # Deployment workflow\n└── docs/               # Generated site (auto-created)\n\n\n\n\n\n\nEdit custom.scss for design changes\nModify color variables in the SCSS defaults section\nAdd custom CSS in individual .qmd files\n\n\n\n\n\nUpdate _quarto.yml for navigation and site settings\nEdit .qmd files for page content\nAdd new pages by creating new .qmd files\n\n\n\n\n\nReplace sample data in dashboard with your real data\nConnect to external APIs for live data\nUse the Python environment for data processing\n\n\n\n\n\n\n\nSince GitHub Pages is static, for dynamic data you can:\n\nClient-side API calls\n// Fetch data from external API\nfetch('https://api.example.com/data')\n  .then(response =&gt; response.json())\n  .then(data =&gt; updateDashboard(data));\nScheduled data updates\n\nUse GitHub Actions to fetch data periodically\nCommit updated data files\nSite rebuilds automatically\n\nExternal services\n\nIntegrate with services like Airtable, Google Sheets\nUse Netlify Functions or Vercel for serverless functions\n\n\n\n\n\nFor PostgreSQL integration in a static"
+  },
+  {
+    "objectID": "readme_md.html#features",
+    "href": "readme_md.html#features",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "🎨 Modern, responsive design with custom styling\n📊 Interactive data dashboards with Plotly\n🚀 Automatic deployment to GitHub Pages\n📱 Mobile-friendly layout\n🔍 Built-in search functionality\n📈 Real-time metrics simulation\n🎯 SEO optimized"
+  },
+  {
+    "objectID": "readme_md.html#quick-start",
+    "href": "readme_md.html#quick-start",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "Python 3.8+\nQuarto CLI\nGit\n\n\n\n\n\nClone the repository\ngit clone https://github.com/yourusername/your-org-website.git\ncd your-org-website\nInstall Python dependencies\npip install -r requirements.txt\nInstall Quarto\n\nDownload from https://quarto.org/docs/get-started/\nOr use conda: conda install -c conda-forge quarto\n\nPreview the site locally\nquarto preview\nBuild the site\nquarto render\n\n\n\n\n\nEnable GitHub Pages\n\nGo to your repository settings\nNavigate to Pages section\nSet source to “GitHub Actions”\n\nPush to main branch\ngit add .\ngit commit -m \"Initial site setup\"\ngit push origin main\nAutomatic deployment\n\nThe GitHub Action will automatically build and deploy your site\nCheck the Actions tab for build status\nYour site will be available at https://yourusername.github.io/your-repo-name"
+  },
+  {
+    "objectID": "readme_md.html#project-structure",
+    "href": "readme_md.html#project-structure",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "├── _quarto.yml           # Main configuration\n├── index.qmd            # Home page\n├── dashboard.qmd        # Data dashboard\n├── about.qmd            # About page\n├── services.qmd         # Services page\n├── team.qmd             # Team page\n├── contact.qmd          # Contact page\n├── custom.scss          # Custom styling\n├── requirements.txt     # Python dependencies\n├── .github/\n│   └── workflows/\n│       └── quarto-publish.yml  # Deployment workflow\n└── docs/               # Generated site (auto-created)"
+  },
+  {
+    "objectID": "readme_md.html#customization",
+    "href": "readme_md.html#customization",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "Edit custom.scss for design changes\nModify color variables in the SCSS defaults section\nAdd custom CSS in individual .qmd files\n\n\n\n\n\nUpdate _quarto.yml for navigation and site settings\nEdit .qmd files for page content\nAdd new pages by creating new .qmd files\n\n\n\n\n\nReplace sample data in dashboard with your real data\nConnect to external APIs for live data\nUse the Python environment for data processing"
+  },
+  {
+    "objectID": "readme_md.html#adding-dynamic-features",
+    "href": "readme_md.html#adding-dynamic-features",
+    "title": "Organizational Website",
+    "section": "",
+    "text": "Since GitHub Pages is static, for dynamic data you can:\n\nClient-side API calls\n// Fetch data from external API\nfetch('https://api.example.com/data')\n  .then(response =&gt; response.json())\n  .then(data =&gt; updateDashboard(data));\nScheduled data updates\n\nUse GitHub Actions to fetch data periodically\nCommit updated data files\nSite rebuilds automatically\n\nExternal services\n\nIntegrate with services like Airtable, Google Sheets\nUse Netlify Functions or Vercel for serverless functions\n\n\n\n\n\nFor PostgreSQL integration in a static"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Assignment_Santucci_Article Hunt.html",
+    "href": "data/markdown-docs/Civic Learning Assignment_Santucci_Article Hunt.html",
+    "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
+    "section": "",
+    "text": "Civic Learning Assignment Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Assignment_Santucci_Article Hunt.html#learning-objectives",
+    "href": "data/markdown-docs/Civic Learning Assignment_Santucci_Article Hunt.html#learning-objectives",
+    "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy completing this assignment, students will demonstrate an ability to:\n\nFind journal articles on topics of interest to them.\n\nVerify that such an article is peer-reviewed.\n\nIdentify the central cause-effect claim of a journal article.\n\nSay what evidence on which it rests.\n\nSay how the claim modifies, falsifies, or enhances one from a different reading (e.g., one central to a syllabus).\n\nSay what sorts of policy intervention(s) the claim implies.\n\nPoint to weaknesses in a truth claim."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "",
+    "text": "Creator: Robert Budd Haemer, Adjunct Professor, GW Law School\nOriginal Class Context: LW 6459, Atomic Energy Law\nPurpose: This activity introduces Probabilistic Risk Assessment, a tool for informing decisions by quantifiably comparing risk to the benefit by providing risk insights.\nActivity Type: Student presentations, based on a homework problem that can be performed individually or in small groups (preferred)\nTime: 15 minutes for presentation of topic in first class. Then, 15-25 minutes to discuss the homework assignment in the next following class. Group spokesperson should lead a discussion of insights from homework (about five minutes for each group).\nClass Size: Recommended number of participants is 15-25 students, breaking into small groups of 4-5 students for the homework, resulting in 3-5 groups for the follow up class discussions."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#student-required-prerequisite-knowledgeskills",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nReview guidance from the U.S. Nuclear Regulator Commission on using risk in regulatory decision-making, see link: Concepts Of Risk | NRC.gov"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#instructor-required-materials-set-up",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nAdopt handout material if appropriate for the course\nMake copies of the two handouts, enough for each student\nPowerPoint presentation on projection\nDetermine the number of small groups and time limit for presentations to target the duration of the second day for twenty minutes. Communicate time limits for presentations to students."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#accessibility-considerations",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nIdentify suitably accessible small group work space if needed\nThe PowerPoint slides can be translated as needed"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#initial-class-session-15-minutes-at-end-of-class",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#initial-class-session-15-minutes-at-end-of-class",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Initial Class Session: 15 minutes at end of class",
+    "text": "Initial Class Session: 15 minutes at end of class\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n2 mins\nIntroduction & Engagement  • The purpose of lecture is to introduce a quantitative approach to managing risk  • Relate risk management to course subject  • While it is cool to be like Han Solo and exclaim, “Never tell me the odds”, but what we all want is to know how to improve the odds of success.\nStudents ask clarifying questions\n\n\n5 mins\nHistory of PRA  • Instructor covers history or PRA  • Poses questions about the difference between deterministic rules and probabilistic insights from assigned reading\nStudents respond to instructor questions based on review of the background about PRA provided on NRC website\n\n\n8 mins\nBuild a PRA  • Instructor explains two examples of fault trees\nStudents should ask questions about how to estimate probability of failure of a leaf node"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#homework",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#homework",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Homework",
+    "text": "Homework\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\nHomework 60 mins\nHomework  • Instructor helps students pick small groups\nFollow the instructions in the handouts to draft a sample PRA and gather risk assessment insights"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#dedicated-class-session-15-25-minutes-for-presentations",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#dedicated-class-session-15-25-minutes-for-presentations",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Dedicated Class Session: 15-25 minutes for presentations",
+    "text": "Dedicated Class Session: 15-25 minutes for presentations\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\nDay Two 3-5 mins per group\nDebrief/Reflection  • Facilitate classroom discussion of learnings by each group from the homework\nSpokesperson of each small group will lead a discussion of the group’s insights from the PRA exercise"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#assessment-evaluation",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.html#assessment-evaluation",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "section": "Assessment & Evaluation",
+    "text": "Assessment & Evaluation\nFormative Assessment - Qualitive assessment of student engagement with a complex STEM subject - Group leader reports for second class to determine effective of group engagement and building risk communication skills.\nSummative Assessment (if applicable) - Oral presentation (see attached rubric) - 100 points spread in 5 competencies: Introduction, Organization, Content, Style, and Conclusion"
+  },
+  {
+    "objectID": "data/markdown-docs/Haemer_Risk_Analysis_Presentation_Rubric.html",
+    "href": "data/markdown-docs/Haemer_Risk_Analysis_Presentation_Rubric.html",
+    "title": "Haemer Risk Analysis Presentation Rubric",
+    "section": "",
+    "text": "Haemer Risk Analysis Presentation Rubric\n\nPresentation: Spokesman for each group will be expected to present the group’s conclusions as if it were being presented at a professional conference using presentation techniques that the student believes will maximize the effectiveness of the presentation.\n\n\n\nOral Presentation Grading Rubric\n\n\n\n\n\n\n\n\n\n\nSN\nHighly Proficient\nProficient\nDeveloping\n%\n\n\n\n\nIntroduction\nIntroduction is effectively crafted to grab audience’s attention. Introduction identifies the presentation’s thesis, places the thesis in proper context, and lays out the framework of the presentation. The introduction includes an outline of the overall presentation, briefly describing each part and clarifying fundamental concepts as needed.\nIntroduction is well-crafted but does not successfully grab and hold audience’s attention. The promised attention-grabber is subsequently underdeveloped or missing content in the body of the presentation. Examples fail to fully connect to the thesis. The introduction includes an outline of all elements of the overall presentation, but without depth.\nThere is an introduction attempted, but the execution is poor giving the audience no real sense of what to expect from the presentation. Parts missing, such as an outline not being comprehensive or failure to clarify key elements.\n10%\n\n\nOrganization\nPresentation is well organized and flows smoothly. Transitions are succinct and points are connected. Information is presented in a logical sequence that is easy to follow. Prepared and distributed appropriate handouts/PowerPoints (if applicable). Stayed within the allotted time limits for presentation and Q&A.\nPresentation is generally well organized with transitions between key points. Most of the information was presented in a logical sequence. Handouts not well prepared or not distributed. Appeared to rush or lag to meet time requirements.\nOrganizational structure is not easily followed by the audience or is not presented in a logical sequence. Transitions between key points are lacking. Required handouts were either missing or poorly done. Did not meet time limit requirements.\n20%\n\n\nContent\nProvides an accurate and complete explanation of facts, relevant case law, and other appropriate material. Evaluates existing information and provides a constructive analysis. The argument is clear, logical, and amply supported.\nInformation is substantially accurate. Some analysis is provided. Evidence is provided based solely on case law. The argument is logical and adequately supported.\nInformation relied upon contains inaccuracies, mistakes of law and/or mistakes of fact. Key facts may have been omitted. Information not supported by case law. Little or no evaluation or analysis.\n40%\n\n\nPresentation Style\nPoised, articulate, appropriate volume, steady pace, uses inflection. Pronunciation is correct and clear. Appropriate word choice and grammar. Absence of linguistic blunder. Appropriate eye contact, gestures and movement. Refers to notes but does not read from them. Appearance and attire were appropriate.\nArticulate but not polished. Word choice and grammar use is mostly correct and appropriate. Speaks in full sentences with minimal hesitation or unnecessary verbal pauses. Flows. Appearance was neat.\nSpeaker appears unsure or awkward. Volume, pace, or inflection cause presentation to sound choppy. Distracting use of pause words interrupts the flow. Poor eye contact, overuse of hand gesture or movement, or wooden in appearance. Over reliance on written notes. Attire was not appropriate.\n20%\n\n\nConclusion\nEnds with an accurate conclusion, demonstrating a thoughtful, strong evaluation of the evidence presented with insightful observations. No new or confusing information is addressed. Takes and answers questions from the instructor and students appropriately.\nEnds with a summary of main points showing some evaluation of the evidence presented. Asks for questions.\nEnds with a summary but little or no evaluation. New or confusing information is presented. Does not ask for questions or provides weak responses to questions.\n10%"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Elizabeth L. Maurer\nInstructor, Graduate School of Education and Human Development, Master’s in Museum Education program\nAdapted from the Citizenship in the Nation Merit Badge Workshop developed and delivered by the National Museum of the United States Army (Fort Belvoir, VA)\nPurpose: To help students understand how constitutional principles shape contemporary civic life through analysis of current events.\nActivity Type: Group Discussion, Case Study, Peer Review, Presentation\nTime: 65 minutes\nRecommended Class Size: 12–30 students, working in small groups\n\n\nBy the end of this activity, students will be able to: 1. Apply constitutional principles to analyze and evaluate contemporary civic issues, identifying how foundational ideas shape government responses and public debates. 2. Interpret diverse perspectives within news sources, using evidence-based reasoning to assess how different stakeholders invoke constitutional concepts in support of their positions. 3. Engage in structured civic discourse, to explore complex issues with empathy, curiosity, and respect for differing viewpoints. 4. Synthesize group findings into coherent presentations, articulating how constitutional principles inform civic decision-making and proposing informed actions or questions for further inquiry.\n\n\n\nStudent Preparation: - Read the Constitution - Review the six big ideas of the Constitution: Limited Government, Republicanism, Federalism, Separation of Powers, Checks and Balances, and Popular Sovereignty.\nInstructor Preparation:\n\nPrepare article sets for each big idea\n\nSelect an issue that has been covered in the national news for at least the past five days. Choose a topic around which there are multiple, valid perspectives. The issue should illustrate Constitutional questions of:\n\nSeparation of Powers\nRepublicanism\nFederalism\nChecks and Balances\nPopular Sovereignty\nLimited Government\n\nNews stories may be from national or local sources. The sources should include a variety of conservative and liberal perspectives. Good sources include quotations from affected parties. Avoid opinion pieces. Explainers are helpful and recommended.\n\nPrepare data retrieval sheets for each big idea\nAssign students to groups and distribute materials\n\nAccessibility Considerations: - Ensure readability of articles - Provide language support and accommodations as needed\n\n\n\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n5 mins\nIntroduce the Six Big Ideas and explain the activity’s purpose.Use a compelling question or example to spark interest.Connect the activity to course learning outcomes and civic engagement.Examples of questions:- How do the foundational principles of the Constitution shape the way we understand and respond to today’s civic challenges?- Imagine the President issues an executive order that Congress strongly opposes. The courts are asked to decide whether the order is constitutional. What does this situation reveal about how power is shared—and checked—between branches?- How can citizens hold their elected representatives accountable when laws differ across states—and what does that say about the health of our republic?\nListen to the introduction.Ask clarifying questions.Begin thinking about how current events relate to constitutional principles.\n\n\n15 mins\nDivide students into six groups, each assigned one Big Idea.Distribute article sets and corresponding data retrieval sheets.Explain how to identify constitutional themes in the articles.\nRead assigned articles.Identify connections between the articles and their group’s Big Idea.Take notes using the data retrieval sheet.\n\n\n20 mins\nFacilitate small group discussions.\nDiscuss findings within the group.Compare perspectives.\n\n\n\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n15 mins\nEncourage students to compare interpretations, ask questions, and synthesize findings.Circulate to support and prompt deeper analysis.Guide group presentations.Encourage students to explain their Big Idea and how it appears in the articles.Moderate a whole-class discussion to compare ideas and explore overlaps or tensions between principles.\nReach consensus on how the articles reflect their Big Idea.Prepare to present key insights.Present group findings to the class. Engage in discussion.Ask questions and respond to others’ presentations.Reflect on how different Big Ideas interact in civic life.\n\n\n10 mins\nLead a debrief using reflection prompts.Encourage students to consider what they learned, what surprised them, and how the activity connects to civic reasoning and personal values.\nReflect individually or in pairs.Respond to prompts.Share insights about civic engagement, constitutional principles, and the relevance of current events.\n\n\n\n\n\n\nFormative Assessment: - Instructor observes group discussions and reviews data sheets\nSummative Assessment: - Optional written reflection or group presentation rubric\n\n\n\nPedagogical Reasoning: - This activity promotes active learning, civic engagement, and critical thinking. - It aligns with the Debate–Discussion–Dialogue framework by encouraging evidence-based discussion and value-based dialogue.\nTips for Adaptation: - Can be adapted for different grade levels by modifying article complexity. - Can be extended into a multi-day project with deeper research.\n\n\n\nCivic Learning Chart: Six Big Ideas of the Constitution\n\n\n\n\n\n\n\n\n\nBig Idea\nCore Idea\nExplanation\nStudent Prompts\n\n\n\n\nPopular Sovereignty\nPeople establish the government through free choice.\nGovernment authority comes from citizens. Officials must govern based on the will of the people. Citizens influence government through elections, protests, petitions, and amendments. Articles I, II, V, and VII of the Constitution reflect this principle.\n- What are the issues?- How are people asking for change?- How does this show people oversee government?\n\n\nRepublicanism\nCitizens elect representatives to act on their behalf.\nIn a republic, voters choose leaders who make decisions for the public good. Representatives may act independently but risk losing office if they ignore public opinion. Article I, Section 2 outlines the election of House members.\n- What are the articles about?- Are the laws different depending on where you live?- How are they different?- Why is voting for representatives important?\n\n\nSeparation of Powers\nPower is divided among legislative, executive, and judicial branches.\nThe Constitution assigns distinct roles to each branch: Congress makes laws (Article I), the President enforces them (Article II), and the courts interpret them (Article III). Shared powers, like treaty approval, require cooperation between branches.\n- What is the issue?- What role does each branch play on this issue?- How does it demonstrate “separation”?\n\n\nChecks and Balances\nEach branch can limit the powers of the others.\nCongress makes laws, but the President can veto them. Congress can override vetoes. The President nominates judges, but the Senate confirms them. Courts can declare laws unconstitutional. This system prevents any one branch from becoming too powerful.\n- What is the issue?- How does each branch check or balance the other?- How does this issue demonstrate checks and balances?\n\n\n\n\n\n\n\n\n\n\n\n\nBig Idea\nCore Idea\nExplanation\nStudent Prompts\n\n\n\n\nLimited Government\nGovernment power is restricted to protect individual rights.\nOfficials must act within the bounds of the Constitution. Congress can only pass laws within its enumerated powers. The Executive must enforce laws as written. Courts can strike down laws or actions that exceed constitutional limits. Federalist No. 78 reinforces this principle.\n- What is the issue?- Who is on each side?- What do they want?- Where is the line for limited government?- How does this relate to “Checks and Balances”?\n\n\nFederalism\nPower is shared between national and state/local governments.\nThe federal government governs national issues; states and localities handle local concerns. The Supremacy Clause (Article VI) ensures federal law prevails in conflicts. Federalist No. 45 explains the balance of powers. Laws vary by location, reflecting local needs and values.\n- What is the issue?- Are the laws different depending on where you live?- How are they different?- Why are the laws different?\n\n\n\nThe following handouts are used in this activity: 1. Separation of Powers 2. Republicanism 3. Federalism 4. Limited Government 5. Popular Sovereignty 6. Checks and Balances\n\n\n\n\n\n\n\n\n\n\n\n\n\nCriteria\nLevel 1\nLevel 2\nLevel 3\nLevel 4\n\n\n\n\nUnderstanding of Constitutional Principle\nMisidentifies or inaccurately explains the principle.\nIdentifies the principle but explanation lacks clarity or depth.\nClearly identifies and explains the principle with some insight.\nThoroughly explains the principle with deep understanding and accurate application.\n\n\nUse of Evidence\nProvides little or no evidence; evidence is irrelevant or missing.\nUses some evidence but lacks clear connection to the principle.\nUses relevant evidence to support analysis with some explanation.\nIntegrates multiple pieces of relevant evidence with strong analysis and clear connection.\n\n\nClarity of Presentation\nUnclear or disorganized; ideas are difficult to follow.\nSome organization but lacks clarity or coherence.\nMostly clear and organized; ideas are understandable.\nClear, well-organized, and effectively communicates ideas with confidence.\n\n\nCollaboration\nMinimal participation; does not contribute to group goals.\nParticipates inconsistently; limited contribution.\nActively participates and contributes to group work.\nConsistently collaborates, supports peers, and contributes meaningfully.\n\n\nCivic Reasoning\nShows little understanding of basic civic values or reasoning; lacks reflection.\nDemonstrates basic civic reasoning with limited reflection.\nApplies civic reasoning with some reflection on values and perspectives.\nDemonstrates strong civic reasoning with thoughtful reflection on values, perspectives, and implications.\n\n\n\n\n\n\n\n\n\nWhat did you learn about your assigned constitutional principle? How did the news articles illustrate this principle in action?\nWhat surprised you or challenged your assumptions? Did the articles present perspectives you hadn’t considered?\nHow did your group reach consensus on the meaning or impact of the articles? What disagreements or different interpretations emerged?\nWhat civic values were at stake in the issues you analyzed? How do these values relate to your own beliefs or experiences?\nWhat questions remain unanswered? What would you want to ask the people involved in the articles?\n\n\n\n\n\nWhat experiences or values might shape someone’s view of this issue differently than yours? How can understanding those perspectives deepen civic engagement?\nHow did your group balance evidence and empathy in your discussion? Were there moments of debate, discussion, or dialogue?\nWhat role should citizens play in shaping government decisions on this issue? What actions could you take to engage with this topic?\n\n### Debate-Focused Prompts - What constitutional principle was most contested in your issue—and how did different sides justify their positions? (Encourages students to identify how constitutional ideas are used to support conflicting arguments.) - Which arguments presented in the articles were most persuasive—and why? (Promotes analysis of rhetorical strategies, use of evidence, and logical reasoning.) - If you had to argue for the side you personally disagree with, how would you build a case using constitutional principles? (Builds empathy and deepens understanding of opposing views.) - What role should debate play in resolving civic disagreements—and what are its limits? (Encourages reflection on the purpose and impact of civic debate in a democratic society.) - How did your group handle disagreement during your discussion? Did you shift toward debate, discussion, or dialogue—and what was most effective? (Helps students evaluate their own discourse strategies and group dynamics.)\n\n\n\n\nWhat evidence from the articles helped your group understand the constitutional principle more clearly—and how did you decide what was most relevant? (Encourages students to reflect on how they selected and interpreted information.)\nHow did your group navigate different interpretations of the same article or issue? What strategies helped you reach a shared understanding? (Promotes metacognition and collaborative reasoning.)\nWhat connections did you find between your Big Idea and other groups’ presentations? How do these principles interact in real civic life? (Encourages synthesis across constitutional ideas.)\nWhat questions did your group raise that remain unanswered—and how might you investigate them further? (Supports curiosity and future civic engagement.)\nHow did your group ensure that all voices were heard during discussion? What made the conversation productive or challenging? (Builds awareness of group dynamics and inclusive discourse.)"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#learning-objectives",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "By the end of this activity, students will be able to: 1. Apply constitutional principles to analyze and evaluate contemporary civic issues, identifying how foundational ideas shape government responses and public debates. 2. Interpret diverse perspectives within news sources, using evidence-based reasoning to assess how different stakeholders invoke constitutional concepts in support of their positions. 3. Engage in structured civic discourse, to explore complex issues with empathy, curiosity, and respect for differing viewpoints. 4. Synthesize group findings into coherent presentations, articulating how constitutional principles inform civic decision-making and proposing informed actions or questions for further inquiry."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#pre-activity-preparation",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#pre-activity-preparation",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Student Preparation: - Read the Constitution - Review the six big ideas of the Constitution: Limited Government, Republicanism, Federalism, Separation of Powers, Checks and Balances, and Popular Sovereignty.\nInstructor Preparation:\n\nPrepare article sets for each big idea\n\nSelect an issue that has been covered in the national news for at least the past five days. Choose a topic around which there are multiple, valid perspectives. The issue should illustrate Constitutional questions of:\n\nSeparation of Powers\nRepublicanism\nFederalism\nChecks and Balances\nPopular Sovereignty\nLimited Government\n\nNews stories may be from national or local sources. The sources should include a variety of conservative and liberal perspectives. Good sources include quotations from affected parties. Avoid opinion pieces. Explainers are helpful and recommended.\n\nPrepare data retrieval sheets for each big idea\nAssign students to groups and distribute materials\n\nAccessibility Considerations: - Ensure readability of articles - Provide language support and accommodations as needed"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#activity-instructions",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#activity-instructions",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Time\nInstructor Delivery\nStudent Actions\n\n\n\n\n5 mins\nIntroduce the Six Big Ideas and explain the activity’s purpose.Use a compelling question or example to spark interest.Connect the activity to course learning outcomes and civic engagement.Examples of questions:- How do the foundational principles of the Constitution shape the way we understand and respond to today’s civic challenges?- Imagine the President issues an executive order that Congress strongly opposes. The courts are asked to decide whether the order is constitutional. What does this situation reveal about how power is shared—and checked—between branches?- How can citizens hold their elected representatives accountable when laws differ across states—and what does that say about the health of our republic?\nListen to the introduction.Ask clarifying questions.Begin thinking about how current events relate to constitutional principles.\n\n\n15 mins\nDivide students into six groups, each assigned one Big Idea.Distribute article sets and corresponding data retrieval sheets.Explain how to identify constitutional themes in the articles.\nRead assigned articles.Identify connections between the articles and their group’s Big Idea.Take notes using the data retrieval sheet.\n\n\n20 mins\nFacilitate small group discussions.\nDiscuss findings within the group.Compare perspectives.\n\n\n\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n15 mins\nEncourage students to compare interpretations, ask questions, and synthesize findings.Circulate to support and prompt deeper analysis.Guide group presentations.Encourage students to explain their Big Idea and how it appears in the articles.Moderate a whole-class discussion to compare ideas and explore overlaps or tensions between principles.\nReach consensus on how the articles reflect their Big Idea.Prepare to present key insights.Present group findings to the class. Engage in discussion.Ask questions and respond to others’ presentations.Reflect on how different Big Ideas interact in civic life.\n\n\n10 mins\nLead a debrief using reflection prompts.Encourage students to consider what they learned, what surprised them, and how the activity connects to civic reasoning and personal values.\nReflect individually or in pairs.Respond to prompts.Share insights about civic engagement, constitutional principles, and the relevance of current events."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#assessment-evaluation",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#assessment-evaluation",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Formative Assessment: - Instructor observes group discussions and reviews data sheets\nSummative Assessment: - Optional written reflection or group presentation rubric"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#additional-notes",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#additional-notes",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Pedagogical Reasoning: - This activity promotes active learning, civic engagement, and critical thinking. - It aligns with the Debate–Discussion–Dialogue framework by encouraging evidence-based discussion and value-based dialogue.\nTips for Adaptation: - Can be adapted for different grade levels by modifying article complexity. - Can be extended into a multi-day project with deeper research."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-a-six-big-ideas-table-and-data-retrieval-sheets",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-a-six-big-ideas-table-and-data-retrieval-sheets",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Civic Learning Chart: Six Big Ideas of the Constitution\n\n\n\n\n\n\n\n\n\nBig Idea\nCore Idea\nExplanation\nStudent Prompts\n\n\n\n\nPopular Sovereignty\nPeople establish the government through free choice.\nGovernment authority comes from citizens. Officials must govern based on the will of the people. Citizens influence government through elections, protests, petitions, and amendments. Articles I, II, V, and VII of the Constitution reflect this principle.\n- What are the issues?- How are people asking for change?- How does this show people oversee government?\n\n\nRepublicanism\nCitizens elect representatives to act on their behalf.\nIn a republic, voters choose leaders who make decisions for the public good. Representatives may act independently but risk losing office if they ignore public opinion. Article I, Section 2 outlines the election of House members.\n- What are the articles about?- Are the laws different depending on where you live?- How are they different?- Why is voting for representatives important?\n\n\nSeparation of Powers\nPower is divided among legislative, executive, and judicial branches.\nThe Constitution assigns distinct roles to each branch: Congress makes laws (Article I), the President enforces them (Article II), and the courts interpret them (Article III). Shared powers, like treaty approval, require cooperation between branches.\n- What is the issue?- What role does each branch play on this issue?- How does it demonstrate “separation”?\n\n\nChecks and Balances\nEach branch can limit the powers of the others.\nCongress makes laws, but the President can veto them. Congress can override vetoes. The President nominates judges, but the Senate confirms them. Courts can declare laws unconstitutional. This system prevents any one branch from becoming too powerful.\n- What is the issue?- How does each branch check or balance the other?- How does this issue demonstrate checks and balances?\n\n\n\n\n\n\n\n\n\n\n\n\nBig Idea\nCore Idea\nExplanation\nStudent Prompts\n\n\n\n\nLimited Government\nGovernment power is restricted to protect individual rights.\nOfficials must act within the bounds of the Constitution. Congress can only pass laws within its enumerated powers. The Executive must enforce laws as written. Courts can strike down laws or actions that exceed constitutional limits. Federalist No. 78 reinforces this principle.\n- What is the issue?- Who is on each side?- What do they want?- Where is the line for limited government?- How does this relate to “Checks and Balances”?\n\n\nFederalism\nPower is shared between national and state/local governments.\nThe federal government governs national issues; states and localities handle local concerns. The Supremacy Clause (Article VI) ensures federal law prevails in conflicts. Federalist No. 45 explains the balance of powers. Laws vary by location, reflecting local needs and values.\n- What is the issue?- Are the laws different depending on where you live?- How are they different?- Why are the laws different?\n\n\n\nThe following handouts are used in this activity: 1. Separation of Powers 2. Republicanism 3. Federalism 4. Limited Government 5. Popular Sovereignty 6. Checks and Balances"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-b-rubrics",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-b-rubrics",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "Criteria\nLevel 1\nLevel 2\nLevel 3\nLevel 4\n\n\n\n\nUnderstanding of Constitutional Principle\nMisidentifies or inaccurately explains the principle.\nIdentifies the principle but explanation lacks clarity or depth.\nClearly identifies and explains the principle with some insight.\nThoroughly explains the principle with deep understanding and accurate application.\n\n\nUse of Evidence\nProvides little or no evidence; evidence is irrelevant or missing.\nUses some evidence but lacks clear connection to the principle.\nUses relevant evidence to support analysis with some explanation.\nIntegrates multiple pieces of relevant evidence with strong analysis and clear connection.\n\n\nClarity of Presentation\nUnclear or disorganized; ideas are difficult to follow.\nSome organization but lacks clarity or coherence.\nMostly clear and organized; ideas are understandable.\nClear, well-organized, and effectively communicates ideas with confidence.\n\n\nCollaboration\nMinimal participation; does not contribute to group goals.\nParticipates inconsistently; limited contribution.\nActively participates and contributes to group work.\nConsistently collaborates, supports peers, and contributes meaningfully.\n\n\nCivic Reasoning\nShows little understanding of basic civic values or reasoning; lacks reflection.\nDemonstrates basic civic reasoning with limited reflection.\nApplies civic reasoning with some reflection on values and perspectives.\nDemonstrates strong civic reasoning with thoughtful reflection on values, perspectives, and implications."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-c-reflection-prompts",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.html#appendix-c-reflection-prompts",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "section": "",
+    "text": "What did you learn about your assigned constitutional principle? How did the news articles illustrate this principle in action?\nWhat surprised you or challenged your assumptions? Did the articles present perspectives you hadn’t considered?\nHow did your group reach consensus on the meaning or impact of the articles? What disagreements or different interpretations emerged?\nWhat civic values were at stake in the issues you analyzed? How do these values relate to your own beliefs or experiences?\nWhat questions remain unanswered? What would you want to ask the people involved in the articles?\n\n\n\n\n\nWhat experiences or values might shape someone’s view of this issue differently than yours? How can understanding those perspectives deepen civic engagement?\nHow did your group balance evidence and empathy in your discussion? Were there moments of debate, discussion, or dialogue?\nWhat role should citizens play in shaping government decisions on this issue? What actions could you take to engage with this topic?\n\n### Debate-Focused Prompts - What constitutional principle was most contested in your issue—and how did different sides justify their positions? (Encourages students to identify how constitutional ideas are used to support conflicting arguments.) - Which arguments presented in the articles were most persuasive—and why? (Promotes analysis of rhetorical strategies, use of evidence, and logical reasoning.) - If you had to argue for the side you personally disagree with, how would you build a case using constitutional principles? (Builds empathy and deepens understanding of opposing views.) - What role should debate play in resolving civic disagreements—and what are its limits? (Encourages reflection on the purpose and impact of civic debate in a democratic society.) - How did your group handle disagreement during your discussion? Did you shift toward debate, discussion, or dialogue—and what was most effective? (Helps students evaluate their own discourse strategies and group dynamics.)\n\n\n\n\nWhat evidence from the articles helped your group understand the constitutional principle more clearly—and how did you decide what was most relevant? (Encourages students to reflect on how they selected and interpreted information.)\nHow did your group navigate different interpretations of the same article or issue? What strategies helped you reach a shared understanding? (Promotes metacognition and collaborative reasoning.)\nWhat connections did you find between your Big Idea and other groups’ presentations? How do these principles interact in real civic life? (Encourages synthesis across constitutional ideas.)\nWhat questions did your group raise that remain unanswered—and how might you investigate them further? (Supports curiosity and future civic engagement.)\nHow did your group ensure that all voices were heard during discussion? What made the conversation productive or challenging? (Builds awareness of group dynamics and inclusive discourse.)"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html",
+    "href": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "",
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#learning-objectives",
+    "href": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#learning-objectives",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nCommunicate essential information about DC’s newly passed Initiative 83 (its timeline, basic changes, what ranked-choice voting is, how to fill out a ballot, why election results may be delayed, what independent voters mean for primary elections, what it means for most DC voters)\n\nDesign a “fact sheet” that is tailored for a public, non-specialized audience\n\nAnalyze the rhetorical success of a complex written document, both for a student’s own group’s document as well as a peer group’s creation\n\nRevise (across a brief but full writing process) to further improve the rhetorical success of the “fact sheet” after collaboration and peer review"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#student-required-prerequisite-knowledgeskills",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nBasic skills in writing"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#instructor-required-materials-set-up",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nRequest students bring computers/tablets to class on day of activity (or arrange for computer access through Gelman Library)\n\nInstructor should familiarize themselves with Canva (or consider the GW-licensed tool Adobe Express).\n\nInstructor should familiarize themselves with Initiative 83 (start here and here)"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic Learning Activity_Richter_DC Democracy.html#accessibility-considerations",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nStudents will need to access Canva (or Adobe Express) on a laptop or tablet. The differences are relatively minor for this activity, but Canva offers lots of functionality and is a free tool students can continue using when they leave GW. Adobe Express is a GW-licensed tool that offers visually stunning designs and a simple, seamless workflow. Students will have to set up an Adobe account through GW ahead of time, however, which could complicate completing this activity in a single class session (see GW IT’s page). For an alternative technology, both Microsoft Word and Google Docs allow for creation of a “fact sheet.” Canva is accessible with screen readers- see “Accessibility Features.”\n\nInternational students or students needing to learn about Initiative 83 in languages other than English should use Google Translate for Ballotpedia and Wikipedia articles."
+  },
+  {
+    "objectID": "data/markdown-docs/Haemer_Risk_Analysis_Student_Handout.html",
+    "href": "data/markdown-docs/Haemer_Risk_Analysis_Student_Handout.html",
+    "title": "Probabilistic Risk Assessment (PRA) Activity",
+    "section": "",
+    "text": "Probabilistic Risk Assessment (PRA) Activity\nHandout One. “On-site Response by Fire and Rescue During a Planned Electrical Outage”\nDescription of Site: The site is a Training and Research Area (TRA) complex. Maintenance work is planned in Building 648 which houses electrical equipment for the TRA complex. It is a two-level structure consisting of the ground-level floor, that contains switchgear, control panels, and power systems, and a basement level, that contains electrical cable trays.\nBuilding 648 is protected from fire by two systems, a dry pipe water sprinkler system and a carbon dioxide fire suppression system. A single fire panel controls both the high-pressure carbon dioxide and dry pipe fire suppression systems. When the system is activated, carbon dioxide is discharged from numerous nozzles in the ceiling of the ground level floor. Carbon dioxide is stored in fifty-five 100-pound bottles and its release will create an atmosphere within the building that is immediately dangerous to life and health.\nThere are several buildings besides Building 648 in the TRA Complex. About 700 yards from Building 648 is the TRA Emergency Control Center (ECC). The TRA ECC contains an emergency response truck housed in the garage on the south side of the ECC. The truck is equipped for emergency fire and rescue response, except that active equipment such as fire extinguishers and oxygen breathing apparatus are stored in racks to facilitate inspection, maintenance, and testing. The racks are in a storeroom on the north side of the ECC.\nDescription of Work: The work is to perform preventive maintenance activity on the Building 648 electrical switchgear including removal of 4160 volt electrical circuit breakers, vacuuming out breaker cubicles, inspecting ground straps, lubricating racking mechanisms, and basic inspections of the switchgear. The work is scheduled to start at 6 PM and conclude by the end of the shift at midnight. The work is scheduled after normal working hours and during the summer to minimize disruptions caused by the loss of power that would occur in conjunction with this work. The work needs to be complete by midnight so that various environmental protection systems can be restarted. All thirteen personnel assigned to the TRA Complex that shift are involved in the work activity: a Site Support Services foreman, a TRA foreman, seven electricians, two operators, a utilities operations supervisor, and a fire protection engineer.\nIn the past, preventive maintenance on these breakers was performed without de-energizing all sections of the 13,800 and 4160 volt buses, but rather by de-energizing only sections of the buses as they were being worked on. To enhance electrical safety during the preventive maintenance, the plan is to de-energize all buses at once when the work starts at 6 PM. In addition to Building 648, the power outage will impact several buildings in the TRA Complex, including the ECC.\nAdditional Information: The TRA Complex has seen decreased use in recent years. Operations for the TRA Complex faces tight budgets, often operating with a skeleton staff, especially when training and research demands are low during the summer months. Other relevant points to consider:\n\nThe operators are cross-trained to assist the fire protection engineer with emergency fire and rescue operations.\nTo minimize wear-and-tear and maximize availability of emergency equipment, the standing orders are that the fire truck should remain in its garage unless responding to an emergency.\nThe garage door on the west side of the ECC must be opened electrically. The manual back-up door operator has been out-of-service for six months. Repair parts are on order but are not expected to be delivered until November.\nThe ECC has a backup diesel generator on the east side of the garage. The generator requires 3 to 5 minutes to come up to speed and supply electrical loads.\nThe only communications available are radios and landline telephones. The landline telephones are considered highly reliable. The radios are reliable depending on atmospheric conditions, generally failing between 1 in 100 to 1 in 1000 times. Atmospheric conditions are expected to be favorable during the work.\nThe nearest off-site fire and rescue response is about 5 miles away and can be expected to respond within fifteen to twenty minutes, depending on traffic.\nWhen responding to an emergency involving an “immediately dangerous to life and health” atmosphere, a search-and-rescue efforts is considered successful when completed within five minutes, preferably within three minutes.\nWhen responding to a fire event, suppressing the fire within fifteen minutes is considered a successful response.\n\n\nProbabilistic Risk Assessment (PRA) Activity\nHandout Two: Small group assignment. Perform a PRA of emergency response during a planned electrical outage at the TRA Complex during work in Building 648. Guidelines for completing this exercise are:\n\nPick a group leader.\nPick a spokesman (may be but need not be the same as the leader)\nIdentify the Initiating Event. From Handout 1, the IE is “emergency fire and rescue response needed”.\nIdentify the decomposing nodes. For example, two decomposing nodes could be “call to respond to a fire” and “call to respond to a carbon dioxide activation (IDLH atmosphere)”.\nDevelop an outline of possible leaf nodes for each decomposing node. Consider basic questions:\n\nWho? On-site or offsite responders?\nWhat? Equipment needed\nWhere? Response location – Building 648 for IDLH atmosphere, TRA Complex for fire.\nWhen? Backshift, 6PM to Midnight.\nPossible failures, like communications glitch, equipment lost or breaks, personnel available, etc.\n\nDraft a fault tree for each decomposing node.\nResearch and assign probabilities for each leaf node. Considering breaking into subgroups for each decomposing node or otherwise dividing the leaf nodes up amongst the group to efficiently complete the fault tree.\nReassemble for peer review of the fault trees. Peer review is an essential part of the PRA process. Reach a consensus or final decision by the leader.\nLook for insights from the fault trees. Are any success paths too hard? Are the risks for any path unacceptable? Can alternate plans reduce the risk? Do the benefits of the alternatives outweigh their costs?\nThe spokesman drafts talking points summarizing the group’s conclusions and synthesizes group input for presentation at the next class."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html",
+    "title": "How do corporations spend in politics?",
+    "section": "",
+    "text": "Creator: Thomas Choate, Teaching Assistant Professor, Strategic Management & Public Policy, GW School of Business\nOriginal Class Context: BADM 2001 Markets and Politics\nPurpose: This activity will increase students’ civic knowledge of corporate involvement in the U.S. political system, enabling them to assess how corporations engage through elections, trade associations, and other means.\nActivity Type: Small group research task\nTime: 50 to 75 minutes\nClass Size: Sufficient to form (ideally, at least four) small groups of 4-5 students\nFor classes smaller than 20, student pairs or individuals students can complete a scaled-down version of the activity."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#student-required-prerequisite-knowledgeskills",
+    "title": "How do corporations spend in politics?",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nStudents should have a basic knwoledge of the U.S. political system including the two major political parties, the legislative role of Congress and state/district geographic election of its members, and that election campaigns are in-part funded through private contributions.\nIdeally, students should be familiar with many major corporations and their industries, or at least the type of products and services they sell.\nTo understand the CPA-Zicklin Index, students should be familiar with and able to read/interpret an index or ranking of companies or organizations, e.g, knowledge of university rankings should suffice.\nRead:\n\nCenter for Political Accountability. How Companies Spend\nCenter for Political Accountability & Zicklin Center for Governance and Business Ethics. CPA-Zicklin Index: A Focus on Transparency [read webpage, especially “How to Get a Perfect Score,” not the actual report]\nOpenSecrets. What is a PAC?\nSkim over for categories of information: Visa 2024 Annual Political Engagement Report. [pdf]"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#instructor-required-materials-set-up",
+    "title": "How do corporations spend in politics?",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nNo physical materials are required, unless technology constraints below apply.\nInstructor computer, internet access, and a projector are needed for part of the activity.\n\nIf not available, distribute a physical copy of the political engagement report for Visa to each group.\n\nStudent computer, internet, and Google docs access is ideal.\n\nIf not available, distribute a physical copy of the political engagement report for a different assigned company and the two worksheets to each group. Or, let the groups choose (in order by lots, etc.) from a set of varied company reports you have printed in advance."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#accessibility-considerations",
+    "title": "How do corporations spend in politics?",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nStudents who use a screenreader may do so and should bring headphones. Fortunately, political engagement reports often include only text and tables, Unfortunately, some political engagement reports, especially in pdf, may lack accessibility features to enable successful use of screenreaders and other tools.\nGroups with students with social disabilities may require additional instructor guidance on assignment of roles and tasks to each student.\nEspecially for international students less familiar with how US corporations spend politically and the terms used, the How Companies Spend webpage in the assigned readings defines technical terms of different types of spending. The full CPA-Zicklin Index provides more detailed descriptions."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-a-handouts-slides",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-a-handouts-slides",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix A: Handouts & Slides",
+    "text": "Appendix A: Handouts & Slides\nFor distribution to students (ideally, digitally):\nA1. Company Political Spending & Disclosure Worksheet [Word doc]\nA2. Company Comparison Worksheet [Word doc] - With both worksheets, feel free to add, modify, or replace questions to be more relevant to the focal political activities and questions in your class.\nA3. 2024 CPA-Zicklin Index of Corporate Political Disclosure and Accountability, Appendix E, “Scored Ranking of All Companies” [pdf]\nFor instructor reference and use: A4. Sample slides [Powerpoint file]\nA5. 2024 CPA-Zicklin Index of Corporate Political Disclosure and Accountability [pdf]\nA6. Visa 2024 Annual Political Engagement Report [pdf]\nA7. A few example political engagement reports that are relatively easy to search:\n\n\n\nBank of America\nCapital One\nCitigroup\nCSX\n\n\n\n\nFord\nGeneral Motors\nMarriott\nMerck\n\n\nMicrosoft\nUnitedHealthGroup\nVerizon\nQualComm\n\n\n\nThe above reports are generally annual, rather than semiannual. They also generally provide information directly, except perhaps for PAC contributions and lobbying expenditure, which are available on OpenSecrets. Not all reports are so kind."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-b-rubrics",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-b-rubrics",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix B: Rubrics",
+    "text": "Appendix B: Rubrics\nI score only for completion, as the distinctions between types of spending are complicated. Further, some political engagement reports are better organized than others. If an answer seems very “off,” consult the source and provide feedback on why this is not correct and where to look instead."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-c-sample-materials",
+    "href": "data/markdown-docs/Civic-Learning-Activity-Choate-Corporation-Political-Spending.html#appendix-c-sample-materials",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix C: Sample Materials",
+    "text": "Appendix C: Sample Materials\nC1. Company Political Spending & Disclosure Worksheet for Visa [Word doc]\nC2. Company Comparison Worksheet for Visa and Mastercard [Word doc]\nThis activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from CTE to discuss implementation in your course, please email teaching@gwu.edu."
+  },
+  {
+    "objectID": "src/pages/contact.html",
+    "href": "src/pages/contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Ready to transform your data into actionable insights? We’d love to hear from you.\n\n\n\n\n    \n        Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message\n    \n    \n\n\n\n\n\n\n\n\n\nEmail\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed\n\n\n\n\nLinkedIn Twitter GitHub\n\n\n\n\n\n    Interactive Map\n    (Replace with actual map embed)\n\n\n\n\n\n\n\nQ: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
+  },
+  {
+    "objectID": "src/pages/contact.html#send-us-a-message",
+    "href": "src/pages/contact.html#send-us-a-message",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Name *\n        \n    \n    \n    \n        Email *\n        \n    \n    \n    \n        Company\n        \n    \n    \n    \n        Project Type\n        \n            Select a project type\n            Data Analytics\n            Dashboard Development\n            Strategic Consulting\n            Team Training\n            Other\n        \n    \n    \n    \n        Estimated Budget\n        \n            Select budget range\n            Under $10,000\n            $10,000 - $25,000\n            $25,000 - $50,000\n            $50,000 - $100,000\n            Over $100,000\n        \n    \n    \n    \n        Message *\n        \n    \n    \n    \n        \n            \n            \n            Subscribe to our newsletter for industry insights and updates\n        \n    \n    \n    Send Message"
+  },
+  {
+    "objectID": "src/pages/contact.html#contact-information",
+    "href": "src/pages/contact.html#contact-information",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Email\nhello@yourorganization.com\nPhone\n+1 (555) 123-4567\nAddress\n123 Innovation Drive\nTech District, CA 94000\nUnited States\nBusiness Hours\nMonday - Friday: 9:00 AM - 6:00 PM PST\nSaturday: 10:00 AM - 2:00 PM PST\nSunday: Closed"
+  },
+  {
+    "objectID": "src/pages/contact.html#connect-with-us",
+    "href": "src/pages/contact.html#connect-with-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "LinkedIn Twitter GitHub"
+  },
+  {
+    "objectID": "src/pages/contact.html#office-location",
+    "href": "src/pages/contact.html#office-location",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Interactive Map\n    (Replace with actual map embed)"
+  },
+  {
+    "objectID": "src/pages/contact.html#frequently-asked-questions",
+    "href": "src/pages/contact.html#frequently-asked-questions",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Q: What types of projects do you typically work on?\nA: We specialize in data analytics, dashboard development, business intelligence solutions, and strategic consulting. Our projects range from small data visualization tasks to enterprise-wide analytics platforms.\nQ: How long does a typical project take?\nA: Project timelines vary based on scope and complexity. Simple dashboards might take 2-4 weeks, while comprehensive analytics platforms can take 3-6 months. We’ll provide a detailed timeline during our initial consultation.\nQ: Do you work with small businesses?\nA: Absolutely! We work with organizations of all sizes, from startups to Fortune 500 companies. We tailor our approach to fit your budget and requirements.\nQ: Can you work with our existing data infrastructure?\nA: Yes, we’re experienced with a wide variety of databases, cloud platforms, and data formats. We’ll assess your current setup and recommend the best integration approach.\nQ: Do you provide ongoing support after project completion?\nA: Yes, we offer various support and maintenance packages to ensure your solutions continue to perform optimally as your business grows.\n\n\nWe typically respond to all inquiries within 24 hours. For urgent matters, please call us directly."
+  },
+  {
+    "objectID": "src/pages/index.html#civic-tech-teaching-learning-materials",
+    "href": "src/pages/index.html#civic-tech-teaching-learning-materials",
+    "title": "GW Nashman Center Open Education Resources (OER)",
+    "section": "Civic Tech Teaching Learning Materials",
+    "text": "Civic Tech Teaching Learning Materials\n\n\nDeveloping\nInitiative to create ready-to-implement classroom activities or assignments to be distributed campus-wide for adaptation to a variety of disciplines\n\n\nSharing\nOur team works together with faculty to help integrate these civic teaching materials into their curriculum.\n\n\nOER\nOpen Educational Resources (OER) are teaching, learning, and research resources that are free of cost and access barriers, and which also carry legal permission for open use.:::"
+  },
+  {
+    "objectID": "src/pages/index.html#about-civic-learning-materials",
+    "href": "src/pages/index.html#about-civic-learning-materials",
+    "title": "GW Nashman Center Open Education Resources (OER)",
+    "section": "About Civic Learning Materials",
+    "text": "About Civic Learning Materials\nThe Honey W. Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence worked with faculty to create new OER materials available to all faculty and staff. These free materials are designed to engage students by introducing innovative cross-discipline classroom activities/assignments that foster civic learning.\nWe believe every college graduate—whether in social sciences, the arts, humanities, business, or STEM —should be prepared to engage as an active citizen. This project aims to provide resources for faculty across disciplines to prepare students with the skills and motivations needed to work to make a difference in the quality of life in the community, through both political and non-political processes.\nActivities or assignments will create opportunities for students to use academic skills in civic contexts, for example, analyzing an issue or policy, or communicating complex issues (scientific, economic, etc.) to public audiences."
+  },
+  {
+    "objectID": "src/pages/index.html#recent-work",
+    "href": "src/pages/index.html#recent-work",
+    "title": "GW Nashman Center Open Education Resources (OER)",
+    "section": "Recent Work",
+    "text": "Recent Work\n\n\nOER example 1\nActivity ……..\nTopic voting registration\nDiscipline data science\n\n\nOER Material 2\nAssignment ……..\nTopic: Gerrymandering\nDiscipline: Geography"
+  },
+  {
+    "objectID": "src/pages/index.html#ready-to-work-together",
+    "href": "src/pages/index.html#ready-to-work-together",
+    "title": "GW Nashman Center Open Education Resources (OER)",
+    "section": "Ready to Work Together?",
+    "text": "Ready to Work Together?\nPlease reach out to the Nashman Center. - Address: 2300 H Street NW, Suite 400 Washington, D.C. 20037 - Phone: 202-994-9900 - Email: gwserves@gwu.edu"
   }
 ]
