@@ -49,11 +49,11 @@ Activities or assignments will create opportunities for students to use academic
 
 ::: {.grid}
 ::: {.g-col-6}
-### OER example 1
-Activity ........
+[### Civic Learning Assignment Yang Understanding Govt Budget
 
-**Topic** voting registration  
-**Discipline** data science
+**Creator** Lang (Kate) Yang, Associate Professor, Trachtenberg School  
+**Topic** Understanding Government Budget  
+**Discipline** Case study](../../data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html){.card-link}
 :::
 
 ::: {.g-col-6}
@@ -65,6 +65,11 @@ Assignment ........
 :::
 :::
 :::
+
+
+
+
+
 
 ::: {.cta-section}
 ## Ready to Work Together?

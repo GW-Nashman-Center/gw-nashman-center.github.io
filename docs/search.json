@@ -543,7 +543,7 @@
     "href": "src/pages/index.html#recent-work",
     "title": "GW Nashman Center Open Education Resources (OER)",
     "section": "Recent Work",
-    "text": "Recent Work\n\n\nOER example 1\nActivity ……..\nTopic voting registration\nDiscipline data science\n\n\nOER Material 2\nAssignment ……..\nTopic: Gerrymandering\nDiscipline: Geography"
+    "text": "Recent Work\n\n\n[### Civic Learning Assignment Yang Understanding Govt Budget\nCreator Lang (Kate) Yang, Associate Professor, Trachtenberg School\nTopic Understanding Government Budget\nDiscipline Case study](../data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html){.card-link}\n\n\nOER Material 2\nAssignment ……..\nTopic: Gerrymandering\nDiscipline: Geography"
   },
   {
     "objectID": "src/pages/index.html#ready-to-work-together",
@@ -558,5 +558,250 @@
     "title": "Teaching/Learning Materials for Civic Learning",
     "section": "",
     "text": "page-layout: custom toc: false —"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "",
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#learning-objectives",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nCommunicate essential information about DC’s newly passed Initiative 83 (its timeline, basic changes, what ranked-choice voting is, how to fill out a ballot, why election results may be delayed, what independent voters mean for primary elections, what it means for most DC voters)\n\nDesign a “fact sheet” that is tailored for a public, non-specialized audience\n\nAnalyze the rhetorical success of a complex written document, both for a student’s own group’s document as well as a peer group’s creation\n\nRevise (across a brief but full writing process) to further improve the rhetorical success of the “fact sheet” after collaboration and peer review"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#student-required-prerequisite-knowledgeskills",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nBasic skills in writing"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#instructor-required-materials-set-up",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nRequest students bring computers/tablets to class on day of activity (or arrange for computer access through Gelman Library)\n\nInstructor should familiarize themselves with Canva (or consider the GW-licensed tool Adobe Express).\n\nInstructor should familiarize themselves with Initiative 83 (start here and here)"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Richter_DC_Democracy.html#accessibility-considerations",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nStudents will need to access Canva (or Adobe Express) on a laptop or tablet. The differences are relatively minor for this activity, but Canva offers lots of functionality and is a free tool students can continue using when they leave GW. Adobe Express is a GW-licensed tool that offers visually stunning designs and a simple, seamless workflow. Students will have to set up an Adobe account through GW ahead of time, however, which could complicate completing this activity in a single class session (see GW IT’s page). For an alternative technology, both Microsoft Word and Google Docs allow for creation of a “fact sheet.” Canva is accessible with screen readers- see “Accessibility Features.”\n\nInternational students or students needing to learn about Initiative 83 in languages other than English should use Google Translate for Ballotpedia and Wikipedia articles."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.html",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.html",
+    "title": "Migrant Inclusion and Integration in Cities",
+    "section": "",
+    "text": "Civic Learning Assignment Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.html#learning-objectives",
+    "title": "Migrant Inclusion and Integration in Cities",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy completing this assignment, students will demonstrate an ability to:\n\nExplain the differences between migrants, refugees, asylum seekers, and internally displaced persons, including their legal definitions and rights.\n\nAnalyze real-world case studies of inclusion and integration of migrants and refugees in different cities, highlighting how these inclusion and integration strategies align with human rights laws.\n\nReflect on the ethical, social, and political dimensions of migration and migrant inclusion in urban settings."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html",
+    "title": "Resiliency Shoebox",
+    "section": "",
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html#learning-objectives",
+    "title": "Resiliency Shoebox",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nList at least one barrier to a community committee trying to promote resiliency\n\nIdentify at least one step that a community committee can take to begin developing solutions to prevent panic\n\nDescribe at least one step to create a project that encourages resiliency\n\nDevelop a beginning plan to encourage community buy-in"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.html#instructor-required-materials-set-up",
+    "title": "Resiliency Shoebox",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nRoom set-up:\nArrange for multiple round tables, seating for 4-6 per table. This is adaptable but the best minimum is 3 tables.\n\nTimer—usually the teacher\n\nFlip chart or multiple white boards, visible to all the tables with black and very brightly colored markers. Someone to record themes presented from each table. Can be the teacher but better is a separate person.\n\nEach table will be given 1 scenario to discuss, 3 total– a different scenario for each table. If there are more than 3 tables, more than 1 table can have the same scenario. Each scenario is the same, with the same questions to answer, but from the point of view of a different community committee.\n\nPrint the 3 different scenarios, enough for 1 per table (see: Appendix B)\n\nPrint 1 copy per student of the “Resiliency Shoebox Activity—Student Sheet.” (see: Appendix C)\n\nPrint 1 copy per student of the “Student Evaluation.” (see: Appendix D)"
+  },
+  {
+    "objectID": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html",
+    "href": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "",
+    "text": "Creator: Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University – coreyadams@gwu.edu\nOriginal Class Context: Adaptable across disciplines; not tied to a specific course\nPurpose: To support student reflection on civic identity and leadership using a civic-based leadership framework.\nActivity Type: Leadership self-assessment, civic identity reflection, and peer dialogue\nTime: Flexible; can be completed in 1–2 class sessions or partially outside of class\nClass Size: Adaptable for small seminars or large lecture-based courses"
+  },
+  {
+    "objectID": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#student-required-prerequisite-knowledgeskills",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nComplete the Civic Leadership Self-Assessment and review personal results. Students should bring their results to class for discussion and reflection."
+  },
+  {
+    "objectID": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#instructor-required-materials-set-up",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nReview the Civic Leadership Self-Assessment instructions and ensure students have access in advance.\nPrepare to facilitate small-group or paired peer dialogues.\nNo specialized technology is required beyond discussion tools and optional slides."
+  },
+  {
+    "objectID": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#accessibility-considerations",
+    "href": "data/markdown-docs/Adams_Civic_Leadership_Activity_Guide.html#accessibility-considerations",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nEnsure materials are available in accessible formats.\nAllow flexibility in how students complete and present the Public Impact Map (written narrative, infographic, or spoken presentation)."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html",
+    "title": "How do corporations spend in politics?",
+    "section": "",
+    "text": "Creator: Thomas Choate, Teaching Assistant Professor, Strategic Management & Public Policy, GW School of Business\nOriginal Class Context: BADM 2001 Markets and Politics\nPurpose: This activity will increase students’ civic knowledge of corporate involvement in the U.S. political system, enabling them to assess how corporations engage through elections, trade associations, and other means.\nActivity Type: Small group research task\nTime: 50 to 75 minutes\nClass Size: Sufficient to form (ideally, at least four) small groups of 4-5 students\nFor classes smaller than 20, student pairs or individuals students can complete a scaled-down version of the activity."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#student-required-prerequisite-knowledgeskills",
+    "title": "How do corporations spend in politics?",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nStudents should have a basic knwoledge of the U.S. political system including the two major political parties, the legislative role of Congress and state/district geographic election of its members, and that election campaigns are in-part funded through private contributions.\nIdeally, students should be familiar with many major corporations and their industries, or at least the type of products and services they sell.\nTo understand the CPA-Zicklin Index, students should be familiar with and able to read/interpret an index or ranking of companies or organizations, e.g, knowledge of university rankings should suffice.\nRead:\n\nCenter for Political Accountability. How Companies Spend\nCenter for Political Accountability & Zicklin Center for Governance and Business Ethics. CPA-Zicklin Index: A Focus on Transparency [read webpage, especially “How to Get a Perfect Score,” not the actual report]\nOpenSecrets. What is a PAC?\nSkim over for categories of information: Visa 2024 Annual Political Engagement Report. [pdf]"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#instructor-required-materials-set-up",
+    "title": "How do corporations spend in politics?",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nNo physical materials are required, unless technology constraints below apply.\nInstructor computer, internet access, and a projector are needed for part of the activity.\n\nIf not available, distribute a physical copy of the political engagement report for Visa to each group.\n\nStudent computer, internet, and Google docs access is ideal.\n\nIf not available, distribute a physical copy of the political engagement report for a different assigned company and the two worksheets to each group. Or, let the groups choose (in order by lots, etc.) from a set of varied company reports you have printed in advance."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#accessibility-considerations",
+    "title": "How do corporations spend in politics?",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nStudents who use a screenreader may do so and should bring headphones. Fortunately, political engagement reports often include only text and tables, Unfortunately, some political engagement reports, especially in pdf, may lack accessibility features to enable successful use of screenreaders and other tools.\nGroups with students with social disabilities may require additional instructor guidance on assignment of roles and tasks to each student.\nEspecially for international students less familiar with how US corporations spend politically and the terms used, the How Companies Spend webpage in the assigned readings defines technical terms of different types of spending. The full CPA-Zicklin Index provides more detailed descriptions."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-a-handouts-slides",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-a-handouts-slides",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix A: Handouts & Slides",
+    "text": "Appendix A: Handouts & Slides\nFor distribution to students (ideally, digitally):\nA1. Company Political Spending & Disclosure Worksheet [Word doc]\nA2. Company Comparison Worksheet [Word doc] - With both worksheets, feel free to add, modify, or replace questions to be more relevant to the focal political activities and questions in your class.\nA3. 2024 CPA-Zicklin Index of Corporate Political Disclosure and Accountability, Appendix E, “Scored Ranking of All Companies” [pdf]\nFor instructor reference and use: A4. Sample slides [Powerpoint file]\nA5. 2024 CPA-Zicklin Index of Corporate Political Disclosure and Accountability [pdf]\nA6. Visa 2024 Annual Political Engagement Report [pdf]\nA7. A few example political engagement reports that are relatively easy to search:\n\n\n\nBank of America\nCapital One\nCitigroup\nCSX\n\n\n\n\nFord\nGeneral Motors\nMarriott\nMerck\n\n\nMicrosoft\nUnitedHealthGroup\nVerizon\nQualComm\n\n\n\nThe above reports are generally annual, rather than semiannual. They also generally provide information directly, except perhaps for PAC contributions and lobbying expenditure, which are available on OpenSecrets. Not all reports are so kind."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-b-rubrics",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-b-rubrics",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix B: Rubrics",
+    "text": "Appendix B: Rubrics\nI score only for completion, as the distinctions between types of spending are complicated. Further, some political engagement reports are better organized than others. If an answer seems very “off,” consult the source and provide feedback on why this is not correct and where to look instead."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-c-sample-materials",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.html#appendix-c-sample-materials",
+    "title": "How do corporations spend in politics?",
+    "section": "Appendix C: Sample Materials",
+    "text": "Appendix C: Sample Materials\nC1. Company Political Spending & Disclosure Worksheet for Visa [Word doc]\nC2. Company Comparison Worksheet for Visa and Mastercard [Word doc]\nThis activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from CTE to discuss implementation in your course, please email teaching@gwu.edu."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html",
+    "title": "Understanding government budget",
+    "section": "",
+    "text": "Creator: Lang (Kate) Yang, Associate Professor, Trachtenberg School\nOriginal Class Context: PPPA 6005, Public Budgeting, Revenue, and Expenditure Analysis\nPurpose: Through this assignment, students will learn about the essential components of a government budget, practice finding information within a budget, and participate in the government budgeting deliberation process.\nActivity Type: Case study\nTime: For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment.\nClass Size: The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html#a1.-reading-budget-documents",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html#a1.-reading-budget-documents",
+    "title": "Understanding government budget",
+    "section": "A1. Reading budget documents",
+    "text": "A1. Reading budget documents\nPurpose: In this assignment, you will read the budget documents identified earlier to extract useful information. Through this process, you will understand the main components of a government budget, practice searching for and identifying relevant information from a large document, as well as synthesize and communicate findings.\nTask: Skim through the budget. Pay close attention to the budget summary (if there is one) and the main table reporting on total revenue and total spending. Because budget documents are often very long, it is a good idea to start with the table of contents and identify the summary section/table that may contain the headline numbers. For the last question on the budgeted spending for specific purposes, use the search function (ctrl + F) to search for key words and identify relevant sections of the document.\nWrite a short, one-page memo identifying your observations. Write the memo from the perspective of an analyst for a local interest group, which may be the local chamber of commerce or a trade group. Your memo should discuss:\n\nThe entity and documents you reference (include a link to the budget documents.\nThe size of the budget, that is, planned total spending. List the page number where you find such information. Moreover, is the budget balanced?\nThe major components of spending (policy areas that are funded) and major sources of revenue. List the page number where you find such information.\nAnticipated changes in total spending from the previous year. List the page number where you find such information.\n[Customized for each course: here we use cybersecurity as an example.] Does the budget explicitly address the issue of cybersecurity, if so, in what way? Can you identify how much money is appropriated for the purpose of enhancing cybersecurity of government functions or implementing cybersecurity policies in the community?\n\nGrading criteria: activity-based grading. By addressing all issues listed above, you will receive full points for answering all questions, not based on the accuracy of your answers."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html#a2.-participating-in-budget-hearings",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.html#a2.-participating-in-budget-hearings",
+    "title": "Understanding government budget",
+    "section": "A2. Participating in budget hearings",
+    "text": "A2. Participating in budget hearings\nPurpose: By now, you have obtained a basic understanding of the local government’s proposed budget for the upcoming fiscal year. In this part of the assignment, you will participate in the online public hearing session to see public participation in government policymaking in action.\nTask: You will answer four questions, two prior to the hearing and two after the hearing. When all four questions are completed, you will post your responses on a discussion forum thread to share with the rest of the class. After reading about each other’s experience and observations, we will discuss in class the value of public participation in government budgeting and the opportunities for improving public participation.\n\nPre-hearing:\n1.1. What are the major issues faced by the government that you think should be addressed at the budget hearing?\n1.2. If you were to ask one question or make one comment at the hearing, what would that be? In addition, explain the perspective from which you are raising the question/comment: individual resident, representative of a local interest group, etc.\nPost-hearing:\n2.1. Were the “major issues” you had identified actually discussed at the hearing? If yes, who initiated such discussions?\n2.2. What is the one observation you would make based on the hearing? The observation could be on your question/comment if you actually raised it, or on other aspects of public participation in the budget process.\n\nGrading criteria: activity-based grading. By addressing all issues listed above, you will receive full points for answering all questions, not based on the accuracy of your answers.\nThis activity guide was developed as part of a collaborative initiative between the Nashman Center for Civic Engagement and Public Service and the Center for Teaching Excellence (CTE) Faculty Development team. If you are interested in meeting with someone from the CTE to discuss implementation in your course, please email teaching@gwu.edu."
+  },
+  {
+    "objectID": "data/markdown-docs/Adams_Standalone_Civic_Leadership_Self_Assessment.html",
+    "href": "data/markdown-docs/Adams_Standalone_Civic_Leadership_Self_Assessment.html",
+    "title": "Civic Leadership Self-Assessment",
+    "section": "",
+    "text": "Civic Leadership Self-Assessment\nThis self-assessment is designed to help you reflect on your civic identity and leadership development. It is based on a four-domain framework that includes: Public Service Motivation, Democratic Accountability, Political Astuteness, and Public Value Orientation.\n\n\nInstructions\nRate each of the following statements on a scale from 1 to 5:\n1 – Strongly Disagree | 2 – Disagree | 3 – Neutral | 4 – Agree | 5 – Strongly Agree\n\n\nSelf-Assessment Statements\n\nPublic Service Motivation: I am driven by a deep commitment to serve others and contribute to the public good.\nDemocratic Accountability: I consider how my actions affect public trust and strive to ensure transparency.\nPolitical Astuteness: I can navigate diverse perspectives and build coalitions across differences.\nPublic Value Orientation:** I think beyond efficiency and consider what outcomes truly benefit society.\n\n\n\nReflection Prompts\n\nWhat experience or value has most shaped your desire to serve others?\nWhen have you had to take responsibility for decisions that affected others? What did you learn?\nHow do you typically respond to conflict or disagreement in group settings?\nIdentify one issue in your community or discipline where you’d like to make a difference.\n\n\n\nInterpreting Your Results\nDomain-by-Domain Interpretation\n\n\n\n\n\n\n\nScore Range\nInterpretation\n\n\n\n\n1–2\nYou may have limited awareness or experience in this area. Consider opportunities for growth, such as observing civic leaders, engaging in group projects, or learning about this competency through coursework or service.\n\n\n3\nYou are developing awareness but may not yet consistently act on it. Reflect on what experiences might help you strengthen this competency.\n\n\n4-5\nYou demonstrate a strong orientation in this area. Think about how you can build on this strength to contribute to civic efforts or mentor others.\n\n\n\nPublic Service Motivation – Reflects your internal commitment to serve others and advance the public good. Democratic Accountability – Reflects your attention to public trust, transparency, and responsiveness in decision-making. Political Astuteness – Reflects your ability to navigate diverse viewpoints, build consensus, and lead ethically in complex environments. Public Value Orientation – Reflects your consideration of how your work or leadership contributes meaningfully to societal benefit.\nSummary Profile Interpretation - High across all domains (scores of 4–5): You likely see yourself as a civic-minded leader and may already be active in community or organizational leadership. Consider ways to deepen or apply your leadership across public contexts. - Mixed scores (some 4–5, others 1–3): You may be strong in certain areas but have opportunities for development in others. Use your strengths to build confidence while targeting growth areas through service, dialogue, or academic challenges. - Lower scores (mostly 1–3): This may indicate you’re at the beginning of your civic leadership journey. That’s completely okay—use this reflection as a starting point to explore new ways of thinking about leadership, responsibility, and impact.\nRegardless of your results, this activity is about self-awareness—not judgment. The goal is to help you recognize your leadership potential and begin shaping how you want to contribute to your community and field."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html",
+    "title": "DC Stories",
+    "section": "",
+    "text": "Civic Learning Activity Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#learning-objectives",
+    "title": "DC Stories",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this activity, students will be able to:\n\nReflect on their own emerging DC stories\n\nExamine the factors that shape people’s experiences of places\n\nDescribe key principles of community-engaged research methods\n\nPractice designing community-engaged research questions"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#student-required-prerequisite-knowledgeskills",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#student-required-prerequisite-knowledgeskills",
+    "title": "DC Stories",
+    "section": "Student: Required Prerequisite Knowledge/Skills",
+    "text": "Student: Required Prerequisite Knowledge/Skills\n\nThere are no prerequisites to this activity"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#instructor-required-materials-set-up",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#instructor-required-materials-set-up",
+    "title": "DC Stories",
+    "section": "Instructor: Required Materials & Set up",
+    "text": "Instructor: Required Materials & Set up\n\nAbility to project the slide deck; instructors can also create a handout instead\n\nGroups will refer to the community-engaged methods infographic; instructors should print a copy for each student or ensure students can access it digitally"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#accessibility-considerations",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#accessibility-considerations",
+    "title": "DC Stories",
+    "section": "Accessibility Considerations",
+    "text": "Accessibility Considerations\n\nThe homework associated with this activity asks students to visit the GW Museum and take a photograph. The museum is designed to be accessible, and students can contact museuminfo@gwu.edu with questions. This activity could also be effective without a museum visit.\n\nStudents who do not have access to a photographic device may describe an image instead. Visually impaired students may need to share a verbal description instead of a photograph and prompt their partners to provide a verbal description\n\nSlides are designed using a template that incorporates best practices for accessibility and usability\n\nWhen presenting, instructors can turn on captions\n\nThe in-class activity asks students to raise hands and move around the room and may need to be adjusted based on available space and mobility considerations"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#initial-class-session-20-25-minutes-at-end-of-class",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#initial-class-session-20-25-minutes-at-end-of-class",
+    "title": "DC Stories",
+    "section": "Initial class session: 20-25 minutes at end of class",
+    "text": "Initial class session: 20-25 minutes at end of class\n\n\n\n\n\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n8 mins\nDC terminology: engage students by asking which terms they’re familiar with, or what they would add to the list\nWeigh in on knowledge and curiosity about DC terms\n\n\n12-15 mins\nDecide whether to facilitate a discussion or an activity (like a gallery walk or poll with up-voting) Decide whether to use small groups or a whole-class format Address the following questions: How have you interacted with DC so far? What do you want to explore?\nParticipate in discussion\n\n\n2 mins\nExplain homework\nListen actively"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#homework",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#homework",
+    "title": "DC Stories",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n~1 hour (for students)\nPost hours and information for GW Museum on course site\nVisit From A to DC: Transportation in Washington exhibit at GW museum\n\n\n~10 mins\nPost prompt for photograph assignment\nTake a photograph based on this prompt: In your daily travels around Foggy Bottom, the Vern, or any other part of the region, take a picture you think tells us something about access to transportation in DC. It could be a flyer, a sign, a piece of infrastructure, etc. Please be respectful about what you choose to photograph. Be prepared to talk about what you noticed, why you chose this picture, and what questions the image raises for you."
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#dedicated-class-session-50-minutes",
+    "href": "data/markdown-docs/Civic_Learning_Activity_Atias_DC_Stories.html#dedicated-class-session-50-minutes",
+    "title": "DC Stories",
+    "section": "Dedicated class session: 50 minutes",
+    "text": "Dedicated class session: 50 minutes\nNote: for more details, see the speaker notes in the slide deck\n\n\n\nTime\nInstructor Delivery\nStudent Actions\n\n\n\n\n8 mins\nIntroduction & Engagement Pair activity drawing on homework: As students settle into class, ask them to turn to a partner and share their images, describing why they chose a particular image, what questions it raises, and whether/how the GW Museum exhibit informed their observations. Poll students about whether their photographs depict access or a barrier to access\nShare and reflect on photographs in pairs\n\n\n20-25 mins\nIntroducing community-engaged methods Engage students by asking them about agency in their lives Frame the ongoing question: how can we use community-engaged and participatory methods to support people making decisions about their lives and advocate for what they need? Share infographic: give students time to read, process, and discuss\nRespond to reflective prompts about agency in decision-making; carefully read the infographic; participate in discussion about the graphic\n\n\n15-20 mins\nSmall groups: community-engaged transit research Instructor circulates while students brainstorm in groups of 4-5\nRespond to prompts on the slides\n\n\n5 mins\nDebrief/Reflection Reflect on the process of developing community-engaged approaches to your questions\nShare insights from your small-group discussions"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Santucci_Article_Hunt.html",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Santucci_Article_Hunt.html",
+    "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
+    "section": "",
+    "text": "Civic Learning Assignment Guide"
+  },
+  {
+    "objectID": "data/markdown-docs/Civic_Learning_Assignment_Santucci_Article_Hunt.html#learning-objectives",
+    "href": "data/markdown-docs/Civic_Learning_Assignment_Santucci_Article_Hunt.html#learning-objectives",
+    "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy completing this assignment, students will demonstrate an ability to:\n\nFind journal articles on topics of interest to them.\n\nVerify that such an article is peer-reviewed.\n\nIdentify the central cause-effect claim of a journal article.\n\nSay what evidence on which it rests.\n\nSay how the claim modifies, falsifies, or enhances one from a different reading (e.g., one central to a syllabus).\n\nSay what sorts of policy intervention(s) the claim implies.\n\nPoint to weaknesses in a truth claim."
   }
 ]
