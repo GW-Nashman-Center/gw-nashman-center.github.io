@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding government budget",
+    "creator": "Lang (Kate) Yang, Associate Professor, Trachtenberg School",
+    "type": "Activity",
+    "time": "For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment.",
+    "class_size": "The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10.",
+    "path": "../../docs/Civic_Learning_Assignment_Yang_Understanding_Govt_Budget.md"
+  },
+  {
+    "id": "2",
+    "title": "Communicating DC’s Democracy: Using Canva to Make Initiative 83 & Ranked-Choice Voting Fact Sheets",
+    "creator": "Jacob D. Richter, Teaching Assistant Professor of Writing, University Writing Program",
+    "type": "Activity",
+    "time": "75 mins [with various opportunities for expansion/contraction]",
+    "class_size": "All class sizes [with perhaps slightly more functionality for smaller class sizes]",
+    "path": "../../docs/Civic_Learning_Activity_Richter_DC_Democracy.md"
+  },
+  {
+    "id": "3",
+    "title": "Civic Leadership Self-Assessment & Public Impact Map",
+    "creator": "Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University",
+    "type": "Self-Assessment",
+    "time": "Flexible; can be completed in 1–2 class sessions or partially outside of class",
+    "class_size": "Adaptable for small seminars or large lecture-based courses",
+    "path": "../../docs/Adams_Civic_Leadership_Activity_Guide.md"
+  },
+  {
+    "id": "4",
+    "title": "Civic Leadership Self-Assessment",
+    "creator": "Corey D. Adams, Ed.D., Public Sector Chief Learning Officer and Adjunct Professor, Human and Organizational Learning, Graduate School of Education and Human Development, George Washington University",
+    "type": "Self-Assessment",
+    "time": "N/A",
+    "class_size": "N/A",
+    "path": "../../docs/Adams_Standalone_Civic_Leadership_Self_Assessment.md"
+  },
+  {
+    "id": "5",
+    "title": "DC Stories",
+    "creator": "Daphna Atias (Educational Developer, GW Center for Teaching Excellence)",
+    "type": "Activity",
+    "time": "Multiple sessions: 20 minutes to introduce during one class session, then homework, then 50 minutes in a subsequent class session",
+    "class_size": "Students work in small groups of 3-4. This activity will be used in a class of 18 but can easily scale up or down with changes in how students share out",
+    "path": "../../docs/Civic_Learning_Activity_Atias_DC_Stories.md"
+  },
+  {
+    "id": "6",
+    "title": "DC Stories",
+    "creator": "Daphna Atias (Educational Developer, GW Center for Teaching Excellence)",
+    "type": "Activity",
+    "time": "Multiple sessions: 20 minutes to introduce during one class session, then homework, then 50 minutes in a subsequent class session",
+    "class_size": "Students work in small groups of 3-4. This activity will be used in a class of 18 but can easily scale up or down with changes in how students share out",
+    "path": "../../docs/Civic_Learning_Activity_Atias_DC_Stories.md"
+  },
+  {
+    "id": "7",
+    "title": "Migrant Inclusion and Integration in Cities",
+    "creator": "Elizabeth Chacko, Professor, Geography and Environment.",
+    "type": "Assignment",
+    "time": "This is an in-class assignment and can be completed in an hour and 15 minutes. However, it can also be converted into a research paper.",
+    "class_size": "Recommended number of students for in-class exercise: 15-25 students.",
+    "path": "../../docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.md"
+  },
+  {
+    "id": "8",
+    "title": "How do corporations spend in politics?",
+    "creator": "Thomas Choate, Teaching Assistant Professor, Strategic Management & Public Policy, GW School of Business",
+    "type": "Research Task",
+    "time": "50 to 75 minutes",
+    "class_size": "Sufficient to form (ideally, at least four) small groups of 4-5 students. For classes smaller than 20, student pairs or individuals students can complete a scaled-down version of the activity.",
+    "path": "../../docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.md"
+  },
+  {
+    "id": "9",
+    "title": "Gaining Practical Insights From Risk Analysis",
+    "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
+    "type": "Activity",
+    "time": "15 minutes for presentation of topic in first class. Then, 15-25 minutes to discuss the homework assignment in the next following class. Group spokesperson should lead a discussion of insights from homework (about five minutes for each group).",
+    "class_size": "Recommended number of participants is 15-25 students, breaking into small groups of 4-5 students for the homework, resulting in 3-5 groups for the follow up class discussions.",
+    "path": "../../docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.md"
+  },
+  {
+    "id": "10",
+    "title": "Haemer Risk Analysis Presentation Rubric",
+    "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
+    "type": "Presentation",
+    "time": "N/A",
+    "class_size": "N/A",
+    "path": "../../docs/Haemer_Risk_Analysis_Presentation_Rubric.md"
+  },
+  {
+    "id": "11",
+    "title": "Probabilistic Risk Assessment (PRA) Activity",
+    "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
+    "type": "Activity",
+    "time": "N/A",
+    "class_size": "N/A",
+    "path": "../../docs/Haemer_Risk_Analysis_Student_Handout.md"
+  },
+  {
+    "id": "12",
+    "title": "Resiliency Shoebox",
+    "creator": "Sandy Hoar, Assistant Clinical Professor, Physician Assistant Studies; Global Health",
+    "type": "Group discussion",
+    "time": "This is designed as a one-time 4-hour activity, not including breaks, but can be modified to about 2 hours 15 minutes, not including any concluding information or breaks.",
+    "class_size": "This is designed for a class of 12-18 students, in three small groups, but can be increased to include more students, though then will take longer to complete.",
+    "path": "../../docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.md"
+  },
+  {
+    "id": "13",
+    "title": "Constitution in Action: Connecting Founding Principles to Current Events",
+    "creator": "Elizabeth L. Maurer, Instructor, Graduate School of Education and Human Development, Master’s in Museum Education program",
+    "type": "Group discussion",
+    "time": "65 minutes",
+    "class_size": "12–30 students, working in small groups",
+    "path": "../../docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.md"
+  },
+  {
+    "id": "14",
+    "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
+    "creator": "Jack Santucci, Professorial Lecturer, Political Science",
+    "type": "Activity",
+    "time": "1-2 class sessions, then about 2 hours’ independent work.",
+    "class_size": "Any. However, teaching assistants may be needed for grading with large enrollments.",
+    "path": "../../docs/Civic_Learning_Assignment_Santucci_Article_Hunt.md"
+  }
+]

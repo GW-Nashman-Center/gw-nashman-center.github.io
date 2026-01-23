@@ -1,0 +1,117 @@
+---
+// Recent Work component 
+---
+
+<section id="view-work" class="recent-work-section">
+    <div class="recent-work-container">
+        <h2 class="recent-work-title">
+            Recent Work
+            <span class="title-underline"></span>
+        </h2>
+        <div class="recent-work-grid">
+            <div class="work-card">
+                <h3 class="work-heading">Civic Engagement in Environmental Studies</h3>
+                <p class="work-description">
+                    A comprehensive module designed to integrate civic engagement principles into environmental studies curricula, fostering active participation in community sustainability initiatives.
+                </p>
+                <button class="learn-more-btn">Learn More</button>
+            </div>
+            <div class="work-card">
+                <h3 class="work-heading">Urban Policy and Community Action</h3>
+                <p class="work-description">
+                    This resource provides educators with tools to teach urban policy through the lens of community action, encouraging students to engage with local governance and advocacy.
+                </p>
+                <button class="learn-more-btn">Learn More</button>
+            </div>
+            <div class="work-card">
+                <h3 class="work-heading">Digital Literacy for Civic Participation</h3>
+                <p class="work-description">
+                    A curriculum module focused on enhancing digital literacy skills to empower students to effectively participate in civic discourse and online activism.
+                </p>
+                <button class="learn-more-btn">Learn More</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+	.recent-work-section {
+		padding: 5rem 2rem;
+		background: white;
+	}
+
+	.recent-work-container {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
+	.recent-work-title {
+		font-size: 2.5rem;
+		font-weight: 600;
+		color: #1f2937;
+		text-align: center;
+		margin: 0 0 4rem 0;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.recent-work-grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 3rem;
+		margin-top: 3rem;
+	}
+
+	.work-card {
+		text-align: center;
+		padding: 2rem;
+		border: 1px solid #e5e7eb;
+		border-radius: 8px;
+		background: white;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+		transition: all 0.3s ease;
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+	}
+
+	.work-card:hover {
+		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+		transform: translateY(-4px);
+		border-color: #3b82f6;
+	}
+
+	.work-heading {
+		font-size: 1.25rem;
+		font-weight: 600;
+		color: #1f2937;
+		margin: 0;
+	}
+
+	.work-description {
+		font-size: 0.95rem;
+		color: #4b5563;
+		line-height: 1.7;
+		margin: 0;
+		flex-grow: 1;
+	}
+
+	.learn-more-btn {
+		background: #3b82f6;
+		color: white;
+		border: none;
+		border-radius: 6px;
+		padding: 0.625rem 1.25rem;
+		font-size: 0.875rem;
+		font-weight: 500;
+		cursor: pointer;
+		transition: background 0.2s ease;
+		margin-top: auto;
+	}
+
+	.learn-more-btn:hover {
+		background: #2563eb;
+	}
+</style>
