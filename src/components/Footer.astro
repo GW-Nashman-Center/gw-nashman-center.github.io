@@ -1,0 +1,71 @@
+---
+// Footer component for the main page
+---
+<footer class="footer">
+    <div class="footer-container">
+        <h2 class="footer-title">
+            Ready to Work Together?
+            <span class="title-underline"></span>
+            </h2>
+    </div>
+    <div class="footer-content">
+        <p class="footer-text">Please reach out to the Nashman Center.</p>
+        <p class="footer-text">Address: 2300 H St NW, Suite 400</p>
+        <p class="footer-text"> Washington, D.C. 20037</p>
+        <p class="footer-text">Phone: 202-994-9900</p>
+        <p class="footer-text">Email: gwserves@gwu.edu</p>
+    </div>
+</footer>
+
+
+<style>
+    .footer{
+        background: linear-gradient(135deg, #4f46e5 0%, #5b21b6 100%);
+        padding: 4rem 2rem;
+        color: white;
+    }
+    .footer-container{
+        max-width: 1200px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .footer-title{
+        font-size: 2.5rem;
+        font-weight: 600;
+        margin: 0 0 3rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    .title-underline{
+        width: 80px;
+        height: 4px;
+        background: white;
+        border-radius: 2px;
+    }
+    .footer-content{
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    .footer-text{
+        font-size: 1.1rem;
+        line-height: 1.8;
+        margin: 0;
+        opacity: 0.95;
+    }
+    @media screen and (max-width: 768px){
+        .footer{
+            padding: 3rem 1.5rem;
+        }
+        .footer-title{
+            font-size: 1.75rem;
+            margin-bottom: 2rem;
+        }
+        .footer-text{
+            font-size: 0.95rem;
+        }
+    }
+</style>
