@@ -1,5 +1,6 @@
 ---
 // Recent Work component 
+import recentWork from "../data/recent-work.json";
 ---
 
 <section id="view-work" class="recent-work-section">
@@ -11,9 +12,11 @@
         <div class="recent-work-grid">
             <div class="work-card">
                 <h3 class="work-heading">Civic Engagement in Environmental Studies</h3>
-                <p class="work-description">
-                    A comprehensive module designed to integrate civic engagement principles into environmental studies curricula, fostering active participation in community sustainability initiatives.
-                </p>
+                <p class="work-creator">Creator: <span><b>Lang (Kate) Yang, Associate Professor, Trachtenberg School</b></span></p>
+				<p class="work-type">Type: <span><b>Activity</b></span></p>
+				<p class="work-time">Time: <span>For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment.</span></p>
+				<p class="work-size">Class Size: <span>The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10.</span></p>
+				
                 <button class="learn-more-btn">Learn More</button>
             </div>
             <div class="work-card">
@@ -90,7 +93,7 @@
 		margin: 0;
 	}
 
-	.work-description {
+	.work-time, .work-size {
 		font-size: 0.95rem;
 		color: #4b5563;
 		line-height: 1.7;
