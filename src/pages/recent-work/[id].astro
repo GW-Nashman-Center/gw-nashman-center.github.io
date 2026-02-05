@@ -1,6 +1,9 @@
 ---
 import recentWork from "../../data/recent-work.json";
 
+// Import all markdown files at build time
+const markdownFiles = import.meta.glob('../../docs/*.md');
+
 export function getStaticPaths() {
   return recentWork.map((item) => ({
     params: { id: item.id }
@@ -15,7 +18,19 @@ if (!item) {
   throw new Error("Not found");
 }
 
-const Markdown = await import(item.path);
+// Convert the path from item to match the glob pattern
+// If item.path is like "/docs/filename.md", convert to "../../docs/filename.md"
+const markdownPath = `../../docs/${item.path.split('/').pop()}`;
+
+// Get the correct module
+const markdownModule = markdownFiles[markdownPath];
+
+if (!markdownModule) {
+  throw new Error(`Markdown file not found: ${markdownPath}`);
+}
+
+// Load the markdown content
+const Markdown = await markdownModule();
 ---
 
 <main>
