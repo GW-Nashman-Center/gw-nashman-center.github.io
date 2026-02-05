@@ -1,120 +1,142 @@
 ---
-// Recent Work component 
 import recentWork from "../data/recent-work.json";
 ---
 
-<section id="view-work" class="recent-work-section">
-    <div class="recent-work-container">
-        <h2 class="recent-work-title">
-            Recent Work
-            <span class="title-underline"></span>
-        </h2>
-        <div class="recent-work-grid">
-            <div class="work-card">
-                <h3 class="work-heading">Civic Engagement in Environmental Studies</h3>
-                <p class="work-creator">Creator: <span><b>Lang (Kate) Yang, Associate Professor, Trachtenberg School</b></span></p>
-				<p class="work-type">Type: <span><b>Activity</b></span></p>
-				<p class="work-time">Time: <span>For the first part of the assignment, students will work outside of the class over the course of a week to review a government’ budget documents and draft a memo. For the optional second part of the assignment, students will participate in an online budget hearing session that usually lasts for one hour, reflect on the experience, and answer a few questions. The instructor may choose to include a brief in-class discussion following the assignment.</span></p>
-				<p class="work-size">Class Size: <span>The assignment can be done by individual students or by small groups of 2-3 students. The recommended total number of students (if individual work) or student groups is 6-10.</span></p>
-				
-                <button class="learn-more-btn">Learn More</button>
-            </div>
-            <div class="work-card">
-                <h3 class="work-heading">Urban Policy and Community Action</h3>
-                <p class="work-description">
-                    This resource provides educators with tools to teach urban policy through the lens of community action, encouraging students to engage with local governance and advocacy.
-                </p>
-                <button class="learn-more-btn">Learn More</button>
-            </div>
-            <div class="work-card">
-                <h3 class="work-heading">Digital Literacy for Civic Participation</h3>
-                <p class="work-description">
-                    A curriculum module focused on enhancing digital literacy skills to empower students to effectively participate in civic discourse and online activism.
-                </p>
-                <button class="learn-more-btn">Learn More</button>
-            </div>
+<section class="recent-work-section">
+  <h2>Recent Work</h2>
+
+  <div class="carousel-wrapper">
+    <button class="nav-btn" onclick="scrollCards(-1)">←</button>
+
+    <div class="carousel" id="carousel">
+      {recentWork.map((item) => (
+        <div class="card">
+          <h3>{item.title}</h3>
+
+          <p><strong>Creator:</strong> {item.creator}</p>
+          <p><strong>Type:</strong> {item.type}</p>
+          <p><strong>Time:</strong> {item.time}</p>
+          <p><strong>Class Size:</strong> {item.class_size}</p>
+
+          <a
+  class="learn-more-btn"
+  href={`/recent-work/${item.id}`}
+>
+
+            Learn more →
+          </a>
         </div>
+      ))}
     </div>
+
+    <button class="nav-btn" onclick="scrollCards(1)">→</button>
+  </div>
 </section>
 
+<script is:inline>
+  function scrollCards(direction) {
+    const container = document.getElementById("carousel");
+    const cardWidth = container.firstElementChild.offsetWidth + 32;
+    container.scrollBy({
+      left: direction * cardWidth * 4,
+      behavior: "smooth",
+    });
+  }
+</script>
+
 <style>
-	.recent-work-section {
-		padding: 5rem 2rem;
-		background: white;
-	}
+.recent-work-section {
+  padding: 4rem 2rem;
+}
 
-	.recent-work-container {
-		max-width: 1200px;
-		margin: 0 auto;
-	}
+.recent-work-section h2 {
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  position: relative;
+}
 
-	.recent-work-title {
-		font-size: 2.5rem;
-		font-weight: 600;
-		color: #1f2937;
-		text-align: center;
-		margin: 0 0 4rem 0;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		gap: 1rem;
-	}
+.recent-work-section h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #111;
+  margin: 0.75rem auto 0;
+  border-radius: 2px;
+}
 
-	.recent-work-grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 3rem;
-		margin-top: 3rem;
-	}
+/* Layout */
+.carousel-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
 
-	.work-card {
-		text-align: center;
-		padding: 2rem;
-		border: 1px solid #e5e7eb;
-		border-radius: 8px;
-		background: white;
-		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-		transition: all 0.3s ease;
-		display: flex;
-		flex-direction: column;
-		gap: 1rem;
-	}
+.carousel {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(260px, 1fr);
+  gap: 2rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  max-width: calc(4 * 280px + 3 * 2rem);
+}
 
-	.work-card:hover {
-		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
-		transform: translateY(-4px);
-		border-color: #3b82f6;
-	}
+/* Cards */
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+  display: flex;
+  flex-direction: column;
+}
 
-	.work-heading {
-		font-size: 1.25rem;
-		font-weight: 600;
-		color: #1f2937;
-		margin: 0;
-	}
+.card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
 
-	.work-time, .work-size {
-		font-size: 0.95rem;
-		color: #4b5563;
-		line-height: 1.7;
-		margin: 0;
-		flex-grow: 1;
-	}
+.card p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0.25rem 0;
+}
 
-	.learn-more-btn {
-		background: #3b82f6;
-		color: white;
-		border: none;
-		border-radius: 6px;
-		padding: 0.625rem 1.25rem;
-		font-size: 0.875rem;
-		font-weight: 500;
-		cursor: pointer;
-		transition: background 0.2s ease;
-		margin-top: auto;
-	}
+/* Button */
+.learn-more-btn {
+  margin-top: auto;
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: #111;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
 
-	.learn-more-btn:hover {
-		background: #2563eb;
-	}
+.learn-more-btn:hover {
+  background: #333;
+  transform: translateY(-1px);
+}
+
+/* Arrows */
+.nav-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.nav-btn:hover {
+  background: #f5f5f5;
+}
+
 </style>
