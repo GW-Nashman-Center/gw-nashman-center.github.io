@@ -1,0 +1,38 @@
+---
+import recentWork from "../../data/recent-work.json";
+
+export function getStaticPaths() {
+  return recentWork.map((item) => ({
+    params: { id: item.id }
+  }));
+}
+
+const { id } = Astro.params;
+
+const item = recentWork.find((w) => w.id === id);
+
+if (!item) {
+  throw new Error("Not found");
+}
+
+const Markdown = await import(item.path);
+---
+
+<main>
+  <h1>{item.title}</h1>
+
+  <p><strong>Creator:</strong> {item.creator}</p>
+  <p><strong>Type:</strong> {item.type}</p>
+
+  <hr />
+
+  <Markdown.default />
+</main>
+
+<style>
+  main {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+  }
+</style>
