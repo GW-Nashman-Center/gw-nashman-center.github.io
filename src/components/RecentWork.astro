@@ -15,13 +15,13 @@ import recentWork from "../data/recent-work.json";
 
           <p><strong>Creator:</strong> {item.creator}</p>
           <p><strong>Type:</strong> {item.type}</p>
-          <p><strong>Time:</strong> {item.time}</p>
-          <p><strong>Class Size:</strong> {item.class_size}</p>
+          <p><strong>Time:</strong> {item.time.length > 100 ? item.time.slice(0, 100) + " ..." : item.time}</p>
+          <p><strong>Class Size:</strong> {item.class_size.length > 100 ? item.class_size.slice(0, 100) + " ..." : item.class_size}</p>
 
           <a
-  class="learn-more-btn"
-  href={`/recent-work/${item.id}`}
->
+            class="learn-more-btn"
+            href={`/recent-work/${item.id}`}
+          >
 
             Learn more →
           </a>
@@ -37,8 +37,21 @@ import recentWork from "../data/recent-work.json";
   function scrollCards(direction) {
     const container = document.getElementById("carousel");
     const cardWidth = container.firstElementChild.offsetWidth + 32;
+    
+    // Determine how many cards to scroll based on screen width
+    let cardsToScroll = 4; // Extra large screens (default)
+    const screenWidth = window.innerWidth;
+    
+    if (screenWidth < 640) {
+      cardsToScroll = 1; // Small screens
+    } else if (screenWidth < 1024) {
+      cardsToScroll = 2; // Medium screens
+    } else if (screenWidth < 1440) {
+      cardsToScroll = 3; // Large screens
+    }
+    
     container.scrollBy({
-      left: direction * cardWidth * 4,
+      left: direction * cardWidth * cardsToScroll,
       behavior: "smooth",
     });
   }
@@ -81,7 +94,34 @@ import recentWork from "../data/recent-work.json";
   overflow-x: auto;
   overflow-y: hidden;
   scroll-behavior: smooth;
-  max-width: calc(4 * 280px + 3 * 2rem);
+  max-width: calc(1 * 280px); /* Small screens: 1 card */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.carousel::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+/* Medium screens: 2 cards */
+@media (min-width: 640px) {
+  .carousel {
+    max-width: calc(2 * 280px + 1 * 2rem);
+  }
+}
+
+/* Large screens: 3 cards */
+@media (min-width: 1024px) {
+  .carousel {
+    max-width: calc(3 * 280px + 2 * 2rem);
+  }
+}
+
+/* Extra large screens: 4 cards */
+@media (min-width: 1440px) {
+  .carousel {
+    max-width: calc(4 * 280px + 3 * 2rem);
+  }
 }
 
 /* Cards */
@@ -98,6 +138,12 @@ import recentWork from "../data/recent-work.json";
 .card h3 {
   font-size: 1.1rem;
   margin-bottom: 0.75rem;
+  min-height: 4.5rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card p {
@@ -110,6 +156,7 @@ import recentWork from "../data/recent-work.json";
 .learn-more-btn {
   margin-top: auto;
   display: inline-block;
+  text-align: center;
   padding: 10px 16px;
   border-radius: 999px;
   background: #111;
