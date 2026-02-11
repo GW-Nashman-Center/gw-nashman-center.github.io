@@ -37,21 +37,8 @@ import recentWork from "../data/recent-work.json";
   function scrollCards(direction) {
     const container = document.getElementById("carousel");
     const cardWidth = container.firstElementChild.offsetWidth + 32;
-    
-    // Determine how many cards to scroll based on screen width
-    let cardsToScroll = 4; // Extra large screens (default)
-    const screenWidth = window.innerWidth;
-    
-    if (screenWidth < 640) {
-      cardsToScroll = 1; // Small screens
-    } else if (screenWidth < 1024) {
-      cardsToScroll = 2; // Medium screens
-    } else if (screenWidth < 1440) {
-      cardsToScroll = 3; // Large screens
-    }
-    
     container.scrollBy({
-      left: direction * cardWidth * cardsToScroll,
+      left: direction * cardWidth * 4,
       behavior: "smooth",
     });
   }

@@ -1,6 +1,6 @@
 [
   {
-    "id": "1", 
+    "id": "1",
     "title": "Understanding government budget",
     "creator": "Lang (Kate) Yang, Associate Professor, Trachtenberg School",
     "type": "Activity",
@@ -46,15 +46,6 @@
   },
   {
     "id": "6",
-    "title": "DC Stories",
-    "creator": "Daphna Atias (Educational Developer, GW Center for Teaching Excellence)",
-    "type": "Activity",
-    "time": "Multiple sessions: 20 minutes to introduce during one class session, then homework, then 50 minutes in a subsequent class session",
-    "class_size": "Students work in small groups of 3-4. This activity will be used in a class of 18 but can easily scale up or down with changes in how students share out",
-    "path": "../../docs/Civic_Learning_Activity_Atias_DC_Stories.md"
-  },
-  {
-    "id": "7",
     "title": "Migrant Inclusion and Integration in Cities",
     "creator": "Elizabeth Chacko, Professor, Geography and Environment.",
     "type": "Assignment",
@@ -63,7 +54,7 @@
     "path": "../../docs/Civic_Learning_Assignment_Chacko_Migrants_in_Cities.md"
   },
   {
-    "id": "8",
+    "id": "7",
     "title": "How do corporations spend in politics?",
     "creator": "Thomas Choate, Teaching Assistant Professor, Strategic Management & Public Policy, GW School of Business",
     "type": "Research Task",
@@ -72,7 +63,7 @@
     "path": "../../docs/Civic_Learning_Activity_Choate_Corporation_Political_Spending.md"
   },
   {
-    "id": "9",
+    "id": "8",
     "title": "Gaining Practical Insights From Risk Analysis",
     "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
     "type": "Activity",
@@ -81,7 +72,7 @@
     "path": "../../docs/Civic_Learning_Activity_Guide_Haemer_Risk_Analysis.md"
   },
   {
-    "id": "10",
+    "id": "9",
     "title": "Haemer Risk Analysis Presentation Rubric",
     "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
     "type": "Presentation",
@@ -90,7 +81,7 @@
     "path": "../../docs/Haemer_Risk_Analysis_Presentation_Rubric.md"
   },
   {
-    "id": "11",
+    "id": "10",
     "title": "Probabilistic Risk Assessment (PRA) Activity",
     "creator": "Robert Budd Haemer, Adjunct Professor, GW Law School",
     "type": "Activity",
@@ -99,7 +90,7 @@
     "path": "../../docs/Haemer_Risk_Analysis_Student_Handout.md"
   },
   {
-    "id": "12",
+    "id": "11",
     "title": "Resiliency Shoebox",
     "creator": "Sandy Hoar, Assistant Clinical Professor, Physician Assistant Studies; Global Health",
     "type": "Group discussion",
@@ -108,7 +99,7 @@
     "path": "../../docs/Civic_Learning_Activity_Hoar_Resiliency_Shoebox.md"
   },
   {
-    "id": "13",
+    "id": "12",
     "title": "Constitution in Action: Connecting Founding Principles to Current Events",
     "creator": "Elizabeth L. Maurer, Instructor, Graduate School of Education and Human Development, Master’s in Museum Education program",
     "type": "Group discussion",
@@ -117,7 +108,7 @@
     "path": "../../docs/Civic_Learning_Activity_Maurer_Constitution_in_Action.md"
   },
   {
-    "id": "14",
+    "id": "13",
     "title": "Building Reading Skills and Scientific Thinking with the Article Hunt",
     "creator": "Jack Santucci, Professorial Lecturer, Political Science",
     "type": "Activity",
