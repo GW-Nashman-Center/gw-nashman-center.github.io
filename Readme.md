@@ -48,7 +48,9 @@ This site is deployed from the **main** branch. Any change merged or pushed to `
 ### FAQ
 
 1. The changes I made in local computer works, but doesnot reflect on deployment. Why is that?
-   Answer: The site only updates when changes are pushed/merged to the `main` branch and the GitHub Actions workflow finishes successfully. Make sure your commits are on `main`, the latest workflow run is green in **Actions**, and your browser cache is cleared (or hard refresh).
+
+Answer: The site only updates when changes are pushed/merged to the `main` branch and the GitHub Actions workflow finishes successfully. Make sure your commits are on `main`, the latest workflow run is green in **Actions**, and your browser cache is cleared (or hard refresh).
 
 2. The deployment process failed. What should I do?
-   Answer: Open the failed run in the **Actions** tab, review the error logs, and fix the issue (commonly build errors, missing files, or dependency problems). After fixing, push a new commit to `main` to trigger a fresh deployment. If it still fails, compare with the last successful run to spot what changed.
+
+Answer: Open the failed run in the **Actions** tab, review the error logs, and fix the issue (commonly build errors, missing files, or dependency problems). After fixing, push a new commit to `main` to trigger a fresh deployment. If it still fails, compare with the last successful run to spot what changed.
