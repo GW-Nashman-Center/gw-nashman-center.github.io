@@ -23,7 +23,7 @@ To know more about it, visit [Astro official documentation website](https://docs
 ### Deployment
 
 This site is deployed from the **main** branch. Any change merged or pushed to `main` triggers a GitHub Actions workflow that builds the Astro site and publishes it to **GitHub Pages**.
-![main-branch](image.png)
+![main-branch](/assets/main-branch.png)
 
 **How GitHub Actions works here:**
 
@@ -37,12 +37,12 @@ This site is deployed from the **main** branch. Any change merged or pushed to `
 
 - Go to the **Actions** tab in this repository on top section.
 - Open the latest workflow run on **Deploy Astro site to Pages** on the left side.
-  ![Actions section](image-1.png)
+  ![Actions section](/assets/actions.png)
 - If it shows a green checkmark, the deployment finished successfully.
-  ![green check](image-2.png)
+  ![green check](/assets/build-successful.png)
 - If it’s still running, the status will show **in progress**.
 - If it failed, you’ll see a red ❌ and can open the run to view logs.
-  ![red check](image-3.png)
+  ![red check](/assets/build-failed.png)
 - If it has failed, follow the FAQ section on how to solve it.
 
 ### FAQ
