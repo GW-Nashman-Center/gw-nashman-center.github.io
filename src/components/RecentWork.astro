@@ -38,7 +38,7 @@ import recentWork from "../data/recent-work.json";
     const container = document.getElementById("carousel");
     const cardWidth = container.firstElementChild.offsetWidth + 32;
     container.scrollBy({
-      left: direction * cardWidth * 4,
+      left: direction * cardWidth,
       behavior: "smooth",
     });
   }
@@ -70,6 +70,7 @@ import recentWork from "../data/recent-work.json";
 .carousel-wrapper {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 1rem;
 }
 
