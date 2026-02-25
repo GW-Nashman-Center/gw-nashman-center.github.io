@@ -45,6 +45,10 @@ This site is deployed from the **main** branch. Any change merged or pushed to `
   ![red check](/assets/build-failed.png)
 - If it has failed, follow the FAQ section on how to solve it.
 
+### Contribution guide for maintainers
+
+To know how you can add more documents, please read this [maintainers.md](maintainers.md) file.
+
 ### FAQ
 
 1. The changes I made in local computer works, but doesnot reflect on deployment. Why is that?
