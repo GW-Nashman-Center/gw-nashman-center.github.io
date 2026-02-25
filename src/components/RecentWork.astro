@@ -1,50 +1,17 @@
 ---
 import recentWork from "../data/recent-work.json";
+import RecentWorkIsland from "./RecentWorkIsland";
+const distinctTypes = [...new Set((recentWork.map((item) => item.type)))];
 ---
 
 <section class="recent-work-section">
   <h2>Recent Work</h2>
-
-  <div class="carousel-wrapper">
-    <button class="nav-btn" onclick="scrollCards(-1)">←</button>
-
-    <div class="carousel" id="carousel">
-      {recentWork.map((item) => (
-        <div class="card">
-          <h3>{item.title}</h3>
-
-          <p><strong>Creator:</strong> {item.creator}</p>
-          <p><strong>Type:</strong> {item.type}</p>
-          <p><strong>Time:</strong> {item.time.length > 100 ? item.time.slice(0, 100) + " ..." : item.time}</p>
-          <p><strong>Class Size:</strong> {item.class_size.length > 100 ? item.class_size.slice(0, 100) + " ..." : item.class_size}</p>
-
-          <a
-            class="learn-more-btn"
-            href={`/recent-work/${item.id}`}
-          >
-
-            Learn more →
-          </a>
-        </div>
-      ))}
-    </div>
-
-    <button class="nav-btn" onclick="scrollCards(1)">→</button>
-  </div>
+  <RecentWorkIsland client:load recentWork={recentWork} distinctTypes={distinctTypes} />
 </section>
 
-<script is:inline>
-  function scrollCards(direction) {
-    const container = document.getElementById("carousel");
-    const cardWidth = container.firstElementChild.offsetWidth + 32;
-    container.scrollBy({
-      left: direction * cardWidth,
-      behavior: "smooth",
-    });
-  }
-</script>
 
-<style>
+
+<style is:global>
 .recent-work-section {
   padding: 4rem 2rem;
 }
@@ -64,6 +31,53 @@ import recentWork from "../data/recent-work.json";
   background: #111;
   margin: 0.75rem auto 0;
   border-radius: 2px;
+}
+
+.filter-row{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 0 auto 1.5rem;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #111;
+}
+
+
+.type-select {
+  appearance : none;
+  border: 1px solid #d1d5db;
+  background: #fff;
+  color: #111;
+  border-radius: 999px;
+  padding: 0.55rem 2.25rem 0.55rem 0.9rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  background-image:
+    linear-gradient(45deg, transparent 50%, #111 50%),
+    linear-gradient(135deg, #111 50%, transparent 50%);
+  background-position:
+    calc(100% - 14px) calc(50% - 2px),
+    calc(100% - 9px)  calc(50% - 2px);
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+}
+
+
+.type-select:hover{
+  border-color: #9ca3af;
+}
+
+.type-select:focus {
+  outline:none;
+  border-color: #111;
+  box-shadow: 0 0 0 3px rgba(17,17,17,0.12);
 }
 
 /* Layout */
