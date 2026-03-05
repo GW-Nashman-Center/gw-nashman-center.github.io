@@ -14,6 +14,8 @@ Civic Learning Activity Guide
 
 **Class Size:** Students work in small groups of 3-4. This activity will be used in a class of 18 but can easily scale up or down with changes in how students share out
 
+Note: This is an additonal paragraph.
+
 *Note:* This lesson is designed for CCAS 1001, the first-year experience course required of all students entering GW’s Columbian College of Arts and Sciences. By this point in the semester, students have reflected on their own experiences leading up to college and viewed an exhibit on GW’s history. A new lesson in Fall 2025 invites students to situate themselves within the District rather than just the campus. The initial design of this lesson focused more on students’ own exploration—where they’ve gone so far, what they’d like to do. The goal of this civic-engagement-minded lesson plan is to get students thinking about how factors like race, gender, religion, socioeconomic status, disability, etc. affect people’s experiences of the city. Students’ exploration will begin with two tasks:
 
 * Gaining perspective by visiting the GW Museum’s exhibit on the history of transportation in DC (the exhibit largely focuses on pre-20th-century history)  
