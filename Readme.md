@@ -10,6 +10,10 @@ This GitHub organization is meant to hold Open Education Resources (OER) materia
 
 To know how you can add more documents, please read this [maintainers.md](maintainers.md) file.
 
+## Conversion from word to markdown link
+
+You can directly convert word document to markdown file using this link: https://word2md.com/
+
 ### Technology used in this website
 
 1. Astro - for building content rich website
