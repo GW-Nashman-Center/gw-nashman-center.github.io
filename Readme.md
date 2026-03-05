@@ -6,6 +6,10 @@ The Honey W. Nashman Center supports the diverse ways GW faculty and students co
 
 This GitHub organization is meant to hold Open Education Resources (OER) materials for civic learning.
 
+### Contribution guide for maintainers
+
+To know how you can add more documents, please read this [maintainers.md](maintainers.md) file.
+
 ### Technology used in this website
 
 1. Astro - for building content rich website
@@ -44,10 +48,6 @@ This site is deployed from the **main** branch. Any change merged or pushed to `
 - If it failed, you’ll see a red ❌ and can open the run to view logs.
   ![red check](/assets/build-failed.png)
 - If it has failed, follow the FAQ section on how to solve it.
-
-### Contribution guide for maintainers
-
-To know how you can add more documents, please read this [maintainers.md](maintainers.md) file.
 
 ### FAQ
 
